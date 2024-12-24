@@ -339,6 +339,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **FisherRF**: Active View Selection and Mapping with Radiance Fields Using Fisher Information, *ECCV, 2024*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_24)] [[Code](https://github.com/JiangWenPL/FisherRF)] [[Website](https://jiangwenpl.github.io/FisherRF/)]
 * **NARUTO**: Neural Active Reconstruction from Uncertain Target Observations, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2402.18771)] [[Code](https://github.com/oppo-us-research/NARUTO)] [[Website](https://oppo-us-research.github.io/NARUTO-website/)]
 * **SAFER-Splat**: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps, *arXiv, 2024*. [[Paper](https://www.arxiv.org/pdf/2409.09868)] [[Code](https://github.com/chengine/safer-splat)] [[Website](https://chengine.github.io/safer-splat/)]
+* **SOUS VIDE**: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.16346)] [[Website](https://stanfordmsl.github.io/SousVide/)]
+* **ActiveGS**: Active Scene Reconstruction using Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.17769)] [[Code](https://github.com/dmar-bonn/active-gs)]
 
 ### Localization
 
