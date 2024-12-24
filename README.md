@@ -177,7 +177,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **Uni-SLAM**: Uncertainty-Aware Neural Implicit SLAM for Real-Time Dense Indoor Scene Reconstruction, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.00242)] [[Website](https://shaoxiang777.github.io/project/uni-slam/)]
 * **iS-MAP**: Neural Implicit Mapping and Positioning for Structural Environments, *ACCV, 2024*. [[Paper](https://openaccess.thecvf.com/content/ACCV2024/papers/Wang_iS-MAP_Neural_Implicit_Mapping_and_Positioning_for_Structural_Environments_ACCV_2024_paper.pdf)]
 * Enhancing Neural Implicit Representation-Based SLAM Performance through Depth Image Smoothing Utilizing Gradient-Aware Depth, *ICCAS, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10773027)]
-
+- Query Quantized Neural SLAM, *AAAI, 2025*. [[Paper](https://arxiv.org/pdf/2412.16476)] [[Code](https://github.com/MachinePerceptionLab/QQ-SLAM)] [[Website](https://machineperceptionlab.github.io/QQ-SLAM-page/)]
 
 ---
 
