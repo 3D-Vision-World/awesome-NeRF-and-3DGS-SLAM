@@ -148,7 +148,6 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **S3-SLAM**: Sparse Tri-plane Encoding for Neural Implicit SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2404.18284)]
 * **DF-SLAM**: Neural Feature Rendering Based on Dictionary Factors Representation for High-Fidelity Dense Visual SLAM System, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2404.17876)] [[Code](https://github.com/funcdecl/DF-SLAM)]
 * Neural Graph Mapping for Dense SLAM with Efficient Loop Closure, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.03633)] [[Code](https://github.com/KTH-RPL/neural_graph_mapping)] [[Website](https://kth-rpl.github.io/neural_graph_mapping/)]
-* **MGS-SLAM**: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2405.06241)] [[Code](https://github.com/Z-Pengcheng/MGS-SLAM)]
 * **VPE-SLAM**: Neural Implicit Voxel-Permutohedral Encoding for SLAM, *ICRA, 2024*. [[Paper](todo)] [[Code](https://github.com/NeuCV-IRMI/VPE-SLAM)]
 * **ONeK-SLAM**: A Robust Object-Level Dense SLAM Based on Joint Neural Radiance Fields and Keypoints, *ICRA 2024*. [[Paper](todo)]
 * **HERO-SLAM**: Hybrid Enhanced Robust Optimization of Neural SLAM, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2407.18813)] [[Code](https://github.com/hero-slam/HERO-SLAM)] [[Website](https://hero-slam.github.io/)]
@@ -163,9 +162,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **TivNe-SLAM**: Dynamic Mapping and Tracking via Time-Varying Neural Radiance Fields,  *IROS, 2024*. [[Paper](https://arxiv.org/pdf/2310.18917v4)]
 * **NIS-SLAM**: Neural Implicit Semantic RGB-D SLAM for 3D Consistent Scene Understanding,  *TVCG, 2024*. [[Paper](https://arxiv.org/pdf/2407.20853)] [[Website](https://zju3dv.github.io/nis_slam/)]
 * **DDS-SLAM**: Dense Semantic Neural SLAM for Deforming Endoscopic Scenes, *IROS, 2024*. [Paper] [[Code](https://github.com/IRMVLab/DDS-SLAM)]
-* **FI-SLAM**: Feature Fusion and Instance Reconstruction for Neural Implicit SLAM,  *IROS, 2024*. [Paper] [Code]
+* **FI-SLAM**: Feature Fusion and Instance Reconstruction for Neural Implicit SLAM,  *IROS, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10802296)] [Code]
 * **LCP-Fusion**: A Neural Implicit SLAM with Enhanced Local Constraints and Computable Prior,  *IROS, 2024*. [[Paper](https://arxiv.org/pdf/2411.03610)] [[Code](https://github.com/laliwang/LCP-Fusion)]
-* **NF-SLAM**: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications, *IROS, 2024*. [Paper] [Code]
+* **NF-SLAM**: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications, *IROS, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10801421)] [Code]
 * **EvenNICER-SLAM**: Event-based Neural Implicit Encoding SLAM,  *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.03812)] [[Code](https://github.com/cs-vision/EvenNICER-SLAM)]
 * **NVINS**: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification, *IROS, 2024*. [[Paper](https://arxiv.org/pdf/2404.01400)]
 * Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.08780)]
@@ -261,7 +260,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GauSPU**: 3D Gaussian Splatting Processor for Real-Time SLAM Systems, *MICRO, 2024*. [[Paper](https://www.computer.org/csdl/proceedings-article/micro/2024/505700b562/22nirMP5znq)]
 * **RP-SLAM**: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.09868)]
 * **NFL-BA**: Improving Endoscopic SLA M with Near-Field Light Bundle Adjustment, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.13176)] [[Website](https://asdunnbe.github.io/NFL-BA/)]
-
+* **MGS-SLAM**: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2405.06241)] [[Code](https://github.com/Z-Pengcheng/MGS-SLAM)]
 
 
 
@@ -358,7 +357,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **MULAN-WC**: Multi-Robot Localization Uncertainty-aware Active NeRF with Wireless Coordination, *IROS, 2024*. [[Paper](https://arxiv.org/pdf/2403.13348)]
 * **VRS-NeRF**: Visual Relocalization with Sparse Neural Radiance Field, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2404.09271)] [[Code](https://github.com/feixue94/vrs-nerf)]
 * **NeRF-Loc**: Visual Localization with Conditional Neural Radiance Field, *ICRA, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10161420&casa_token=xvxGsiWymY0AAAAA:K21qxl7O2Uef-4Gfzqsu_TiA_2GE7EY5Q9iJyawRGZ8sWMKfsxTuANCC7pOcAByT45rS-XIk&tag=1)] [[Code](https://github.com/TencentYoutuResearch/NeRF-Loc)]
-* **WSCLoc**: Weakly-Supervised Sparse-View Camera Relocalization via Radiance Field, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.15272)]
+* **WSCLoc**: Weakly-Supervised Sparse-View Camera Relocalization via Radiance Field, *IROS, 2024*. [[Paper](https://arxiv.org/pdf/2403.15272)]
 * **CROSSFIRE**: Camera Relocalization On Self-Supervised Features from an Implicit Representation, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.15272)]
 * **GSplatLoc**: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.16502)] [[Website](https://gsplatloc.github.io/)] [[Code](https://github.com/haksorus/gsplatloc)]
 * **GSLoc**: Visual Localization with 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.06165)]
