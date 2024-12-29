@@ -369,7 +369,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 ### Re-localization
 
 * Camera Relocalization in Shadow-Free Neural Radiance Fields, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.14824)]
-* **3DGS-ReLoc**: 3D Gaussian Splatting for Map Representation and Visual ReLocalization, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Moreau_CROSSFIRE_Camera_Relocalization_On_Self-Supervised_Features_from_an_Implicit_Representation_ICCV_2023_paper.pdf)] 
+* **3DGS-ReLoc**: 3D Gaussian Splatting for Map Representation and Visual ReLocalization, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Moreau_CROSSFIRE_Camera_Relocalization_On_Self-Supervised_Features_from_an_Implicit_Representation_ICCV_2023_paper.pdf)]
+* **GauLoc**: 3D Gaussian Splatting-based Camera Relocalization, *Computer Graphics Forum, 2024*. [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15256)] [[Code](https://github.com/xinzhe11/GauLoc)]
 
 ### Reconstruction
 
