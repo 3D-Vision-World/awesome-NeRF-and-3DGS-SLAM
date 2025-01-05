@@ -275,7 +275,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **MM3DGS SLAM**: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements, *IROS, 2024*. [[Paper](https://arxiv.org/pdf/2404.00923.pdf)] [[Website](https://vita-group.github.io/MM3DGS-SLAM/)] [[Code](https://github.com/VITA-Group/MM3DGS-SLAM)]
 - **MM-Gaussian**: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes, *IROS, 2024*. [[Paper](https://arxiv.org/pdf/2404.04026.pdf)]
 - **Gaussian-LIC**: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2404.06926.pdf)]
-- **LI-GS**: Gaussian Splatting with LiDAR Incorporated for Accurate Large-Scale Reconstruction, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.12899)]
+- **LI-GS**: Gaussian Splatting with LiDAR Incorporated for Accurate Large-Scale Reconstruction, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.12899)] [[Website](https://changjianjiang01.github.io/LI-GS/)]
 - **GS-LIVM**: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.17084)] [[Code](https://github.com/xieyuser/GS-LIVM)]
 - **LVI-GS**: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.02703)] [[Code](https://github.com/arclab-hku/LVI-3DGS)] [[Website](https://kwanwaipang.github.io/LVI-GS/)]
 - **LiV-GS**: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.12185)]
