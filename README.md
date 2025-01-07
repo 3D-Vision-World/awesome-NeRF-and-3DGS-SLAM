@@ -1,8 +1,8 @@
 # awesome-NeRF-and-3DGS-SLAM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repo contains a curative list of **Implicit Representations and NeRF papers relating to SLAM/Robotics domain**, inspired by [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) <br>
+This repo contains a curative list of **NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain**, inspired by [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) <br>
 
-#### Please feel free to send me [pull requests](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM/blob/main/how-to-PR.md) or [email](mailto:lidong8421bcd@gmail.com) to add papers! <br>
+#### Please feel free to send me [pull requests](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM/pulls) or [email](mailto:lidong8421bcd@gmail.com) to add papers! <br>
 
 If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
 
@@ -83,6 +83,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 
 - **NeuralRecon**: Real-Time Coherent 3D Reconstruction from Monocular Video, *CVPR, 2021*.[[Paper](https://arxiv.org/pdf/2104.00681.pdf)] [[Pytorch Code](https://github.com/zju3dv/NeuralRecon/)] [[Website](https://zju3dv.github.io/neuralrecon/)]
 - **Di-fusion**: Online implicit 3d reconstruction with deep priors, *CVPR, 2021*.[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_DI-Fusion_Online_Implicit_3D_Reconstruction_With_Deep_Priors_CVPR_2021_paper.pdf)] [[Pytorch Code](https://github.com/huangjh-pub/di-fusion)] 
+
 * **iSDF**: Real-Time Neural Signed Distance Fields for Robot Perception, *RSS, 2022*. [[Paper](https://arxiv.org/abs/2204.02296)] [[Pytorch Code](https://github.com/facebookresearch/iSDF)] [[Website](https://joeaortiz.github.io/iSDF/)]
 * **LENS**: LENS: Localization enhanced by NeRF synthesis, *CoRL, 2021*. [[Paper](https://arxiv.org/abs/2110.06558)] [[Video](https://www.youtube.com/watch?v=DgIpVoS6ejY)] 
 * **NICE-SLAM**: Neural Implicit Scalable Encoding for SLAM, *CVPR, 2021*. [[Paper](https://arxiv.org/abs/2112.12130)] [[Pytorch Code](https://github.com/cvg/nice-slam)] [[Website](https://pengsongyou.github.io/nice-slam?utm_source=catalyzex.com)]
@@ -176,6 +177,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **Uni-SLAM**: Uncertainty-Aware Neural Implicit SLAM for Real-Time Dense Indoor Scene Reconstruction, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.00242)] [[Website](https://shaoxiang777.github.io/project/uni-slam/)]
 * **iS-MAP**: Neural Implicit Mapping and Positioning for Structural Environments, *ACCV, 2024*. [[Paper](https://openaccess.thecvf.com/content/ACCV2024/papers/Wang_iS-MAP_Neural_Implicit_Mapping_and_Positioning_for_Structural_Environments_ACCV_2024_paper.pdf)]
 * Enhancing Neural Implicit Representation-Based SLAM Performance through Depth Image Smoothing Utilizing Gradient-Aware Depth, *ICCAS, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10773027)]
+
 - Query Quantized Neural SLAM, *AAAI, 2025*. [[Paper](https://arxiv.org/pdf/2412.16476)] [[Code](https://github.com/MachinePerceptionLab/QQ-SLAM)] [[Website](https://machineperceptionlab.github.io/QQ-SLAM-page/)]
 - Hierarchical Pose Estimation and Mapping with Multi-scale Neural Feature Fields, *IRC, 2024*. [[Paper](https://arxiv.org/pdf/2412.20976)]
 
@@ -263,8 +265,6 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **NFL-BA**: Improving Endoscopic SLA M with Near-Field Light Bundle Adjustment, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.13176)] [[Website](https://asdunnbe.github.io/NFL-BA/)]
 * **MGS-SLAM**: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2405.06241)] [[Code](https://github.com/Z-Pengcheng/MGS-SLAM)]
 * **PanoSLAM**: Panoptic 3D Scene Reconstruction via Gaussian SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.00352)] [[Code](https://github.com/runnanchen/PanoSLAM)]
-
-
 
 ### 3D Gaussian Splatting Lidar-SLAM
 
@@ -387,9 +387,9 @@ If you find this repository useful, please consider citing this list:
 
 ```
 @misc{dong2022implicitnerfslampaperlist,
-    title = {awesome-Implicit-NeRF-SLAM},
+    title = {awesome-NeRF-and-3DGS-SLAM},
     author = {Dong Li},
-    howpublished = {\url{https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM}},
+    howpublished = {\url{https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM}},
     year = {2022},
     note = "[Online; accessed 08-December-2022]"
 }
