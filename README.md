@@ -177,9 +177,10 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **Uni-SLAM**: Uncertainty-Aware Neural Implicit SLAM for Real-Time Dense Indoor Scene Reconstruction, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.00242)] [[Website](https://shaoxiang777.github.io/project/uni-slam/)]
 * **iS-MAP**: Neural Implicit Mapping and Positioning for Structural Environments, *ACCV, 2024*. [[Paper](https://openaccess.thecvf.com/content/ACCV2024/papers/Wang_iS-MAP_Neural_Implicit_Mapping_and_Positioning_for_Structural_Environments_ACCV_2024_paper.pdf)]
 * Enhancing Neural Implicit Representation-Based SLAM Performance through Depth Image Smoothing Utilizing Gradient-Aware Depth, *ICCAS, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10773027)]
-
 - Query Quantized Neural SLAM, *AAAI, 2025*. [[Paper](https://arxiv.org/pdf/2412.16476)] [[Code](https://github.com/MachinePerceptionLab/QQ-SLAM)] [[Website](https://machineperceptionlab.github.io/QQ-SLAM-page/)]
 - Hierarchical Pose Estimation and Mapping with Multi-scale Neural Feature Fields, *IRC, 2024*. [[Paper](https://arxiv.org/pdf/2412.20976)]
+- **Mee-SLAM**: Memory efficient endoscopic RGB SLAM with implicit scene representation, *Expert Systems with Applications, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424031026)]
+- **Bayesian NeRF**: Quantifying Uncertainty with Volume Density for Neural Implicit Fields, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10829678)]
 
 ---
 
