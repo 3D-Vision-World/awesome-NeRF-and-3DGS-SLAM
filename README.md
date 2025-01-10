@@ -265,6 +265,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **NFL-BA**: Improving Endoscopic SLA M with Near-Field Light Bundle Adjustment, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.13176)] [[Website](https://asdunnbe.github.io/NFL-BA/)]
 * **MGS-SLAM**: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2405.06241)] [[Code](https://github.com/Z-Pengcheng/MGS-SLAM)]
 * **PanoSLAM**: Panoptic 3D Scene Reconstruction via Gaussian SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.00352)] [[Code](https://github.com/runnanchen/PanoSLAM)]
+* **Scaffold-SLAM**: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.05242)]
 
 ### 3D Gaussian Splatting Lidar-SLAM
 
