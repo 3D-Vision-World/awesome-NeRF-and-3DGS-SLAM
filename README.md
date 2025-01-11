@@ -199,6 +199,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.17729)]
 - Multi-Agent Neural SLAM for Autonomous Robots, *IROSw, 2024*. [[Paper](https://www.iros2024-cartin.com/papers/Multi-Agent_Neural_SLAM_for_Autonomous_Robots.pdf)]
 - A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.01725)] [[Code](https://github.com/mcdermatt/PLINK)]
+- **INF-SLiM:** Large-scale Implicit Neural Fields for Semantic LiDAR Mapping of Embodied AI Agents, *2025*. [[Paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/239179/preprint_pdf/4400aa6d316a08ded983c54dd487c85d.pdf)]
 
 ### Multimodal NeRF SLAM
 
