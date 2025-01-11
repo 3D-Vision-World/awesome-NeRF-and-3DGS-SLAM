@@ -181,6 +181,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Hierarchical Pose Estimation and Mapping with Multi-scale Neural Feature Fields, *IRC, 2024*. [[Paper](https://arxiv.org/pdf/2412.20976)]
 - **Mee-SLAM**: Memory efficient endoscopic RGB SLAM with implicit scene representation, *Expert Systems with Applications, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424031026)]
 - **Bayesian NeRF**: Quantifying Uncertainty with Volume Density for Neural Implicit Fields, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10829678)]
+- **SP-SLAM**: Neural Real-Time Dense SLAM With Scene Priors, *TCSVT, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10830563)]
 
 ---
 
