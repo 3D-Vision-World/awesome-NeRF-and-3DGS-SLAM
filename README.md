@@ -346,6 +346,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **SAFER-Splat**: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps, *arXiv, 2024*. [[Paper](https://www.arxiv.org/pdf/2409.09868)] [[Code](https://github.com/chengine/safer-splat)] [[Website](https://chengine.github.io/safer-splat/)]
 * **SOUS VIDE**: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.16346)] [[Website](https://stanfordmsl.github.io/SousVide/)]
 * **ActiveGS**: Active Scene Reconstruction using Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.17769)] [[Code](https://github.com/dmar-bonn/active-gs)]
+* **ActiveGAMER**: Active GAussian Mapping through Efficient Rendering, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.06897)]
 
 ### Localization
 
