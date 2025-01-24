@@ -273,6 +273,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **PanoSLAM**: Panoptic 3D Scene Reconstruction via Gaussian SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.00352)] [[Code](https://github.com/runnanchen/PanoSLAM)]
 * **Scaffold-SLAM**: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.05242)]
 * **VINGS-Mono**: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.08286)] [[Website](https://vings-mono.github.io/)]
+* **VIGS SLAM**: IMU-based Large-Scale 3D Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.13402)]
 
 ### 3D Gaussian Splatting Lidar-SLAM
 
