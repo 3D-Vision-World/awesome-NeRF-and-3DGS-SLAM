@@ -377,6 +377,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **SplatLoc**: 3D Gaussian Splatting-based Visual Localization for Augmented Reality, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.16502)] [[Website](https://zju3dv.github.io/splatloc/)] [[Code](https://github.com/zhaihongjia/SplatLoc)]
 * Multi-robot autonomous 3D reconstruction using Gaussian splatting with Semantic guidance, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.02249)]
 * **GSplatLoc** : Ultra-Precise Camera Localization via 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.20056)] [[Code](https://github.com/AtticusZeller/GsplatLoc)]
+* **GeomGS**: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.13417)] 
 
 
 ### Re-localization
