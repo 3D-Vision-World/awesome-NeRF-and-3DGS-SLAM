@@ -275,6 +275,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **VINGS-Mono**: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.08286)] [[Website](https://vings-mono.github.io/)]
 * **VIGS SLAM**: IMU-based Large-Scale 3D Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.13402)]
 * Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2501.19319)] [[Code](https://github.com/lastbasket/Endo-2DTAM)]
+* **GARAD-SLAM**: 3D GAussian splatting for Real-time Anti Dynamic SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2502.03228)]
 
 ### 3D Gaussian Splatting Lidar-SLAM
 
@@ -392,6 +393,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 ### Reconstruction
 
 * **Language-Embedded Gaussian Splats (LEGS)**: Incrementally Building Room-Scale Representations with a Mobile Robot, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.18108)] [[Website](https://berkeleyautomation.github.io/LEGS/)]
+* **SiLVR**: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.02657)]
+
 
 ----
 
