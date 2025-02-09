@@ -244,7 +244,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2408.12677)] [[Code](https://github.com/goldoak/GSFusion)] [[Website](https://gs-fusion.github.io/)]
 * **OG-Mapping**: Octree-based Structured 3D Gaussians for Online Dense Mapping, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.17223)]
 * **UDGS-SLAM**: UniDepth Assisted Gaussian Splatting for Monocular SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.00362)]
-* **GEVO**: Memory-Efficient Monocular Visual Odometry Using Gaussians, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.09295)] [[Code](https://github.com/mit-lean/gevo)]
+* **GEVO**: Memory-Efficient Monocular Visual Odometry Using Gaussians, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2409.09295)] [[Code](https://github.com/mit-lean/gevo)]
 * **GLC-SLAM**: Gaussian Splatting SLAM with Efficient Loop Closure, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.10982)]
 * **Hi-SLAM**: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2409.12518)]
 * **MGSO**: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.13055)]
