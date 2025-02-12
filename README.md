@@ -54,6 +54,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * 3D Gaussian Splatting for Real-Time Radiance Field Rendering, *SIGGRAPH, 2023*. [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)] [[Website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)]
 * 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, *SIGGRAPH, 2024*. [[Paper](https://arxiv.org/pdf/2403.17888)] [[Website](https://surfsplatting.github.io/)]  [[Code](https://github.com/hbb1/2d-gaussian-splatting)]
 * **Mip-splatting**: Alias-free 3d gaussian splatting, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Mip-Splatting_Alias-free_3D_Gaussian_Splatting_CVPR_2024_paper.pdf)] [[Website](https://niujinshuchong.github.io/mip-splatting/)]  [[Code](https://github.com/autonomousvision/mip-splatting)]
+* **Ever**: Exact volumetric ellipsoid rendering for real-time view synthesis, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.01804)] [[Website](https://half-potato.gitlab.io/posts/ever/)]  [[Code](https://github.com/half-potato/ever_training)]
 
 ## Survey Paper
 
