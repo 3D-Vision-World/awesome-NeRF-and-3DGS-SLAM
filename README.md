@@ -324,6 +324,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **Local Neural Descriptor Fields**: Locally Conditioned Object Representations for Manipulation, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2302.03573.pdf)] [[Code](https://github.com/elchun/lndf_robot)] [[Website](https://elchun.github.io/lndf/)]
 * **Equivariant Descriptor Fields**: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning, *ICLR, 2023*. [[Paper](https://openreview.net/forum?id=dnjZSPGmY5O)] [[Code](https://github.com/tomato1mule/edf)]
 * **SIREN**: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.06519)]
+* **TranSplat**: Surface Embedding-guided 3D Gaussian Splatting for Transparent Object Manipulation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.07840)] [[Code](https://github.com/jeongyun0609/TranSplat)]
 
 ---
 
