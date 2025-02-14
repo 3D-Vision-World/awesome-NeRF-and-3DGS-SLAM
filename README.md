@@ -277,6 +277,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **VIGS SLAM**: IMU-based Large-Scale 3D Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.13402)]
 * Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2501.19319)] [[Code](https://github.com/lastbasket/Endo-2DTAM)]
 * **GARAD-SLAM**: 3D GAussian splatting for Real-time Anti Dynamic SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2502.03228)]
+* **DenseSplat**: Densifying Gaussian Splatting SLAM with Neural Radiance Prior, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.09111)]
 
 ### 3D Gaussian Splatting Lidar-SLAM
 
