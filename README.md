@@ -136,7 +136,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **Structerf-SLAM**: Neural implicit representation SLAM for structural environments, *Computers & Graphics, 2024*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0097849324000207)]
 * **Loopy-SLAM**: Dense Neural SLAM with Loop Closures, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liso_Loopy-SLAM_Dense_Neural_SLAM_with_Loop_Closures_CVPR_2024_paper.pdf)] [[Code](https://github.com/eriksandstroem/Loopy-SLAM)] [[Website](https://notchla.github.io/Loopy-SLAM/)]
 * **Q-SLAM**: Quadric Representations for Monocular SLAM, *CoRL, 2024*. [[Paper](https://arxiv.org/pdf/2403.08125.pdf)]
-* **DVN-SLAM**: Dynamic Visual Neural SLAM Based on Local-Global Encoding, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.11776.pdf)]
+* **DVN-SLAM**: Dynamic Visual Neural SLAM Based on Local-Global Encoding, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2403.11776.pdf)]
 * **H3-Mapping**: Quasi-Heterogeneous Feature Grids for Real-time Dense Mapping Using Hierarchical Hybrid Representation, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2403.10821.pdf)] [[Code](https://github.com/SYSU-STAR/H3-Mapping)]
 * **Vox-Fusion++**: Voxel-based Neural Implicit Dense Tracking and Mapping with Multi-maps, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.12536.pdf)] [[Code](https://github.com/zju3dv/Vox-Fusion_Plus_Plus)]
 * **MUTE-SLAM**: Real-Time Neural SLAM with Multiple Tri-Plane Hash Representations, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.17765.pdf)]
