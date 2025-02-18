@@ -279,6 +279,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GARAD-SLAM**: 3D GAussian splatting for Real-time Anti Dynamic SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2502.03228)]
 * **DenseSplat**: Densifying Gaussian Splatting SLAM with Neural Radiance Prior, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.09111)]
 * **DyGS-SLAM**: Realistic Map Reconstruction in Dynamic Scenes Based on Double-Constrained Visual SLAM, *Remote Sensing, 2025*. [[Paper](https://www.mdpi.com/2072-4292/17/4/625)]
+* **GS-GVINS**: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.10975)]
 
 ### 3D Gaussian Splatting Lidar-SLAM
 
