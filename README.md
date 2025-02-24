@@ -284,6 +284,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **DyGS-SLAM**: Realistic Map Reconstruction in Dynamic Scenes Based on Double-Constrained Visual SLAM, *Remote Sensing, 2025*. [[Paper](https://www.mdpi.com/2072-4292/17/4/625)]
 * **GS-GVINS**: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.10975)]
 * **Hier-SLAM++**: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.14931)]
+* RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2502.15633)] [[Website](https://3dagentworld.github.io/opengs-slam/)]
 
 ### 3D Gaussian Splatting Lidar-SLAM
 
