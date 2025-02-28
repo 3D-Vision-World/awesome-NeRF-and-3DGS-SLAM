@@ -313,6 +313,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 
 - **MAC-Ego3D**: Multi-Agent Gaussian Consensus for Real-Time Collaborative Ego-Motion and Photorealistic 3D Reconstruction, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.09723)] [[Code](https://github.com/Xiaohao-Xu/MAC-Ego3D)]
 - **HAMMER**: Heterogeneous, Multi-Robot Semantic Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.14147)] [[Website](https://hammer-project.github.io/)]
+- **RAMEN**: Real-time Asynchronous Multi-agent Neural Implicit Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.19592)]
 
 ### Manipulation/RL
 
