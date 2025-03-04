@@ -188,6 +188,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **HI-SLAM**: Hierarchical implicit neural representation for SLAM, *Expert Systems with Applications, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425001095)]
 - **FND-SLAM**: A SLAM system using feature points and NeRF in dynamic environments based on RGB-D sensors, *Sensors, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425001095)]
 - **DMN-SLAM**: Multi-MLPs Neural Implicit Representation SLAM for Dynamic Environments, *Access, 2025*. [[Paper](https://ieeexplore.ieee.org/document/10879339/)]
+- Category-level Meta-learned NeRF Priors for Efficient Object Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.01582)]
 
 ---
 
