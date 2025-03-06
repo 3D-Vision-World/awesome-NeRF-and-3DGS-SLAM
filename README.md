@@ -254,7 +254,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **Hi-SLAM**: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2409.12518)] [[Code](https://github.com/LeeBY68/Hier-SLAM)]
 * **MGSO**: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.13055)]
 * **Go-SLAM**: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.16944)]
-* **CaRtGS**: Computational Alignment for Real-Time Gaussian Splatting SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.00486)] [[Code](https://github.com/DapengFeng/cartgs)] [[Website](https://dapengfeng.github.io/cartgs/)]
+* **CaRtGS**: Computational Alignment for Real-Time Gaussian Splatting SLAM, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2410.00486)] [[Code](https://github.com/DapengFeng/cartgs)] [[Website](https://dapengfeng.github.io/cartgs/)]
 * Robust Gaussian Splatting SLAM by Leveraging Loop Closure, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20111)]
 * **ES-Gaussian**: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.06613)] [[Website](https://chenlu-china.github.io/ES-Gaussian/)] [[Code](https://github.com/ChenLu-china/ESGaussian)]
 * **GS-EVT**: Cross-Modal Event Camera Tracking based on Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.19228)]
