@@ -375,6 +375,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **SOUS VIDE**: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.16346)] [[Website](https://stanfordmsl.github.io/SousVide/)]
 * **ActiveGS**: Active Scene Reconstruction using Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.17769)] [[Code](https://github.com/dmar-bonn/active-gs)]
 * **ActiveGAMER**: Active GAussian Mapping through Efficient Rendering, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.06897)]
+* **GSplatVNM**: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.05152)]
 
 ### Localization
 
