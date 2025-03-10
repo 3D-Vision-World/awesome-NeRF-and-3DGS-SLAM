@@ -416,8 +416,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **Language-Embedded Gaussian Splats (LEGS)**: Incrementally Building Room-Scale Representations with a Mobile Robot, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.18108)] [[Website](https://berkeleyautomation.github.io/LEGS/)]
 * **SiLVR**: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.02657)]
 * **DynamicGSG**: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.15309)]
-* **DQO-MAP**: Dual Quadrics Multi-Object mapping with Gaussian Splatting, *arXuv, 2025*. [[Paper](https://arxiv.org/pdf/2503.02223)]
-
+* **DQO-MAP**: Dual Quadrics Multi-Object mapping with Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.02223)]
+* LiDAR-enhanced 3D Gaussian Splatting Mapping, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.05425)]
 
 ----
 
