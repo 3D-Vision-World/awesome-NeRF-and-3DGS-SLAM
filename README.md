@@ -404,7 +404,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GeomGS**: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.13417)]
 * 3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.13803)]
 * **GS-EVT**: Cross-Modal Event Camera Tracking based on Gaussian Splatting, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2409.19228v1)] [[Code](https://github.com/ChillTerry/GS-EVT)]
-
+* **NeuraLoc**: Visual Localization in Neural Implicit Map with Dual Complementary Features, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.06117)]
 
 ### Re-localization
 
