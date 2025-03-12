@@ -190,6 +190,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **DMN-SLAM**: Multi-MLPs Neural Implicit Representation SLAM for Dynamic Environments, *Access, 2025*. [[Paper](https://ieeexplore.ieee.org/document/10879339/)]
 - Category-level Meta-learned NeRF Priors for Efficient Object Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.01582)]
 - **Proud-SLAM**: Neural Point-based Hybrid RGBD Monocular Dense SLAM, *ICASSP, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10888965)]
+- **NeRF-VIO**: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.07952)]
 
 ---
 
