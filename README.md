@@ -291,6 +291,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **FGS-SLAM**: Fourier-based Gaussian Splatting for Real-time SLAM with Sparse and Dense Map Fusion, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.01109)]
 * OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.01646)] [[Website](https://young-bit.github.io/opengs-github.github.io/)]
 * Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.03373)]
+* **GigaSLAM**: Large-Scale Monocular SLAM with Hierachical Gaussian Splats, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.03373)] [[Code](https://github.com/DengKaiCQ/GigaSLAM)]
 
 ### 3D Gaussian Splatting Lidar-SLAM
 
