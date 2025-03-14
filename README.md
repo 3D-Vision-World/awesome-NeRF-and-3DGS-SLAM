@@ -423,6 +423,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **DynamicGSG**: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.15309)]
 * **DQO-MAP**: Dual Quadrics Multi-Object mapping with Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.02223)]
 * LiDAR-enhanced 3D Gaussian Splatting Mapping, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.05425)]
+* **GS-SDF**: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.10170)] [[Code](https://github.com/hku-mars/GS-SDF)]
 
 ----
 
