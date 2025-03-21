@@ -211,6 +211,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.01725)] [[Code](https://github.com/mcdermatt/PLINK)]
 - **INF-SLiM**: Large-scale Implicit Neural Fields for Semantic LiDAR Mapping of Embodied AI Agents, *2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10845055)]
 - **CLID-SLAM**: A Coupled LiDAR-Inertial Neural Implicit Dense SLAM with Region-Specifc SDF Estimation, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10884955/authors#authors)] [[Code](https://github.com/DUTRobot/CLID-SLAM)]
+- **S2KAN-SLAM**: Elastic Neural LiDAR SLAM with SDF Submaps and Kolmogorov-Arnold Networks, *TCSVT, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10925395)]
 
 ### Multimodal NeRF SLAM
 
@@ -295,8 +296,6 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **DynaGSLAM**: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.11979)] [[Website](https://blarklee.github.io/dynagslam/)] [[Code](https://github.com/BlarkLee/DynaGSLAM_official)]
 * Deblur Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.12572)]
 * **GG-SLAM**: An Object-Level SLAM System Using Gaussian Grouping and Splatting, *Journal of Korea Robotics Society, 2025*. [[Paper](https://jkros.org/xml/44009/44009.pdf)]
-
-### 3D Gaussian Splatting Lidar-SLAM
 
 ### Multimodal 3D Gaussian Splatting SLAM
 
