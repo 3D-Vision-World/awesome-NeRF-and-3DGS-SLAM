@@ -427,6 +427,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * LiDAR-enhanced 3D Gaussian Splatting Mapping, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.05425)]
 * **GS-SDF**: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.10170)] [[Code](https://github.com/hku-mars/GS-SDF)]
 
+#  Calibration
+* Robust LiDAR-Camera Calibration with 2D Gaussian Splatting, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10933576/)] 
+
 ----
 
 ## Citation
