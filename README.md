@@ -221,9 +221,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.05310)] [[Code](https://github.com/hku-mars/M2Mapping)]
 - Monocular thermal SLAM with neural radiance fields for 3D scene reconstruction, *Neurocomputing, 2024*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224018125)]
 
-## 3DGS SLAM
+## GS SLAM
 
-### 3D Gaussian Splatting Visual-SLAM
+### Visual-based Gaussian Splatting SLAM
 
 * **GS-SLAM**: Dense Visual SLAM with 3D Gaussian Splatting, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2311.11700.pdf)] [[Code](https://github.com/yanchi-3dv/diff-gaussian-rasterization-for-gsslam)]
 * **Photo-SLAM**: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2311.16728.pdf)] [[Code](https://github.com/HuajianUP/Photo-SLAM)]
@@ -298,7 +298,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GG-SLAM**: An Object-Level SLAM System Using Gaussian Grouping and Splatting, *Journal of Korea Robotics Society, 2025*. [[Paper](https://jkros.org/xml/44009/44009.pdf)]
 * 4D Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.16710)] [[Code](https://github.com/yanyan-li/4DGS-SLAM)]
 
-### Multimodal 3D Gaussian Splatting SLAM
+### Multimodal Gaussian Splatting SLAM
 
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
 - **HGS-Mapping**: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2403.20159.pdf)]
@@ -314,6 +314,10 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **TLS-SLAM:** Gaussian Splatting SLAM Tailored for Large-Scale Scenes, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10858386/)]
 - **PINGS**: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.05752)] [[Code](https://github.com/PRBonn/PINGS)]
 - G2-Mapping: General Gaussian Mapping for Monocular, RGB-D, and LiDAR-Inertial-Visual Systems, *TASE, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10884537)]
+
+### LiDAR-based Gaussian Splatting SLAM
+
+- **Splat-LOAM**: Gaussian Splatting LiDAR Odometry and Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.17491)] [[Code](https://github.com/rvp-group/Splat-LOAM)]
 
 ---
 
