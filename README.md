@@ -299,6 +299,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * 4D Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.16710)] [[Code](https://github.com/yanyan-li/4DGS-SLAM)]
 * **GI-SLAM**: Gaussian-Inertial SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.18275)]
 * **HS-SLAM**: Hybrid Representation with Structural Supervision for Improved Dense SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.21778)] [[Website](https://zorangong.github.io/HS-SLAM/)]
+* **STAMICS**: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.21425)]
+
 
 ### Multimodal Gaussian Splatting SLAM
 
