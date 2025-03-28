@@ -298,6 +298,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GG-SLAM**: An Object-Level SLAM System Using Gaussian Grouping and Splatting, *Journal of Korea Robotics Society, 2025*. [[Paper](https://jkros.org/xml/44009/44009.pdf)]
 * 4D Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.16710)] [[Code](https://github.com/yanyan-li/4DGS-SLAM)]
 * **GI-SLAM**: Gaussian-Inertial SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.18275)]
+* **HS-SLAM**: Hybrid Representation with Structural Supervision for Improved Dense SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.21778)] [[Website](https://zorangong.github.io/HS-SLAM/)]
 
 ### Multimodal Gaussian Splatting SLAM
 
