@@ -63,7 +63,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Neural Fields in Robotics: A Survey, *arXiv, 2024*. [[Paper](https://arxiv.org/abs/2410.20220)] [[Website](https://robonerf.github.io/survey/index.html)] [[Code](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)]
 - NeRF in Robotics: A Survey, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.01333)]
 - 3D Gaussian Splatting in Robotics: A Survey, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.12262) [[Code](https://github.com/zstsandy/Awesome-3D-Gaussian-Splatting-in-Robotics)]
-- 结合隐式建图的视觉 SLAM 技术综述, *计算机辅助设计与图形学学报, 2025*. [[Paper](https://www.jcad.cn/cn/article/pdf/preview/10.3724/SP.J.1089.2024-00269.pdf)
+- 结合隐式建图的视觉 SLAM 技术综述, *计算机辅助设计与图形学学报, 2025*. [[Paper](https://www.jcad.cn/cn/article/pdf/preview/10.3724/SP.J.1089.2024-00269.pdf)]
 
 ## Benchmarks
 
@@ -191,6 +191,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Category-level Meta-learned NeRF Priors for Efficient Object Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.01582)]
 - **Proud-SLAM**: Neural Point-based Hybrid RGBD Monocular Dense SLAM, *ICASSP, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10888965)]
 - **NeRF-VIO**: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.07952)]
+- **HS-SLAM**: Hybrid Representation with Structural Supervision for Improved Dense SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.21778)] [[Website](https://zorangong.github.io/HS-SLAM/)]
 
 ---
 
@@ -298,7 +299,6 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GG-SLAM**: An Object-Level SLAM System Using Gaussian Grouping and Splatting, *Journal of Korea Robotics Society, 2025*. [[Paper](https://jkros.org/xml/44009/44009.pdf)]
 * 4D Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.16710)] [[Code](https://github.com/yanyan-li/4DGS-SLAM)]
 * **GI-SLAM**: Gaussian-Inertial SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.18275)]
-* **HS-SLAM**: Hybrid Representation with Structural Supervision for Improved Dense SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.21778)] [[Website](https://zorangong.github.io/HS-SLAM/)]
 * **STAMICS**: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.21425)]
 
 
@@ -391,6 +391,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **ActiveGAMER**: Active GAussian Mapping through Efficient Rendering, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.06897)]
 * **GSplatVNM**: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.05152)]
 * **POp-GS**: Next Best View in 3D-Gaussian Splatting with P-Optimality, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.07819)]
+* UAV-Based Large-Scale Active Mapping with Implicit Neural Representations, *ICPECA, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10928742)]
 
 ### Localization
 
