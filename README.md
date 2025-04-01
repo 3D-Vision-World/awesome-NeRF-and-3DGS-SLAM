@@ -420,6 +420,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * 3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.13803)]
 * **GS-EVT**: Cross-Modal Event Camera Tracking based on Gaussian Splatting, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2409.19228v1)] [[Code](https://github.com/ChillTerry/GS-EVT)]
 * **NeuraLoc**: Visual Localization in Neural Implicit Map with Dual Complementary Features, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.06117)]
+* Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.23480)] [[Code](https://arxiv.org/pdf/2503.23480)]
 
 ### Re-localization
 
