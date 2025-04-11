@@ -270,7 +270,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **OVO-SLAM**: Open-Vocabulary Online Simultaneous Localization and Mapping, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.15043)]
 * **Gassidy**: Gaussian Splatting SLAM in Dynamic Environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.15476)]
 * **PG-SLAM**: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.15800)]
-* **MAGiC-SLAM**: Multi-Agent Gaussian Globally Consistent SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.16785)] [[Website](https://vladimiryugay.github.io/magic_slam/)] [[Code](https://github.com/VladimirYugay/MAGiC-SLAM)]
+* **MAGiC-SLAM**: Multi-Agent Gaussian Globally Consistent SLAM, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2411.16785)] [[Website](https://vladimiryugay.github.io/magic_slam/)] [[Code](https://github.com/VladimirYugay/MAGiC-SLAM)]
 * **DROID-Splat**: Combining end-to-end SLAM with 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.17660)] [[Code](https://github.com/ChenHoy/DROID-Splat)]
 * **HI-SLAM2**: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.17982)] [[Website](https://hi-slam2.github.io/)] [[Code](https://github.com/Willyzw/HI-SLAM2)]
 * **FlashSLAM**: Accelerated RGB-D SLAM for Real-Time 3D Scene Reconstruction with Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.00682)] [[Website](https://flashslam.github.io/)]
