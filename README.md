@@ -274,7 +274,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **DROID-Splat**: Combining end-to-end SLAM with 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.17660)] [[Code](https://github.com/ChenHoy/DROID-Splat)]
 * **HI-SLAM2**: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.17982)] [[Website](https://hi-slam2.github.io/)] [[Code](https://github.com/Willyzw/HI-SLAM2)]
 * **FlashSLAM**: Accelerated RGB-D SLAM for Real-Time 3D Scene Reconstruction with Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.00682)] [[Website](https://flashslam.github.io/)]
-* **RGBDS-SLAM**: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.01217)] [[Code](https://github.com/zhenzhongcao/RGBDS-SLAM)]
+* **RGBDS-SLAM**: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2412.01217)] [[Code](https://github.com/zhenzhongcao/RGBDS-SLAM)]
 * **GauSPU**: 3D Gaussian Splatting Processor for Real-Time SLAM Systems, *MICRO, 2024*. [[Paper](https://www.computer.org/csdl/proceedings-article/micro/2024/505700b562/22nirMP5znq)]
 * **RP-SLAM**: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.09868)]
 * **NFL-BA**: Improving Endoscopic SLA M with Near-Field Light Bundle Adjustment, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.13176)] [[Website](https://asdunnbe.github.io/NFL-BA/)]
