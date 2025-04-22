@@ -256,7 +256,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **UDGS-SLAM**: UniDepth Assisted Gaussian Splatting for Monocular SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.00362)]
 * **GEVO**: Memory-Efficient Monocular Visual Odometry Using Gaussians, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2409.09295)] [[Code](https://github.com/mit-lean/gevo)]
 * **GLC-SLAM**: Gaussian Splatting SLAM with Efficient Loop Closure, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.10982)]
-* **Hi-SLAM**: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2409.12518)] [[Code](https://github.com/LeeBY68/Hier-SLAM)]
+* **Hier-SLAM:**: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2409.12518)] [[Code](https://github.com/LeeBY68/Hier-SLAM)]
 * **MGSO**: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2409.13055)]
 * **Go-SLAM**: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.16944)]
 * **CaRtGS**: Computational Alignment for Real-Time Gaussian Splatting SLAM, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2410.00486)] [[Code](https://github.com/DapengFeng/cartgs)] [[Website](https://dapengfeng.github.io/cartgs/)]
