@@ -310,6 +310,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **SAP-SLAM**: Semantic-Assisted Perception SLAM with 3D Gaussian Splatting, *ICRA, 2025*. [[Paper-todo]]
 * **Dy3DGS-SLAM**: Monocular 3DGS-SLAM System for Dynamic Environments, *ICRA, 2025*. [[Paper-todo]]
 * **ODHSR**: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2504.13167)] [[Code](https://github.com/eth-ait/ODHSR)] [[Website](https://eth-ait.github.io/ODHSR/)]
+* **SDD-SLAM**: Semantic-Driven Dynamic SLAM with Gaussian Splatting, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10966164)]
 
 ### Multimodal Gaussian Splatting SLAM
 
