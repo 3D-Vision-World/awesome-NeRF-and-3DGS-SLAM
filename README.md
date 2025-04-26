@@ -312,6 +312,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **ODHSR**: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2504.13167)] [[Code](https://github.com/eth-ait/ODHSR)] [[Website](https://eth-ait.github.io/ODHSR/)]
 * **SDD-SLAM**: Semantic-Driven Dynamic SLAM with Gaussian Splatting, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10966164)]
 * **ToF-Splatting**: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2504.16545)]
+* Enhancing Gaussian Splatting SLAM with Feature-based Tracking, *arXiv, 2025*. [[Paper](https://lamor.fer.hr/images/50050805/gsslam.pdf)]
 
 ### Multimodal Gaussian Splatting SLAM
 
