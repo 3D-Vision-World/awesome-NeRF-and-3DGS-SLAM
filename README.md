@@ -313,6 +313,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **SDD-SLAM**: Semantic-Driven Dynamic SLAM with Gaussian Splatting, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10966164)]
 * **ToF-Splatting**: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2504.16545)]
 * Enhancing Gaussian Splatting SLAM with Feature-based Tracking, *arXiv, 2025*. [[Paper](https://lamor.fer.hr/images/50050805/gsslam.pdf)]
+* **GSFF-SLAM**: 3D Semantic Gaussian Splatting SLAM via Feature Field, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2504.19409)]
 
 ### Multimodal Gaussian Splatting SLAM
 
