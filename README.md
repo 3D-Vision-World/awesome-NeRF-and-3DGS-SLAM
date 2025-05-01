@@ -406,6 +406,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GSplatVNM**: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.05152)]
 * **POp-GS**: Next Best View in 3D-Gaussian Splatting with P-Optimality, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.07819)]
 * UAV-Based Large-Scale Active Mapping with Implicit Neural Representations, *ICPECA, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10928742)]
+* **GauSS-MI**: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2504.21067)] [[Code](https://github.com/JohannaXie/GauSS-MI)]
 
 ### Localization
 
