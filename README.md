@@ -214,6 +214,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **INF-SLiM**: Large-scale Implicit Neural Fields for Semantic LiDAR Mapping of Embodied AI Agents, *2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10845055)]
 - **CLID-SLAM**: A Coupled LiDAR-Inertial Neural Implicit Dense SLAM with Region-Specifc SDF Estimation, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10884955/authors#authors)] [[Code](https://github.com/DUTRobot/CLID-SLAM)]
 - **S2KAN-SLAM**: Elastic Neural LiDAR SLAM with SDF Submaps and Kolmogorov-Arnold Networks, *TCSVT, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10925395)]
+- A Probabilistic Formulation of LiDAR Mapping With Neural Radiance Fields, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10947591)] [[Code](https://github.com/mcdermatt/PLINK)]
 
 ### Multimodal NeRF SLAM
 
@@ -430,7 +431,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GSLoc**: Visual Localization with 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.06165)]
 * **LoGS**: Visual Localization via Gaussian Splatting with Fewer Training Images, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.11505)] [[Code](https://github.com/YuzhouCheng66/LoGS-experiment)]
 * **SplatLoc**: 3D Gaussian Splatting-based Visual Localization for Augmented Reality, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.16502)] [[Website](https://zju3dv.github.io/splatloc/)] [[Code](https://github.com/zhaihongjia/SplatLoc)]
-* Multi-robot autonomous 3D reconstruction using Gaussian splatting with Semantic guidance, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.02249)]
+* Multi-robot autonomous 3D reconstruction using Gaussian splatting with Semantic guidance, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2412.02249)]
 * **GSplatLoc** : Ultra-Precise Camera Localization via 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.20056)] [[Code](https://github.com/AtticusZeller/GsplatLoc)]
 * **GeomGS**: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.13417)]
 * 3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.13803)]
