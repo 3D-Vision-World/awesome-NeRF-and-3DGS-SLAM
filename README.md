@@ -215,6 +215,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **CLID-SLAM**: A Coupled LiDAR-Inertial Neural Implicit Dense SLAM with Region-Specifc SDF Estimation, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10884955/authors#authors)] [[Code](https://github.com/DUTRobot/CLID-SLAM)]
 - **S2KAN-SLAM**: Elastic Neural LiDAR SLAM with SDF Submaps and Kolmogorov-Arnold Networks, *TCSVT, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10925395)]
 - A Probabilistic Formulation of LiDAR Mapping With Neural Radiance Fields, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10947591)] [[Code](https://github.com/mcdermatt/PLINK)]
+- Accurate and Efficient LiDAR SLAM by Learning Unified Neural Descriptors, *Access, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10982267/)] 
 
 ### Multimodal NeRF SLAM
 
