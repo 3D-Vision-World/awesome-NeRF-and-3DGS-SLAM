@@ -317,6 +317,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Enhancing Gaussian Splatting SLAM with Feature-based Tracking, *arXiv, 2025*. [[Paper](https://lamor.fer.hr/images/50050805/gsslam.pdf)]
 * **GSFF-SLAM**: 3D Semantic Gaussian Splatting SLAM via Feature Field, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2504.19409)]
 * **GauS-SLAM**: Dense RGB-D SLAM with Gaussian Surfels, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.01934)] [[Website](https://gaus-slam.github.io/)]
+* Online Language Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.09447)] [[Website](https://saimouli.github.io/onlineLang/)] [[Code](https://github.com/rpng/online_lang_splatting)]
 
 ### Multimodal Gaussian Splatting SLAM
 
