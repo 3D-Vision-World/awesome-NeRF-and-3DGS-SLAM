@@ -330,7 +330,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **LVI-GS**: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting, *TIM, 2025*. [[Paper](https://arxiv.org/pdf/2411.02703)] [[Code](https://github.com/arclab-hku/LVI-3DGS)] [[Website](https://kwanwaipang.github.io/LVI-GS/)]
 - **LiV-GS**: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.12185)]
 - **SplatMAP**: Online Dense Monocular SLAM with 3D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.07015)]
-- **GS-LIVO**: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.08672)] [[Code](https://github.com/HKUST-Aerial-Robotics/GS-LIVO)]
+- **GS-LIVO**: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping, *TRO, 2025*. [[Paper](https://arxiv.org/pdf/2501.08672)] [[Code](https://github.com/HKUST-Aerial-Robotics/GS-LIVO)]
 - **TLS-SLAM:** Gaussian Splatting SLAM Tailored for Large-Scale Scenes, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10858386/)]
 - **PINGS**: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.05752)] [[Code](https://github.com/PRBonn/PINGS)]
 - G2-Mapping: General Gaussian Mapping for Monocular, RGB-D, and LiDAR-Inertial-Visual Systems, *TASE, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10884537)]
