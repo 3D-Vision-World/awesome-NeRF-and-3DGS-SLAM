@@ -308,7 +308,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **FGO-SLAM**: Enhancing Gaussian SLAM with Globally Consistent Opacity Radiance Field, *ICRA, 2025*. [[Paper-todo]]
 * **VSS-SLAM**: Voxelized Surfel Splatting for Geometally Accurate SLAM, *ICRA, 2025*. [[Paper-todo]]
 * **JPG-SLAM**: Joint Point-Gaussian Splatting Representation for Dense Dynamic SLAM, *ICRA, 2025*. [[Paper-todo]]
-* Large-Scale Gaussian Splatting SLAM, *ICRA, 2025*. [[Paper-todo]]
+* Large-Scale Gaussian Splatting SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2505.09915)] [[Website](https://lsg-slam.github.io/)] 
 * **SAP-SLAM**: Semantic-Assisted Perception SLAM with 3D Gaussian Splatting, *ICRA, 2025*. [[Paper-todo]]
 * **Dy3DGS-SLAM**: Monocular 3DGS-SLAM System for Dynamic Environments, *ICRA, 2025*. [[Paper-todo]]
 * **ODHSR**: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2504.13167)] [[Code](https://github.com/eth-ait/ODHSR)] [[Website](https://eth-ait.github.io/ODHSR/)]
@@ -318,7 +318,6 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GSFF-SLAM**: 3D Semantic Gaussian Splatting SLAM via Feature Field, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2504.19409)]
 * **GauS-SLAM**: Dense RGB-D SLAM with Gaussian Surfels, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.01934)] [[Website](https://gaus-slam.github.io/)]
 * Online Language Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.09447)] [[Website](https://saimouli.github.io/onlineLang/)] [[Code](https://github.com/rpng/online_lang_splatting)]
-* Large-Scale Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.09915)] [[Website](https://lsg-slam.github.io/)] 
 
 ### Multimodal Gaussian Splatting SLAM
 
