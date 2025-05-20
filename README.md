@@ -64,6 +64,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - NeRF in Robotics: A Survey, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.01333)]
 - 3D Gaussian Splatting in Robotics: A Survey, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.12262) [[Code](https://github.com/zstsandy/Awesome-3D-Gaussian-Splatting-in-Robotics)]
 - 结合隐式建图的视觉 SLAM 技术综述, *计算机辅助设计与图形学学报, 2025*. [[Paper](https://www.jcad.cn/cn/article/pdf/preview/10.3724/SP.J.1089.2024-00269.pdf)]
+- Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.12384)]
 
 ## Benchmarks
 
@@ -411,6 +412,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **POp-GS**: Next Best View in 3D-Gaussian Splatting with P-Optimality, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.07819)]
 * UAV-Based Large-Scale Active Mapping with Implicit Neural Representations, *ICPECA, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10928742)]
 * **GauSS-MI**: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2504.21067)] [[Code](https://github.com/JohannaXie/GauSS-MI)]
+* Gaussian Splatting as a Unified Representation for Autonomy in Unstructured Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.11794)]
 
 ### Localization
 
