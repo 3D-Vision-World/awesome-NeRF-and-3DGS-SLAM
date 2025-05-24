@@ -194,6 +194,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **Proud-SLAM**: Neural Point-based Hybrid RGBD Monocular Dense SLAM, *ICASSP, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10888965)]
 - **NeRF-VIO**: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.07952)]
 - **HS-SLAM**: Hybrid Representation with Structural Supervision for Improved Dense SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.21778)] [[Website](https://zorangong.github.io/HS-SLAM/)]
+- **TNIE-SLAM**: Neural Implicit Surface Reconstruction for Tracking-Oriented SLAM, *Journal of Intelligent & Robotic Systems, 2025*. [[Paper](https://link.springer.com/article/10.1007/s10846-025-02264-x)]
 
 ---
 
@@ -319,6 +320,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GSFF-SLAM**: 3D Semantic Gaussian Splatting SLAM via Feature Field, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2504.19409)]
 * **GauS-SLAM**: Dense RGB-D SLAM with Gaussian Surfels, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.01934)] [[Website](https://gaus-slam.github.io/)]
 * Online Language Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.09447)] [[Website](https://saimouli.github.io/onlineLang/)] [[Code](https://github.com/rpng/online_lang_splatting)]
+* Enhancing Visual SLAM Performances with Compact 3D Gaussian Splatting Representation, *IEEE Sensors, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11006971/authors#authors)]
 
 ### Multimodal Gaussian Splatting SLAM
 
