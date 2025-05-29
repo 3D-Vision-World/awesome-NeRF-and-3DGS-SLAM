@@ -321,7 +321,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GauS-SLAM**: Dense RGB-D SLAM with Gaussian Surfels, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.01934)] [[Website](https://gaus-slam.github.io/)] [[Code](https://github.com/gaus-slam/gaus-slam)]
 * Online Language Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.09447)] [[Website](https://saimouli.github.io/onlineLang/)] [[Code](https://github.com/rpng/online_lang_splatting)]
 * Enhancing Visual SLAM Performances with Compact 3D Gaussian Splatting Representation, *IEEE Sensors, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11006971)]
-* **ADD-SLAM**: Adaptive Dynamic Dense SLAM with Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.19420)] 
+* **ADD-SLAM**: Adaptive Dynamic Dense SLAM with Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.19420)]
+* **UP-SLAM**: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.22335)]
 
 ### Multimodal Gaussian Splatting SLAM
 
