@@ -323,6 +323,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Enhancing Visual SLAM Performances with Compact 3D Gaussian Splatting Representation, *IEEE Sensors, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11006971)]
 * **ADD-SLAM**: Adaptive Dynamic Dense SLAM with Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.19420)]
 * **UP-SLAM**: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.22335)] [[Website](https://aczheng-cai.github.io/up_slam.github.io/)]
+* **4DTAM**: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2505.22859)] [[Website](https://muskie82.github.io/4dtam/)] [[Code](https://github.com/muskie82/4dtam)]
 
 ### Multimodal Gaussian Splatting SLAM
 
