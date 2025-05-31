@@ -195,6 +195,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **NeRF-VIO**: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.07952)]
 - **HS-SLAM**: Hybrid Representation with Structural Supervision for Improved Dense SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.21778)] [[Website](https://zorangong.github.io/HS-SLAM/)]
 - **TNIE-SLAM**: Neural Implicit Surface Reconstruction for Tracking-Oriented SLAM, *Journal of Intelligent & Robotic Systems, 2025*. [[Paper](https://link.springer.com/article/10.1007/s10846-025-02264-x)]
+- Region sampling NeRF-SLAM based on Kolmogorov-Arnold network, *arXiv, 2025*. [[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325024)] [[Code](https://github.com/GXXXXXT/RSNeRF/)]
 
 ---
 
