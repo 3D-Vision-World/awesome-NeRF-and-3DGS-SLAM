@@ -359,6 +359,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **HAMMER**: Heterogeneous, Multi-Robot Semantic Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.14147)] [[Website](https://hammer-project.github.io/)]
 - **RAMEN**: Real-time Asynchronous Multi-agent Neural Implicit Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.19592)]
 - **MNE-SLAM**: Multi-Agent Neural SLAM for Mobile Robots, *CVPR, 2025*. [[Paper-TODO]] [[Dataset](https://github.com/ins-dataset/ins)]
+- **NISB-Fusion**: Multi-Agent Mapping and Map Merging With Neural Implicit Spatial Block, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11018360)]
 
 ### Manipulation/RL
 
