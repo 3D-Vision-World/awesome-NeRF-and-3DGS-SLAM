@@ -343,7 +343,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **PINGS**: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.05752)] [[Code](https://github.com/PRBonn/PINGS)]
 - G2-Mapping: General Gaussian Mapping for Monocular, RGB-D, and LiDAR-Inertial-Visual Systems, *TASE, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10884537)]
 - **VPGS-SLAM**: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.18992)] [[Code](https://github.com/dtc111111/vpgs-slam)]
-
+- Globally Consistent RGB-D SLAM with 2D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.00970)] [[Code](https://github.com/PRBonn/2DGS-SLAM)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
