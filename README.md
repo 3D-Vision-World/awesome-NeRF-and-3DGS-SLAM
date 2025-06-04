@@ -325,7 +325,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **ADD-SLAM**: Adaptive Dynamic Dense SLAM with Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.19420)]
 * **UP-SLAM**: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.22335)] [[Website](https://aczheng-cai.github.io/up_slam.github.io/)]
 * **4DTAM**: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2505.22859)] [[Website](https://muskie82.github.io/4dtam/)] [[Code](https://github.com/muskie82/4dtam)]
-* **VTGaussian-SLAM**: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians, *ICML, 2025*. [[Paper](https://arxiv.org/pdf/2506.02741)] [[Website](https://machineperceptionlab.github.io/VTGaussian-SLAM-Project/)] 
+* **VTGaussian-SLAM**: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians, *ICML, 2025*. [[Paper](https://arxiv.org/pdf/2506.02741)] [[Website](https://machineperceptionlab.github.io/VTGaussian-SLAM-Project/)]
+* **LEG-SLAM**: Language-Enhanced Gaussian Splatting for Real-Time SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.03073)] [[Code](https://github.com/Titrom025/LEG-SLAM/)] [[Website](https://titrom025.github.io/LEG-SLAM/)]
 
 ### Multimodal Gaussian Splatting SLAM
 
