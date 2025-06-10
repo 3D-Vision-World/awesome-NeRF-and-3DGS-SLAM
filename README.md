@@ -329,7 +329,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **VTGaussian-SLAM**: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians, *ICML, 2025*. [[Paper](https://arxiv.org/pdf/2506.02741)] [[Website](https://machineperceptionlab.github.io/VTGaussian-SLAM-Project/)]
 * **LEG-SLAM**: Language-Enhanced Gaussian Splatting for Real-Time SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.03073)] [[Code](https://github.com/Titrom025/LEG-SLAM/)] [[Website](https://titrom025.github.io/LEG-SLAM/)]
 * **GS4**: Generalizable Sparse Splatting Semantic SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.06517)] [[Website](https://mingqij.github.io/projects/gs4/)
-* Gaussian Mapping for Evolving Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.06909)] [[Website](https://vladimiryugay.github.io/game/)
+* Gaussian Mapping for Evolving Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.06909)] [[Website](https://vladimiryugay.github.io/game/) [[Code](https://github.com/VladimirYugay/GaME)]
 
 ### Multimodal Gaussian Splatting SLAM
 
