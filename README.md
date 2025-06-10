@@ -347,6 +347,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - G2-Mapping: General Gaussian Mapping for Monocular, RGB-D, and LiDAR-Inertial-Visual Systems, *TASE, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10884537)]
 - **VPGS-SLAM**: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.18992)] [[Code](https://github.com/dtc111111/vpgs-slam)]
 - Globally Consistent RGB-D SLAM with 2D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.00970)] [[Code](https://github.com/PRBonn/2DGS-SLAM)]
+- **GS4**: Generalizable Sparse Splatting Semantic SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.06517)] [[Website](https://mingqij.github.io/projects/gs4/)
 
 ### LiDAR-based Gaussian Splatting SLAM
 
