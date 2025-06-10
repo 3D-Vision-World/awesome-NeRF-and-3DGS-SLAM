@@ -328,6 +328,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **4DTAM**: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2505.22859)] [[Website](https://muskie82.github.io/4dtam/)] [[Code](https://github.com/muskie82/4dtam)]
 * **VTGaussian-SLAM**: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians, *ICML, 2025*. [[Paper](https://arxiv.org/pdf/2506.02741)] [[Website](https://machineperceptionlab.github.io/VTGaussian-SLAM-Project/)]
 * **LEG-SLAM**: Language-Enhanced Gaussian Splatting for Real-Time SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.03073)] [[Code](https://github.com/Titrom025/LEG-SLAM/)] [[Website](https://titrom025.github.io/LEG-SLAM/)]
+* **GS4**: Generalizable Sparse Splatting Semantic SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.06517)] [[Website](https://mingqij.github.io/projects/gs4/)
+* Gaussian Mapping for Evolving Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.06909)] [[Website](https://vladimiryugay.github.io/game/)
 
 ### Multimodal Gaussian Splatting SLAM
 
@@ -347,7 +349,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - G2-Mapping: General Gaussian Mapping for Monocular, RGB-D, and LiDAR-Inertial-Visual Systems, *TASE, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10884537)]
 - **VPGS-SLAM**: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.18992)] [[Code](https://github.com/dtc111111/vpgs-slam)]
 - Globally Consistent RGB-D SLAM with 2D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.00970)] [[Code](https://github.com/PRBonn/2DGS-SLAM)]
-- **GS4**: Generalizable Sparse Splatting Semantic SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.06517)] [[Website](https://mingqij.github.io/projects/gs4/)
+
 
 ### LiDAR-based Gaussian Splatting SLAM
 
