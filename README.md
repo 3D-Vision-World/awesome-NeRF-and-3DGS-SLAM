@@ -434,6 +434,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * UAV-Based Large-Scale Active Mapping with Implicit Neural Representations, *ICPECA, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10928742)]
 * **GauSS-MI**: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2504.21067)] [[Code](https://github.com/JohannaXie/GauSS-MI)]
 * Gaussian Splatting as a Unified Representation for Autonomy in Unstructured Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.11794)]
+* **GRaD-Nav++**: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.14009)]
+
 
 ### Localization
 
