@@ -198,7 +198,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Region sampling NeRF-SLAM based on Kolmogorov-Arnold network, *arXiv, 2025*. [[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325024)] [[Code](https://github.com/GXXXXXT/RSNeRF/)]
 - **NDF-SLAM**: LiDAR SLAM based on neural distance field for registration and loop closure detection, *Measurement, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0263224125012631)]
 - **MISO**: Multiresolution Submap Optimization for Efficient Globally Consistent Neural Implicit Reconstruction, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2504.19104)] [[Code](https://github.com/ExistentialRobotics/MISO)] [[Website](https://existentialrobotics.org/miso_rss25/)]
-- Monocular Visual SLAM with Adjusting Neural Radiance Fields for 3D Reconstruction in Planetary Environments, *TGRS, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11023632)] 
+- Monocular Visual SLAM with Adjusting Neural Radiance Fields for 3D Reconstruction in Planetary Environments, *TGRS, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11023632)]
+- **YOLO-NeRFSLAM**: underwater object detection for the visual NeRF-SLAM, *Frontiers in Marine Science, 2025*. [[Paper](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1582126/full)]
 
 ---
 
