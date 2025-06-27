@@ -308,7 +308,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **DynaGSLAM**: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.11979)] [[Website](https://blarklee.github.io/dynagslam/)] [[Code](https://github.com/BlarkLee/DynaGSLAM_official)]
 * Deblur Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.12572)]
 * **GG-SLAM**: An Object-Level SLAM System Using Gaussian Grouping and Splatting, *Journal of Korea Robotics Society, 2025*. [[Paper](https://jkros.org/xml/44009/44009.pdf)]
-* 4D Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.16710)] [[Code](https://github.com/yanyan-li/4DGS-SLAM)]
+* 4D Gaussian Splatting SLAM, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.16710)] [[Code](https://github.com/yanyan-li/4DGS-SLAM)]
 * **GI-SLAM**: Gaussian-Inertial SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.18275)]
 * **STAMICS**: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.21425)]
 * **WildGS-SLAM**: Monocular Gaussian Splatting SLAM in Dynamic Environments, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2504.03886)] [[Code](https://github.com/GradientSpaces/WildGS-SLAM)] [[Website](https://wildgs-slam.github.io/)]
