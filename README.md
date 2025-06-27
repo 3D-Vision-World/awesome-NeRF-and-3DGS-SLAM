@@ -301,7 +301,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GS-GVINS**: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.10975)]
 * **Hier-SLAM++**: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.14931)]
 * RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2502.15633)] [[Website](https://3dagentworld.github.io/opengs-slam/)]
-* **FGS-SLAM**: Fourier-based Gaussian Splatting for Real-time SLAM with Sparse and Dense Map Fusion, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.01109)]
+* **FGS-SLAM**: Fourier-based Gaussian Splatting for Real-time SLAM with Sparse and Dense Map Fusion, *IROS, 2025*. [[Paper](https://arxiv.org/pdf/2503.01109)] [[Code](https://github.com/3DV-Coder/FGS-SLAM)]
 * OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.01646)] [[Website](https://young-bit.github.io/opengs-github.github.io/)]
 * Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.03373)]
 * **GigaSLAM**: Large-Scale Monocular SLAM with Hierachical Gaussian Splats, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.08071)] [[Code](https://github.com/DengKaiCQ/GigaSLAM)]
