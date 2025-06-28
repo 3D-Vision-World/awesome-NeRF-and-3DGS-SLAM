@@ -39,7 +39,6 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 ## NeRF General Model
 
 - **NeRF**: Representing Scenes as Neural Radiance Fields for View Synthesis, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2003.08934.pdf)] [[Tensorflow Code](https://github.com/bmild/nerf)] [[Webpage](http://tancik.com/nerf)] [[Video](https://www.youtube.com/watch?v=JuH79E8rdKc)] 
-
 * **ShAPO**: Implicit Representations for Multi Object Shape Appearance and Pose Optimization, *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.13691.pdf)] [[Pytorch Code](https://github.com/zubair-irshad/shapo)] [[Webpage](https://zubair-irshad.github.io/projects/ShAPO.html)] [[Video](https://youtu.be/LMg7NDcLDcA)] 
 * **NCF**: Neural Correspondence Field for Object Pose Estimation, *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2208.00113.pdf)] [[Pytorch Code]( https://github.com/LinHuang17/NCF-code)] [[Webpage](https://linhuang17.github.io/NCF/)]
 * **Neural-Sim**: Learning to Generate Training Data with NeRF, *ECCV 2022*.  [[Paper](https://arxiv.org/pdf/2207.11368.pdf)] [[Pytorch Code](https://github.com/gyhandy/Neural-Sim-NeRF)] [[Webpage](https://fylwen.github.io/disp6d.html)]
@@ -81,6 +80,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 #### Workshops
 
 - **RoboNerF**: 1st Workshop on Neural Fields in Robotics, *ICRA, 2024*. [[Website](https://robonerf.github.io/2024/)] [[Video](https://www.youtube.com/watch?v=jyEZtbXs3fg)]
+- 1st Dense Neural SLAM Workshop (NeuSLAM), *ECCV, 2024*. [[Website](https://sites.google.com/view/neuslam/previous-editions/1st-neuslam)]
+- 2nd Workshop on Neural SLAM (NeuSLAM), *ICCV, 2025*. [[Website](https://sites.google.com/view/neuslam/home/)]
 
 ## NeRF SLAM
 
