@@ -341,6 +341,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **SceneFactory**: A Workflow-Centric and Unified Framework for Incremental Scene Modeling, *TRO, 2025*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10970428)] [[Website](https://jarrome.github.io/SceneFactory/)] [[Code](https://github.com/Jarrome/SceneFactory)]
 *  **EndoFlow-SLAM**: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.21420)]
 *  **SEGS-SLAM**: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2501.05242)] [[Website](https://segs-slam.github.io/)] [[Code](https://github.com/leaner-forever/SEGS-SLAM)]
+*  **FIGS-SLAM**: Gaussian splatting SLAM with dynamic frequency control and influence-based pruning, *Expert Systems with Applications, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425023814)]
 
 ### Multimodal Gaussian Splatting SLAM
 
