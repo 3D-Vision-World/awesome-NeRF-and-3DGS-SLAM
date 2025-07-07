@@ -344,6 +344,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **SEGS-SLAM**: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2501.05242)] [[Website](https://segs-slam.github.io/)] [[Code](https://github.com/leaner-forever/SEGS-SLAM)]
 *  **FIGS-SLAM**: Gaussian splatting SLAM with dynamic frequency control and influence-based pruning, *Expert Systems with Applications, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425023814)]
 *  **TVG-SLAM**: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.23207)]
+*  Constrained Gaussian Splatting via Implicit TSDF Hash Grid for Dense RGB-D SLAM, *TAI, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11060934/authors)]
 
 ### Multimodal Gaussian Splatting SLAM
 
