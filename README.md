@@ -345,6 +345,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **FIGS-SLAM**: Gaussian splatting SLAM with dynamic frequency control and influence-based pruning, *Expert Systems with Applications, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425023814)]
 *  **TVG-SLAM**: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.23207)]
 *  Constrained Gaussian Splatting via Implicit TSDF Hash Grid for Dense RGB-D SLAM, *TAI, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11060934/authors)]
+*  **Mono-SLAM**: Monocular 3D Gaussian Splatting SLAM with Geometric Loss and Multi-view Consistency, *ICAIS&ISAS, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11051648)]
+*  **SAGA-SLAM**: Scale-Adaptive 3D Gaussian Splatting for Visual SLAM, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11067946)]
+
 
 ### Multimodal Gaussian Splatting SLAM
 
@@ -364,7 +367,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - G2-Mapping: General Gaussian Mapping for Monocular, RGB-D, and LiDAR-Inertial-Visual Systems, *TASE, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10884537)]
 - **VPGS-SLAM**: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.18992)] [[Code](https://github.com/dtc111111/vpgs-slam)]
 - Globally Consistent RGB-D SLAM with 2D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.00970)] [[Code](https://github.com/PRBonn/2DGS-SLAM)]
-
+- **FusionGS-SLAM**: Multiple Sensors Fusion for Localization and Real-Time Photorealistic Mapping, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11066268)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
