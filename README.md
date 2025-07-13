@@ -348,6 +348,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **Mono-SLAM**: Monocular 3D Gaussian Splatting SLAM with Geometric Loss and Multi-view Consistency, *ICAIS&ISAS, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11051648)]
 *  **SAGA-SLAM**: Scale-Adaptive 3D Gaussian Splatting for Visual SLAM, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11067946)]
 *  Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2507.03737)] [[Website](https://3dagentworld.github.io/S3PO-GS/)] [[Code](https://github.com/3DAgentWorld/S3PO-GS)]
+*  Dense Monocular SLAM in Real-Time With Structured Gaussian Representation, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11052667)]
 
 
 ### Multimodal Gaussian Splatting SLAM
