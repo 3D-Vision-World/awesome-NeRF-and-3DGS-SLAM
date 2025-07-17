@@ -485,6 +485,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.23480)] [[Code](https://arxiv.org/pdf/2503.23480)]
 * **GSFeatLoc**: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2504.20379)]
 * **STDLoc**: From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2503.19358)][[Website](https://zju3dv.github.io/STDLoc/)] [[Code](https://github.com/zju3dv/STDLoc)]
+* **SGLoc**: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation, *IROS, 2025*. [[Paper](https://arxiv.org/pdf/2507.12027)]
 
 ### Re-localization
 
