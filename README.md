@@ -353,6 +353,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **SAGA-SLAM**: Scale-Adaptive 3D Gaussian Splatting for Visual SLAM, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11067946)]
 *  Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2507.03737)] [[Website](https://3dagentworld.github.io/S3PO-GS/)] [[Code](https://github.com/3DAgentWorld/S3PO-GS)]
 *  Dense Monocular SLAM in Real-Time With Structured Gaussian Representation, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11052667)]
+*  **LongSplat**: Online Generalizable 3D Gaussian Splatting from Long Sequence Images, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.16144)]
 
 
 ### Multimodal Gaussian Splatting SLAM
