@@ -357,6 +357,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **G2S-ICP SLAM**: Geometry-aware Gaussian Splatting ICP SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.18344)]
 *  **DINO-SLAM**: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.19474)]
 *  **S3LAM**: Surfel Splatting SLAM for Geometrically Accurate Tracking and Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.20854)]
+*  Visual SLAM with 3D Gaussian Splatting and Generalized ICP, *CVIDL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11086047/)]
 
 
 ### Multimodal Gaussian Splatting SLAM
