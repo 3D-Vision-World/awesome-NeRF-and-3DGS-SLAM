@@ -358,6 +358,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **DINO-SLAM**: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.19474)]
 *  **S3LAM**: Surfel Splatting SLAM for Geometrically Accurate Tracking and Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.20854)]
 *  Visual SLAM with 3D Gaussian Splatting and Generalized ICP, *CVIDL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11086047/)]
+*  Stereo 3D Gaussian Splatting SLAM for Outdoor Urban Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.23677)]
 
 
 ### Multimodal Gaussian Splatting SLAM
@@ -379,6 +380,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **VPGS-SLAM**: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.18992)] [[Code](https://github.com/dtc111111/vpgs-slam)]
 - Globally Consistent RGB-D SLAM with 2D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.00970)] [[Code](https://github.com/PRBonn/2DGS-SLAM)]
 - **FusionGS-SLAM**: Multiple Sensors Fusion for Localization and Real-Time Photorealistic Mapping, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11066268)]
+- **GSFusion**: Globally Optimized LiDAR-Inertial-Visual Mapping for Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.23273)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
