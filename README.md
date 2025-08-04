@@ -279,7 +279,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Robust Gaussian Splatting SLAM by Leveraging Loop Closure, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20111)]
 * **ES-Gaussian**: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.06613)] [[Website](https://chenlu-china.github.io/ES-Gaussian/)] [[Code](https://github.com/ChenLu-china/ESGaussian)]
 * **GS-EVT**: Cross-Modal Event Camera Tracking based on Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.19228)]
-* **GSORB-SLAM**: Gaussian Splatting SLAM benefits from ORB features and Transmittance information, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.11356)] [[Website](https://aczheng-cai.github.io/gsorb-slam.github.io/)] [[Code](https://github.com/Aczheng-cai/GSORB-SLAM)]
+* **GSORB-SLAM**: Gaussian Splatting SLAM benefits from ORB features and Transmittance information, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2410.11356)] [[Website](https://aczheng-cai.github.io/gsorb-slam.github.io/)] [[Code](https://github.com/Aczheng-cai/GSORB-SLAM)]
 * **DG-SLAM**: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization, *NeurIPS, 2024*. [[Paper](https://openreview.net/pdf?id=tGozvLTDY3)] [[Code](https://github.com/fudan-zvg/DG-SLAM)]
 * **AG-SLAM**: Active Gaussian Splatting SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.17422)]
 * **DGS-SLAM**: Gaussian Splatting SLAM in Dynamic Environment, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2411.10722)] [[Code](https://github.com/kmk97/DGS-SLAM)]
