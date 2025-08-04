@@ -464,6 +464,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Gaussian Splatting as a Unified Representation for Autonomy in Unstructured Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.11794)]
 * **GRaD-Nav++**: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.14009)]
 * **VISTA**: Open-Vocabulary, Task-Relevant Robot Exploration with Online Semantic Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.01125)]
+* **IGL-Nav**: Incremental 3D Gaussian Localization for Image-goal Navigation, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2508.00823)] [[Code](https://github.com/GWxuan/IGL-Nav)] [[Website](https://gwxuan.github.io/IGL-Nav/)]
 
 
 ### Localization
