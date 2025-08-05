@@ -359,6 +359,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **S3LAM**: Surfel Splatting SLAM for Geometrically Accurate Tracking and Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.20854)]
 *  Visual SLAM with 3D Gaussian Splatting and Generalized ICP, *CVIDL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11086047/)]
 *  Stereo 3D Gaussian Splatting SLAM for Outdoor Urban Scenes, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.23677)]
+*  **OpenGS-Fusion**: Open-Vocabulary Dense Mapping with Hybrid 3D Gaussian Splatting for Refined Object-Level Understanding, *IROS, 2025*. [[Paper](https://arxiv.org/pdf/2508.01150)] [[Website](https://young-bit.github.io/opengs-fusion.github.io/)]  [[Code](https://github.com/YOUNG-bit/OpenGS-Fusion)]
 
 
 ### Multimodal Gaussian Splatting SLAM
