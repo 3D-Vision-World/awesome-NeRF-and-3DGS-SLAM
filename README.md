@@ -204,6 +204,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **EC-SLAM**: Effectively constrained neural RGB-D SLAM with TSDF hash encoding and joint optimization, *PR, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006946)] [[Code](https://github.com/Lightingooo/EC-SLAM)]
 - **DyMoSLAM**: Improving Dynamic Monocular SLAM with Neural Scene Representation, *Sensors, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11075926)]
 - Noise-Aware 3D Scene Reconstruction via Diffusion-Auxiliary Implicit SLAM, *CISCE, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11065407)]
+- Spatial Coordinate Transformation for 3D Neural Implicit Mapping, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11106682)] [[Code](https://github.com/Lab-of-AI-and-Robotics/SCT_NIM)]
 
 ---
 
