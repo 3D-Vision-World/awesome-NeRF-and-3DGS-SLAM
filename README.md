@@ -504,6 +504,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **STDLoc**: From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2503.19358)][[Website](https://zju3dv.github.io/STDLoc/)] [[Code](https://github.com/zju3dv/STDLoc)]
 * **SGLoc**: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation, *IROS, 2025*. [[Paper](https://arxiv.org/pdf/2507.12027)]
 * **3DGS-Loc**: 3D Gaussian Splatting for Map Representation and Visual Localization, *Journal of Autonomous Vehicles and Systems, 2025*. [[Paper](https://asmedigitalcollection.asme.org/autonomousvehicles/article-abstract/doi/10.1115/1.4069346/1220059/3DGS-Loc-3D-Gaussian-Splatting-for-Map?redirectedFrom=fulltext)]
+* **GSVisLoc**: Generalizable Visual Localization for Gaussian Splatting Scene Representations, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.18242)]
+* Camera Pose Refinement via 3D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.17876)]
+
 
 ### Re-localization
 
