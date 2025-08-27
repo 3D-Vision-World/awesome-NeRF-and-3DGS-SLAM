@@ -230,6 +230,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Accurate and Efficient LiDAR SLAM by Learning Unified Neural Descriptors, *Access, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10982267/)]
 - **3D-SLNR**: A Super Lightweight Neural Representation for Large-scale 3D Mapping, *CVPR, 2025*. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_3D-SLNR_A_Super_Lightweight_Neural_Representation_for_Large-scale_3D_Mapping_CVPR_2025_paper.pdf)]
 - **CURL-SLAM**: Continuous and Compact LiDAR Mapping, *TRO, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11078155)] [[Code](https://github.com/SenseRoboticsLab/CURL-SLAM)]
+- **UcPIN-SLAM**: LiDAR SLAM Using Implicit Neural Representations with Uncertainty Modeling, *Sensors, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11134702)]
 
 ### Multimodal NeRF SLAM
 
