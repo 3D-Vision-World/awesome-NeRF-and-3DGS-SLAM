@@ -364,6 +364,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **OpenGS-Fusion**: Open-Vocabulary Dense Mapping with Hybrid 3D Gaussian Splatting for Refined Object-Level Understanding, *IROS, 2025*. [[Paper](https://arxiv.org/pdf/2508.01150)] [[Website](https://young-bit.github.io/opengs-fusion.github.io/)]  [[Code](https://github.com/YOUNG-bit/OpenGS-Fusion)]
 *  Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline, *IROS, 2025*. [[Paper](https://arxiv.org/pdf/2508.04597)] [[Code](https://github.com/wangyr22/DepthGS)]
 *  **EGS-SLAM**: RGB-D Gaussian Splatting SLAM with Events, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2508.07003)] [[Code](https://github.com/Chensiyu00/EGS-SLAM)]
+*  **AGS**: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.00433)]
 
 
 ### Multimodal Gaussian Splatting SLAM
