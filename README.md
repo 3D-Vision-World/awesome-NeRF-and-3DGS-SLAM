@@ -407,6 +407,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **NISB-Fusion**: Multi-Agent Mapping and Map Merging With Neural Implicit Spatial Block, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11018360)]
 - **GRAND-SLAM**: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.18885)]
 - **MCN-SLAM**: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.18678)] [[Code](https://github.com/dtc111111/mcnslam)]
+- **OpenMulti**: Open-Vocabulary Instance-Level Multi-Agent Distributed Implicit Mapping, *RAL, 2025*. [[Paper](hhttps://arxiv.org/pdf/2509.01228)] [[Website](https://openmulti666.github.io/)]
+
 
 ### Manipulation/RL
 
