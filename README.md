@@ -365,6 +365,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline, *IROS, 2025*. [[Paper](https://arxiv.org/pdf/2508.04597)] [[Code](https://github.com/wangyr22/DepthGS)]
 *  **EGS-SLAM**: RGB-D Gaussian Splatting SLAM with Events, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2508.07003)] [[Code](https://github.com/Chensiyu00/EGS-SLAM)]
 *  **AGS**: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.00433)]
+*  **DyPho-SLAM**: Real-time Photorealistic SLAM in Dynamic Environments, *ICME, 2025*. [[Paper](https://arxiv.org/pdf/2509.00741)]
 
 
 ### Multimodal Gaussian Splatting SLAM
