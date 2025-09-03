@@ -321,7 +321,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **STAMICS**: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.21425)]
 * **WildGS-SLAM**: Monocular Gaussian Splatting SLAM in Dynamic Environments, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2504.03886)] [[Code](https://github.com/GradientSpaces/WildGS-SLAM)] [[Website](https://wildgs-slam.github.io/)]
 * Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2504.04844)]
-* **FGO-SLAM**: Enhancing Gaussian SLAM with Globally Consistent Opacity Radiance Field, *ICRA, 2025*. [[Paper-todo]]
+* **FGO-SLAM**: Enhancing Gaussian SLAM with Globally Consistent Opacity Radiance Field, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2509.01547)]
 * **VSS-SLAM**: Voxelized Surfel Splatting for Geometally Accurate SLAM, *ICRA, 2025*. [[Paper-todo]]
 * **JPG-SLAM**: Joint Point-Gaussian Splatting Representation for Dense Dynamic SLAM, *ICRA, 2025*. [[Paper-todo]]
 * Large-Scale Gaussian Splatting SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2505.09915)] [[Website](https://lsg-slam.github.io/)] 
