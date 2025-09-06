@@ -394,7 +394,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 
 ### LiDAR-based Gaussian Splatting SLAM
 
-- **Splat-LOAM**: Gaussian Splatting LiDAR Odometry and Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.17491)] [[Code](https://github.com/rvp-group/Splat-LOAM)]
+- **Splat-LOAM**: Gaussian Splatting LiDAR Odometry and Mapping, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.17491)] [[Code](https://github.com/rvp-group/Splat-LOAM)]
 
 ---
 
