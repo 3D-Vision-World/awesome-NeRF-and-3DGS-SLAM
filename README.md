@@ -466,7 +466,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **SAFER-Splat**: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps, *arXiv, 2024*. [[Paper](https://www.arxiv.org/pdf/2409.09868)] [[Code](https://github.com/chengine/safer-splat)] [[Website](https://chengine.github.io/safer-splat/)]
 * **SOUS VIDE**: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum, *IROS, 2025*. [[Paper](https://arxiv.org/pdf/2412.16346)] [[Website](https://stanfordmsl.github.io/SousVide/)] [[Code](https://github.com/StanfordMSL/SousVide)]
 * **ActiveGS**: Active Scene Reconstruction using Gaussian Splatting, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2412.17769)] [[Code](https://github.com/dmar-bonn/active-gs)]
-* **ActiveGAMER**: Active GAussian Mapping through Efficient Rendering, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.06897)]
+* **ActiveGAMER**: Active GAussian Mapping through Efficient Rendering, *CVPR, 2025*. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_ActiveGAMER_Active_GAussian_Mapping_through_Efficient_Rendering_CVPR_2025_paper.pdf)]
 * **GSplatVNM**: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.05152)]
 * **POp-GS**: Next Best View in 3D-Gaussian Splatting with P-Optimality, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.07819)]
 * UAV-Based Large-Scale Active Mapping with Implicit Neural Representations, *ICPECA, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10928742)]
@@ -475,6 +475,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GRaD-Nav++**: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.14009)]
 * **VISTA**: Open-Vocabulary, Task-Relevant Robot Exploration with Online Semantic Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.01125)]
 * **IGL-Nav**: Incremental 3D Gaussian Localization for Image-goal Navigation, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2508.00823)] [[Code](https://github.com/GWxuan/IGL-Nav)] [[Website](https://gwxuan.github.io/IGL-Nav/)]
+* Beyond Uncertainty: Risk-Aware Active View Acquisition for Safe Robot Navigation and 3D Scene Understanding with FisherRF, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2403.11396)]
+* Multimodal LLM Guided Exploration and Active Mapping using Fisher Information, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2410.17422)]
+* Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.04680)]
 
 
 ### Localization
