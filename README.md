@@ -369,6 +369,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **DyPho-SLAM**: Real-time Photorealistic SLAM in Dynamic Environments, *ICME, 2025*. [[Paper](https://arxiv.org/pdf/2509.00741)]
 *  SEGS-SLAM: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding, *ICCV, 2025*. [[Paper-TODO]]
 *  DyGS-SLAM: Real-Time Accurate Localization and Gaussian Reconstruction for Dynamic Scenes, *ICCV, 2025*. [[Paper-TODO]]
+*  **OmniMap**: A General Mapping Framework Integrating Optics, Geometry, and Semantics, *TRO, 2025*. [[Paper](https://arxiv.org/pdf/2509.07500)] [[Website](https://omni-map.github.io/)]  [[Code](https://github.com/BIT-DYN/omnimapde)]
 
 
 ### Multimodal Gaussian Splatting SLAM
