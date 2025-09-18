@@ -382,7 +382,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  LOG-SLAM: Large-Scale Outdoor Gaussian SLAM for Dense Mapping and Loop Closure in Kilometer-Scale Scene Reconstruction, *IROS, 2025*. [[Paper-TODO]]
 *  VSG-SLAM: A Dense Visual Semantic SLAM with Gaussian Splatting, *IROS, 2025*. [[Paper-TODO]]
 *  Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM, *IROS, 2025*. [[Paper-TODO]]
-*  MemGS: Memory-Efficient Gaussian Splatting for Real-Time SLAM, *IROS, 2025*. [[Paper-TODO]]
+*  MemGS: Memory-Efficient Gaussian Splatting for Real-Time SLAM, *IROS, 2025*. [[Paper](https://arxiv.org/pdf/2509.13536)] [[Code](https://github.com/NAIL-HNU/MemGS_SLAM)]
 *  OVSG-SLAM: Open-Vocabulary Semantic Gaussian Splatting SLAM, *IROS, 2025*. [[Paper-TODO]]
 *  A Robust Stereo Splatting SLAM System with Inertial-Legged Fusion, *IROS, 2025*. [[Paper-TODO]]
 *  MPDG-SLAM: Motion Probability-Based 3DGS-SLAM in Dynamic Environment, *IROS, 2025*. [[Paper-TODO]]
@@ -429,6 +429,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **MCN-SLAM**: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.18678)] [[Code](https://github.com/dtc111111/mcnslam)]
 - **OpenMulti**: Open-Vocabulary Instance-Level Multi-Agent Distributed Implicit Mapping, *RAL, 2025*. [[Paper](hhttps://arxiv.org/pdf/2509.01228)] [[Website](https://openmulti666.github.io/)]
 - **UDON**: Uncertainty-weighted Distributed Optimization for Multi-Robot Neural Implicit Mapping under Extreme Communication Constraints, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.12702)]
+- **MCGS-SLAM**: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.14191)] [[Website](https://anonymous.4open.science/w/MCGSSLAM-A8F8/)]
 
 
 ### Manipulation/RL
