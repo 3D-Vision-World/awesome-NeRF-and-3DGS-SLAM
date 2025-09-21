@@ -208,6 +208,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Spatial Coordinate Transformation for 3D Neural Implicit Mapping, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11106682)] [[Code](https://github.com/Lab-of-AI-and-Robotics/SCT_NIM)]
 - SDF-Guided Keyframe Selection: Novel Boost for NeRF SLAM Loop Closure, *IROS, 2025*. [[Paper-TODO]]
 - SLC^2-SLAM: Semantic-Guided Loop Closure Using Shared Latent Code for NeRF SLAM, *IROS, 2025*. [[Paper-TODO]]
+- High-Precision Visual SLAM for Dynamic Scenes Using Semantic–Geometric Feature Filtering and NeRF Maps, *Electronics, 2025*. [[Paper](https://www.mdpi.com/2079-9292/14/18/3657)]
 
 ---
 
@@ -386,6 +387,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  OVSG-SLAM: Open-Vocabulary Semantic Gaussian Splatting SLAM, *IROS, 2025*. [[Paper-TODO]]
 *  A Robust Stereo Splatting SLAM System with Inertial-Legged Fusion, *IROS, 2025*. [[Paper-TODO]]
 *  MPDG-SLAM: Motion Probability-Based 3DGS-SLAM in Dynamic Environment, *IROS, 2025*. [[Paper-TODO]]
+*  Gaussian-Plus-SDF SLAM: High-fidelity 3D Reconstruction at 150+ fps, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.11574)]
 
 
 ### Multimodal Gaussian Splatting SLAM
