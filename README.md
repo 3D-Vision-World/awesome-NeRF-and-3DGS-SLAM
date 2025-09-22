@@ -388,6 +388,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  A Robust Stereo Splatting SLAM System with Inertial-Legged Fusion, *IROS, 2025*. [[Paper-TODO]]
 *  MPDG-SLAM: Motion Probability-Based 3DGS-SLAM in Dynamic Environment, *IROS, 2025*. [[Paper-TODO]]
 *  Gaussian-Plus-SDF SLAM: High-fidelity 3D Reconstruction at 150+ fps, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.11574)]
+*  **ConfidentSplat**: Confidence-Weighted Depth Fusion for Accurate 3D Gaussian Splatting SLAM, *CCSSTA, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11137090)]
 
 
 ### Multimodal Gaussian Splatting SLAM
