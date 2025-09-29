@@ -300,7 +300,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **RGBDS-SLAM**: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2412.01217)] [[Code](https://github.com/zhenzhongcao/RGBDS-SLAM)]
 * **GauSPU**: 3D Gaussian Splatting Processor for Real-Time SLAM Systems, *MICRO, 2024*. [[Paper](https://www.computer.org/csdl/proceedings-article/micro/2024/505700b562/22nirMP5znq)]
 * **RP-SLAM**: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.09868)]
-* **NFL-BA**: Improving Endoscopic SLA M with Near-Field Light Bundle Adjustment, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.13176)] [[Website](https://asdunnbe.github.io/NFL-BA/)]
+* **NFL-BA**: Improving Endoscopic SLA M with Near-Field Light Bundle Adjustment, *NIPS, 2024*. [[Paper](https://arxiv.org/pdf/2412.13176)] [[Website](https://asdunnbe.github.io/NFL-BA/)]
 * **MGS-SLAM**: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2405.06241)] [[Code](https://github.com/Z-Pengcheng/MGS-SLAM)]
 * **PanoSLAM**: Panoptic 3D Scene Reconstruction via Gaussian SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.00352)] [[Code](https://github.com/runnanchen/PanoSLAM)]
 * **Scaffold-SLAM**: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.05242)]
@@ -389,7 +389,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  MPDG-SLAM: Motion Probability-Based 3DGS-SLAM in Dynamic Environment, *IROS, 2025*. [[Paper-TODO]]
 *  Gaussian-Plus-SDF SLAM: High-fidelity 3D Reconstruction at 150+ fps, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.11574)]
 *  **ConfidentSplat**: Confidence-Weighted Depth Fusion for Accurate 3D Gaussian Splatting SLAM, *CCSSTA, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11137090)]
-*  **ProDyG**: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.17864)]
+*  **ProDyG**: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos, *NIPS, 2025*. [[Paper](https://arxiv.org/pdf/2509.17864)]
+*  VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold, *NIPS, 2025*. [[Paper](https://arxiv.org/pdf/2505.12549)] [[Code](https://github.com/MIT-SPARK/VGGT-SLAM)]
 
 
 ### Multimodal Gaussian Splatting SLAM
@@ -503,6 +504,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Beyond Uncertainty: Risk-Aware Active View Acquisition for Safe Robot Navigation and 3D Scene Understanding with FisherRF, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2403.11396)]
 * Multimodal LLM Guided Exploration and Active Mapping using Fisher Information, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2410.17422)]
 * Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.04680)]
+* Understanding while Exploring: Semantics-driven Active Mapping, *NIPS, 2024*. [[Paper](https://arxiv.org/pdf/2506.00225)]
 
 
 ### Localization
