@@ -65,6 +65,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - 结合隐式建图的视觉 SLAM 技术综述, *计算机辅助设计与图形学学报, 2025*. [[Paper](https://www.jcad.cn/cn/article/pdf/preview/10.3724/SP.J.1089.2024-00269.pdf)]
 - Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.12384)]
 - Beyond Implicit Representations: Exploring Gaussian Splatting for Next-Generation SLAM, Introduction and Review, *IOTJ, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11143231)]
+- From Fields to Splats: A Cross-Domain Survey of Real-Time Neural Scene Representations, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.23555)]
 
 ## Benchmarks
 
