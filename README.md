@@ -391,7 +391,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  Gaussian-Plus-SDF SLAM: High-fidelity 3D Reconstruction at 150+ fps, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.11574)]
 *  **ConfidentSplat**: Confidence-Weighted Depth Fusion for Accurate 3D Gaussian Splatting SLAM, *CCSSTA, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11137090)]
 *  **ProDyG**: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos, *NIPS, 2025*. [[Paper](https://arxiv.org/pdf/2509.17864)]
-*  VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold, *NIPS, 2025*. [[Paper](https://arxiv.org/pdf/2505.12549)] [[Code](https://github.com/MIT-SPARK/VGGT-SLAM)]
+*  **GaussR-SLAM**: Gaussian Robust SLAM in Data Loss and Interference Environments, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11164563)]
 
 
 ### Multimodal Gaussian Splatting SLAM
