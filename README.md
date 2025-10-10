@@ -392,6 +392,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **ConfidentSplat**: Confidence-Weighted Depth Fusion for Accurate 3D Gaussian Splatting SLAM, *CCSSTA, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11137090)]
 *  **ProDyG**: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos, *NIPS, 2025*. [[Paper](https://arxiv.org/pdf/2509.17864)]
 *  **GaussR-SLAM**: Gaussian Robust SLAM in Data Loss and Interference Environments, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11164563)]
+*  **RTGS**: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction, *MICRO, 2025*. [[Paper](https://arxiv.org/pdf/2510.06644)] [[Code](https://github.com/UMN-ZhaoLab/RTGS)]
 
 
 ### Multimodal Gaussian Splatting SLAM
