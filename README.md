@@ -507,6 +507,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Multimodal LLM Guided Exploration and Active Mapping using Fisher Information, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2410.17422)]
 * Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.04680)]
 * Understanding while Exploring: Semantics-driven Active Mapping, *NIPS, 2024*. [[Paper](https://arxiv.org/pdf/2506.00225)]
+* **LAMP**: Implicit Language Map for Robot Navigation, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11197901)]
 
 
 ### Localization
