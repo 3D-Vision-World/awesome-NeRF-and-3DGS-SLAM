@@ -394,6 +394,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **GaussR-SLAM**: Gaussian Robust SLAM in Data Loss and Interference Environments, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11164563)]
 *  **RTGS**: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction, *MICRO, 2025*. [[Paper](https://arxiv.org/pdf/2510.06644)] [[Code](https://github.com/UMN-ZhaoLab/RTGS)]
 *  **VG-Mapping**: Variation-Aware 3D Gaussians for Online Semi-static Scene Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.09962)]
+*  **SPORTS**: Simultaneous Panoptic Odometry, Rendering, Tracking and Segmentation for Urban Scenes Understanding, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.12749)] [[Code](https://github.com/Fireworker20th/SPORTS)]
 
 
 ### Multimodal Gaussian Splatting SLAM
