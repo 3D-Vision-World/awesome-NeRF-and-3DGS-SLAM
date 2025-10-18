@@ -418,6 +418,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **FusionGS-SLAM**: Multiple Sensors Fusion for Localization and Real-Time Photorealistic Mapping, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11066268)]
 - **GSFusion**: Globally Optimized LiDAR-Inertial-Visual Mapping for Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.23273)]
 - **LVIO-GSMAP**: Robust LiDAR-Visual-Inertial UAV System With Gaussian Mapping, *ECIE, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11087050)]
+- Exploiting Structure-Semantic Consistency for  Photorealistic SLAM with 3D Gaussian Splatting, *Neurocomputing, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225024816)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
