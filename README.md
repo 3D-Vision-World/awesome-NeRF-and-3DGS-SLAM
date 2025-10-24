@@ -371,8 +371,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **EGS-SLAM**: RGB-D Gaussian Splatting SLAM with Events, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2508.07003)] [[Code](https://github.com/Chensiyu00/EGS-SLAM)]
 *  **AGS**: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.00433)]
 *  **DyPho-SLAM**: Real-time Photorealistic SLAM in Dynamic Environments, *ICME, 2025*. [[Paper](https://arxiv.org/pdf/2509.00741)]
-*  SEGS-SLAM: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding, *ICCV, 2025*. [[Paper-TODO]]
-*  DyGS-SLAM: Real-Time Accurate Localization and Gaussian Reconstruction for Dynamic Scenes, *ICCV, 2025*. [[Paper-TODO]]
+*  DyGS-SLAM: Real-Time Accurate Localization and Gaussian Reconstruction for Dynamic Scenes, *ICCV, 2025*. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_DyGS-SLAM_Real-Time_Accurate_Localization_and_Gaussian_Reconstruction_for_Dynamic_Scenes_ICCV_2025_paper.pdf)]
 *  **OmniMap**: A General Mapping Framework Integrating Optics, Geometry, and Semantics, *TRO, 2025*. [[Paper](https://arxiv.org/pdf/2509.07500)] [[Website](https://omni-map.github.io/)]  [[Code](https://github.com/BIT-DYN/omnimapde)]
 *  Polarimetric Monocular Gaussian Splatting SLAM for Dense Surface Reconstruction, *ACM MM, 2025*. [[Paper-TODO]]
 *  SLAM-X: Generalizable Dynamic Removal for NeRF and Gaussian Splatting SLAM, *ACM MM, 2025*. [[Paper-TODO]]
@@ -395,6 +394,10 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **RTGS**: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction, *MICRO, 2025*. [[Paper](https://arxiv.org/pdf/2510.06644)] [[Code](https://github.com/UMN-ZhaoLab/RTGS)]
 *  **VG-Mapping**: Variation-Aware 3D Gaussians for Online Semi-static Scene Mapping, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.09962)]
 *  **SPORTS**: Simultaneous Panoptic Odometry, Rendering, Tracking and Segmentation for Urban Scenes Understanding, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.12749)] [[Code](https://github.com/Fireworker20th/SPORTS)]
+*  **REACT3D**: Real-time Edge Accelerator for Incremental Training in 3D Gaussian Splatting based SLAM Systems, *MICRO, 2025*. [[Paper](https://dl.acm.org/doi/full/10.1145/3725843.3756109)]
+*  Large-scale compact 3D Gaussian splatting SLAM, *Applied Optics, 2025*. [[Paper](https://opg.optica.org/ao/viewmedia.cfm?uri=ao-64-31-9185)]
+*  Underwater Visual SLAM with Depth Uncertainty and Medium Modeling, *ICCV, 2025*. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Underwater_Visual_SLAM_with_Depth_Uncertainty_and_Medium_Modeling_ICCV_2025_paper.pdf)] [[Website](https://defaultrui.github.io/dus/)]
+
 
 
 ### Multimodal Gaussian Splatting SLAM
