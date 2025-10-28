@@ -397,6 +397,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **REACT3D**: Real-time Edge Accelerator for Incremental Training in 3D Gaussian Splatting based SLAM Systems, *MICRO, 2025*. [[Paper](https://dl.acm.org/doi/full/10.1145/3725843.3756109)]
 *  Large-scale compact 3D Gaussian splatting SLAM, *Applied Optics, 2025*. [[Paper](https://opg.optica.org/ao/viewmedia.cfm?uri=ao-64-31-9185)]
 *  Underwater Visual SLAM with Depth Uncertainty and Medium Modeling, *ICCV, 2025*. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Underwater_Visual_SLAM_with_Depth_Uncertainty_and_Medium_Modeling_ICCV_2025_paper.pdf)] [[Website](https://defaultrui.github.io/dus/)]
+*  Gaussian Splatting SLAM: Real-Time Dense 3D Reconstruction with Photorealistic Rendering, *International Journal of Computer Applications, 2025*. [[Paper](https://www.researchgate.net/profile/Babar-Hussain-25/publication/396821117_Gaussian_Splatting_SLAM_Real-Time_Dense_3D_Reconstruction_with_Photorealistic_Rendering/links/68fadb81e7f5f867e6e1f75f/Gaussian-Splatting-SLAM-Real-Time-Dense-3D-Reconstruction-with-Photorealistic-Rendering.pdf)]
+*  **RoGER-SLAM**: A Robust Gaussian Splatting SLAM System for Noisy and Low-light Environment Resilience, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.22600)]
+*  **LVD-GS**: Gaussian Splatting SLAM for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.22669)]
 
 
 
