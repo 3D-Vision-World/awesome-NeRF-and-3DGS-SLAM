@@ -401,6 +401,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  Gaussian Splatting SLAM: Real-Time Dense 3D Reconstruction with Photorealistic Rendering, *International Journal of Computer Applications, 2025*. [[Paper](https://www.researchgate.net/profile/Babar-Hussain-25/publication/396821117_Gaussian_Splatting_SLAM_Real-Time_Dense_3D_Reconstruction_with_Photorealistic_Rendering/links/68fadb81e7f5f867e6e1f75f/Gaussian-Splatting-SLAM-Real-Time-Dense-3D-Reconstruction-with-Photorealistic-Rendering.pdf)]
 *  **RoGER-SLAM**: A Robust Gaussian Splatting SLAM System for Noisy and Low-light Environment Resilience, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.22600)]
 *  **LVD-GS**: Gaussian Splatting SLAM for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.22669)]
+* **AgriGS-SLAM**: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.26358)] [[Code](https://github.com/AIRLab-POLIMI/agri-gs-slam)]
 
 
 
