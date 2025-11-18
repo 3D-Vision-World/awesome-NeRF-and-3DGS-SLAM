@@ -402,6 +402,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **RoGER-SLAM**: A Robust Gaussian Splatting SLAM System for Noisy and Low-light Environment Resilience, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.22600)]
 *  **LVD-GS**: Gaussian Splatting SLAM for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.22669)]
 * **AgriGS-SLAM**: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.26358)] [[Code](https://github.com/AIRLab-POLIMI/agri-gs-slam)]
+* **SNI-SLAM++**: Tightly-coupled Semantic Neural Implicit SLAM , *TPAMI, 2025*. [Paper-TODO] [[Website](https://irmvlab.github.io/sni-slam-plus.github.io/)]
 
 
 
@@ -520,6 +521,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Understanding while Exploring: Semantics-driven Active Mapping, *NIPS, 2024*. [[Paper](https://arxiv.org/pdf/2506.00225)]
 * **LAMP**: Implicit Language Map for Robot Navigation, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11197901)]
 * Understanding while Exploring: Semantics-driven Active Mapping, *NIPS, 2025*. [[Paper](https://openreview.net/pdf?id=RkHUDvy9QR)]
+* Opt3DGS: Optimizing 3D Gaussian Splatting with Adaptive Exploration and Curvature-Aware Exploitation, *AAAI, 2026*. [[Paper](https://arxiv.org/pdf/2511.13571)]
+
 
 
 ### Localization
