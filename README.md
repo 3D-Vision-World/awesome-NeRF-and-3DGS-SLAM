@@ -404,6 +404,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **AgriGS-SLAM**: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.26358)] [[Code](https://github.com/AIRLab-POLIMI/agri-gs-slam)]
 * **SNI-SLAM++**: Tightly-coupled Semantic Neural Implicit SLAM , *TPAMI, 2025*. [Paper-TODO] [[Website](https://irmvlab.github.io/sni-slam-plus.github.io/)]
 * **LEGO-SLAM**: Language-Embedded Gaussian Optimization SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16144)] [[Website](https://lab-of-ai-and-robotics.github.io/LEGO-SLAM/)]  [[Code](https://github.com/Lab-of-AI-and-Robotics/LEGO-SLAM)]
+* **Rad-GS**: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16091)]
 
 
 
