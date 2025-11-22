@@ -526,6 +526,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Understanding while Exploring: Semantics-driven Active Mapping, *NIPS, 2025*. [[Paper](https://openreview.net/pdf?id=RkHUDvy9QR)]
 * **Opt3DGS:** Optimizing 3D Gaussian Splatting with Adaptive Exploration and Curvature-Aware Exploitation, *AAAI, 2026*. [[Paper](https://arxiv.org/pdf/2511.13571)]
 * **SplatSearch**: Instance Image Goal Navigation for Mobile Robots using 3D Gaussian Splatting and Diffusion Models, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.12972)] [[Website](https://splat-search.github.io/)]
+* **Active3D**: Active High-Fidelity 3D Reconstruction via Hierarchical Uncertainty Quantification, *AAAI, 2026*. [[Paper-TODO] [[Website](https://yanyan-li.github.io/project/vlx/active3d.html)]
 
 
 
