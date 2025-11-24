@@ -406,6 +406,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **LEGO-SLAM**: Language-Embedded Gaussian Optimization SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16144)] [[Website](https://lab-of-ai-and-robotics.github.io/LEGO-SLAM/)]  [[Code](https://github.com/Lab-of-AI-and-Robotics/LEGO-SLAM)]
 * **Rad-GS**: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16091)]
 * **SDG-SLAM**: Self-supervised Dynamic Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/290789/preprint_pdf/6b18e8b1bb306a7d7c2ed106de6a2fae.pdf)]
+* Memory-Efficient Voxelized Renderable Neural 3D Spatial Representation for Vision-Based Robotics, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11242030)]
 
 
 
