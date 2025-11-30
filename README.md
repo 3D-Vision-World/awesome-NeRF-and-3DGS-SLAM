@@ -209,8 +209,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Noise-Aware 3D Scene Reconstruction via Diffusion-Auxiliary Implicit SLAM, *CISCE, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11065407)]
 - Spatial Coordinate Transformation for 3D Neural Implicit Mapping, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11106682)] [[Code](https://github.com/Lab-of-AI-and-Robotics/SCT_NIM)]
 - SDF-Guided Keyframe Selection: Novel Boost for NeRF SLAM Loop Closure, *IROS, 2025*. [[Paper-TODO]]
-- SLC^2-SLAM: Semantic-Guided Loop Closure Using Shared Latent Code for NeRF SLAM, *IROS, 2025*. [[Paper-TODO]]
+- **SLC^2-SLAM**: Semantic-Guided Loop Closure Using Shared Latent Code for NeRF SLAM, *IROS, 2025*. [[Paper-TODO]]
 - High-Precision Visual SLAM for Dynamic Scenes Using Semantic–Geometric Feature Filtering and NeRF Maps, *Electronics, 2025*. [[Paper](https://www.mdpi.com/2079-9292/14/18/3657)]
+- **Mamba-SLAM**: Enhancing Neural Implicit SLAM with Uncertainty and Mamba, *ICME, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11209019)]
 
 ---
 
@@ -294,9 +295,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **MonoGS++**: Fast and Accurate Monocular RGB Gaussian SLAM, *BMCV, 2024*. [[Paper](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_133/paper.pdf)]
 * **OVO-SLAM**: Open-Vocabulary Online Simultaneous Localization and Mapping, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.15043)]
 * **Gassidy**: Gaussian Splatting SLAM in Dynamic Environments, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2411.15476)]
-* **PG-SLAM**: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.15800)]
+* **PG-SLAM**: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments, *TRO, 2025*. [[Paper](https://arxiv.org/pdf/2411.15800)]
 * **MAGiC-SLAM**: Multi-Agent Gaussian Globally Consistent SLAM, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2411.16785)] [[Website](https://vladimiryugay.github.io/magic_slam/)] [[Code](https://github.com/VladimirYugay/MAGiC-SLAM)]
-* **DROID-Splat**: Combining end-to-end SLAM with 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.17660)] [[Code](https://github.com/ChenHoy/DROID-Splat)]
+* **DROID-Splat**: Combining end-to-end SLAM with 3D Gaussian Splatting, *ICCVw, 2024*. [[Paper](https://arxiv.org/pdf/2411.17660)] [[Code](https://github.com/ChenHoy/DROID-Splat)]
 * **HI-SLAM2**: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction, *TRO, 2025*. [[Paper](https://arxiv.org/pdf/2411.17982)] [[Website](https://hi-slam2.github.io/)] [[Code](https://github.com/Willyzw/HI-SLAM2)]
 * **FlashSLAM**: Accelerated RGB-D SLAM for Real-Time 3D Scene Reconstruction with Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.00682)] [[Website](https://flashslam.github.io/)]
 * **RGBDS-SLAM**: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2412.01217)] [[Code](https://github.com/zhenzhongcao/RGBDS-SLAM)]
@@ -388,7 +389,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  OVSG-SLAM: Open-Vocabulary Semantic Gaussian Splatting SLAM, *IROS, 2025*. [[Paper-TODO]]
 *  A Robust Stereo Splatting SLAM System with Inertial-Legged Fusion, *IROS, 2025*. [[Paper-TODO]]
 *  MPDG-SLAM: Motion Probability-Based 3DGS-SLAM in Dynamic Environment, *IROS, 2025*. [[Paper-TODO]]
-*  Gaussian-Plus-SDF SLAM: High-fidelity 3D Reconstruction at 150+ fps, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.11574)]
+*  **Gaussian-Plus-SDF SLAM**: High-fidelity 3D Reconstruction at 150+ fps, *CVMJ, 2025*. [[Paper](https://arxiv.org/pdf/2509.11574)]
 *  **ConfidentSplat**: Confidence-Weighted Depth Fusion for Accurate 3D Gaussian Splatting SLAM, *CCSSTA, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11137090)]
 *  **ProDyG**: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos, *NIPS, 2025*. [[Paper](https://arxiv.org/pdf/2509.17864)]
 *  **GaussR-SLAM**: Gaussian Robust SLAM in Data Loss and Interference Environments, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11164563)]
@@ -407,8 +408,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **Rad-GS**: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16091)]
 * **SDG-SLAM**: Self-supervised Dynamic Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/290789/preprint_pdf/6b18e8b1bb306a7d7c2ed106de6a2fae.pdf)]
 * Memory-Efficient Voxelized Renderable Neural 3D Spatial Representation for Vision-Based Robotics, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11242030)]
-* SPLATONIC: Architectural Support for 3D Gaussian Splatting SLAM via Sparse Processing, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.18755)]
-
+* **SPLATONIC**: Architectural Support for 3D Gaussian Splatting SLAM via Sparse Processing, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.18755)]
+* **DynaGS-SLAM**: Robust Dynamic SLAM with 3D Gaussian Splatting, *ICME, 2025*. [[Paper](https://xplorestaging.ieee.org/document/11209853)]
+* **QCG-SLAM**: Quadtree-based Condensed Gaussian Splatting for Visual SLAM, *ICME, 2025*. [[Paper](https://xplorestaging.ieee.org/document/11210108)]
 
 
 ### Multimodal Gaussian Splatting SLAM
