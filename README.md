@@ -413,6 +413,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **DynaGS-SLAM**: Robust Dynamic SLAM with 3D Gaussian Splatting, *ICME, 2025*. [[Paper](https://xplorestaging.ieee.org/document/11209853)]
 * **QCG-SLAM**: Quadtree-based Condensed Gaussian Splatting for Visual SLAM, *ICME, 2025*. [[Paper](https://xplorestaging.ieee.org/document/11210108)]
 * **DiskChunGS**: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.23030)]
+* Robust 3DGS-based SLAM via Adaptive Kernel Smoothing, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.23221)]
+* Taming the Light: Illumination-Invariant Semantic 3DGS-SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.22968)]
 
 
 ### Multimodal Gaussian Splatting SLAM
