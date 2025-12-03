@@ -416,6 +416,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Robust 3DGS-based SLAM via Adaptive Kernel Smoothing, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.23221)]
 * Taming the Light: Illumination-Invariant Semantic 3DGS-SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.22968)]
 * **SING3R-SLAM**: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors，*arXiv, 2025*. [[Paper](https://arxiv.org/abs/2511.17207)]
+* **VIGS-SLAM**: Visual Inertial Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.02293)] [[Website](https://vigs-slam.github.io/)]
+
 
 
 ### Multimodal Gaussian Splatting SLAM
