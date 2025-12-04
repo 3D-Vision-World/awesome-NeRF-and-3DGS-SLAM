@@ -405,7 +405,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  **RoGER-SLAM**: A Robust Gaussian Splatting SLAM System for Noisy and Low-light Environment Resilience, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.22600)]
 *  **LVD-GS**: Gaussian Splatting SLAM for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.22669)]
 * **AgriGS-SLAM**: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.26358)] [[Code](https://github.com/AIRLab-POLIMI/agri-gs-slam)]
-* **SNI-SLAM++**: Tightly-coupled Semantic Neural Implicit SLAM , *TPAMI, 2025*. [Paper-TODO] [[Website](https://irmvlab.github.io/sni-slam-plus.github.io/)]
+* **SNI-SLAM++**: Tightly-coupled Semantic Neural Implicit SLAM , *TPAMI, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11260914)] [[Website](https://irmvlab.github.io/sni-slam-plus.github.io/)]
 * **LEGO-SLAM**: Language-Embedded Gaussian Optimization SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16144)] [[Website](https://lab-of-ai-and-robotics.github.io/LEGO-SLAM/)]  [[Code](https://github.com/Lab-of-AI-and-Robotics/LEGO-SLAM)]
 * **Rad-GS**: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16091)]
 * **SDG-SLAM**: Self-supervised Dynamic Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/290789/preprint_pdf/6b18e8b1bb306a7d7c2ed106de6a2fae.pdf)]
@@ -418,6 +418,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Taming the Light: Illumination-Invariant Semantic 3DGS-SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.22968)]
 * **SING3R-SLAM**: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors，*arXiv, 2025*. [[Paper](https://arxiv.org/abs/2511.17207)]
 * **VIGS-SLAM**: Visual Inertial Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.02293)] [[Website](https://vigs-slam.github.io/)]
+- Exploiting Structure-Semantic Consistency for  Photorealistic SLAM with 3D Gaussian Splatting, *Neurocomputing, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225024816)]
 
 
 
@@ -442,7 +443,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **FusionGS-SLAM**: Multiple Sensors Fusion for Localization and Real-Time Photorealistic Mapping, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11066268)]
 - **GSFusion**: Globally Optimized LiDAR-Inertial-Visual Mapping for Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.23273)]
 - **LVIO-GSMAP**: Robust LiDAR-Visual-Inertial UAV System With Gaussian Mapping, *ECIE, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11087050)]
-- Exploiting Structure-Semantic Consistency for  Photorealistic SLAM with 3D Gaussian Splatting, *Neurocomputing, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225024816)]
+
 
 ### LiDAR-based Gaussian Splatting SLAM
 
