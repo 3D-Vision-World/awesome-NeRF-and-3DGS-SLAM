@@ -419,6 +419,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **SING3R-SLAM**: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors，*arXiv, 2025*. [[Paper](https://arxiv.org/abs/2511.17207)]
 * **VIGS-SLAM**: Visual Inertial Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.02293)] [[Website](https://vigs-slam.github.io/)]
 - Exploiting Structure-Semantic Consistency for  Photorealistic SLAM with 3D Gaussian Splatting, *Neurocomputing, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225024816)]
+- **DQO-MAP**: Real-Time Object-Level SLAM with Dual Quadrics and Gaussians, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11266903)] [[Code](https://github.com/LiHaoy-ux/DQO-MAP)]
 
 
 
@@ -585,6 +586,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Camera Relocalization in Shadow-Free Neural Radiance Fields, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.14824)]
 * **3DGS-ReLoc**: 3D Gaussian Splatting for Map Representation and Visual ReLocalization, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Moreau_CROSSFIRE_Camera_Relocalization_On_Self-Supervised_Features_from_an_Implicit_Representation_ICCV_2023_paper.pdf)]
 * **GauLoc**: 3D Gaussian Splatting-based Camera Relocalization, *Computer Graphics Forum, 2024*. [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15256)] [[Code](https://github.com/xinzhe11/GauLoc)]
+* **GS-Loc**: A Vision Foundation Model-Driven 3D Gaussian Splatting Framework for Robust Visual Relocalization, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11260953)]
 
 ### Reconstruction
 
@@ -597,6 +599,10 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 
 #  Calibration
 * Robust LiDAR-Camera Calibration with 2D Gaussian Splatting, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10933576/)] 
+
+
+#  HCI and XR
+- Human-in-the-Loop Gaussian Splatting for Robotic Teleoperation, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11248882)] 
 
 ----
 
