@@ -313,7 +313,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **VIGS SLAM**: IMU-based Large-Scale 3D Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.13402)]
 * Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2501.19319)] [[Code](https://github.com/lastbasket/Endo-2DTAM)]
 * **GARAD-SLAM**: 3D GAussian splatting for Real-time Anti Dynamic SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2502.03228)]
-* **DenseSplat**: Densifying Gaussian Splatting SLAM with Neural Radiance Prior, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.09111)]
+* **DenseSplat**: Densifying Gaussian Splatting SLAM with Neural Radiance Prior, *TVCG, 2025*. [[Paper](https://arxiv.org/pdf/2502.09111)] [[Code](https://github.com/DrLi-Ming/DenseSplat)]
 * **DyGS-SLAM**: Realistic Map Reconstruction in Dynamic Scenes Based on Double-Constrained Visual SLAM, *Remote Sensing, 2025*. [[Paper](https://www.mdpi.com/2072-4292/17/4/625)]
 * **GS-GVINS**: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.10975)]
 * **Hier-SLAM++**: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.14931)]
