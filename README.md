@@ -420,6 +420,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **VIGS-SLAM**: Visual Inertial Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.02293)] [[Website](https://vigs-slam.github.io/)]
 - Exploiting Structure-Semantic Consistency for  Photorealistic SLAM with 3D Gaussian Splatting, *Neurocomputing, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225024816)]
 - **DQO-MAP**: Real-Time Object-Level SLAM with Dual Quadrics and Gaussians, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11266903)] [[Code](https://github.com/LiHaoy-ux/DQO-MAP)]
+- **OpenMonoGS-SLAM**: Monocular Gaussian Splatting SLAM with Open-set Semantics, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.08625)]
 
 
 
