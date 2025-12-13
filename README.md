@@ -423,6 +423,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **OpenMonoGS-SLAM**: Monocular Gaussian Splatting SLAM with Open-set Semantics, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.08625)]
 - **D2GSLAM**: 4D Dynamic Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.09411)]
 - Gaussian landmarks tracking-based real-time splatting reconstruction model, *Image and Vision Computing, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885625004573)]
+- Gaussian Splatting SLAM for Enhanced Monocular Vehicle Sensor Localization and Roadside Scene Reconstruction, *IEEE Sensors Letters, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11222864)]
 
 
 
