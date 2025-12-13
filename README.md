@@ -422,6 +422,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **DQO-MAP**: Real-Time Object-Level SLAM with Dual Quadrics and Gaussians, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11266903)] [[Code](https://github.com/LiHaoy-ux/DQO-MAP)]
 - **OpenMonoGS-SLAM**: Monocular Gaussian Splatting SLAM with Open-set Semantics, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.08625)]
 - **D2GSLAM**: 4D Dynamic Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.09411)]
+- Gaussian landmarks tracking-based real-time splatting reconstruction model, *Image and Vision Computing, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885625004573)]
+
 
 
 
