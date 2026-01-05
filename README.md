@@ -425,6 +425,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Gaussian landmarks tracking-based real-time splatting reconstruction model, *Image and Vision Computing, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885625004573)]
 - Gaussian Splatting SLAM for Enhanced Monocular Vehicle Sensor Localization and Roadside Scene Reconstruction, *IEEE Sensors Letters, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11222864)]
 - **DOG-SLAM**: Dynamic Object-level SLAM via Tightly Coupling 3D Gaussian Splatting, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11278733)] [[Code(https://github.com/NKU-MobFly-Robotics/DOGL-SLAM)]
+- **RGS-SLAM**: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2601.00705)]
 
 
 
