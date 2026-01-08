@@ -426,7 +426,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Gaussian Splatting SLAM for Enhanced Monocular Vehicle Sensor Localization and Roadside Scene Reconstruction, *IEEE Sensors Letters, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11222864)]
 - **DOG-SLAM**: Dynamic Object-level SLAM via Tightly Coupling 3D Gaussian Splatting, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11278733)] [[Code(https://github.com/NKU-MobFly-Robotics/DOGL-SLAM)]
 - **RGS-SLAM**: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2601.00705)]
-
+- **TVG-SLAM**: Robust Gaussian Splatting SLAM With Tri-View Geometric Constraints, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11278701/)] [[Code](https://github.com/MagicTZ/TVG-SLAM)]
+- **HPGS-SLAM**: Hybrid Point-Guided Dense Visual SLAM With Online Mapping via Gaussian Splatting, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11297760)]
 
 
 ### Multimodal Gaussian Splatting SLAM
@@ -494,6 +495,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **Equivariant Descriptor Fields**: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning, *ICLR, 2023*. [[Paper](https://openreview.net/forum?id=dnjZSPGmY5O)] [[Code](https://github.com/tomato1mule/edf)]
 * **SIREN**: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.06519)]
 * **TranSplat**: Surface Embedding-guided 3D Gaussian Splatting for Transparent Object Manipulation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2502.07840)] [[Code](https://github.com/jeongyun0609/TranSplat)]
+* **DexFruit**: Dexterous Manipulation and Gaussian Splatting Inspection of Fruit, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11302794/)]
 
 ---
 
@@ -549,7 +551,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **Active3D**: Active High-Fidelity 3D Reconstruction via Hierarchical Uncertainty Quantification, *AAAI, 2026*. [[Paper](https://arxiv.org/pdf/2511.20050)] [[Website](https://yanyan-li.github.io/project/vlx/active3d.html)]
 * **AREA3D**: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.05131)] [[Code](https://github.com/TianlingXu/AREA3D)]
 * Next Best View Selections for Semantic and Dynamic 3D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.22771)]
-
+* **GRAD-NAV++**: Vision-Language Model Enabled Visual Drone Navigation With Gaussian Radiance Fields and Differentiable Dynamics, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11297793)] [[Website](https://qianzhong-chen.github.io/gradnavpp.github.io/)] [[Code](https://github.com/Qianzhong-Chen/grad_nav)]
 
 ### Localization
 
@@ -586,7 +588,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **3DGS-Loc**: 3D Gaussian Splatting for Map Representation and Visual Localization, *Journal of Autonomous Vehicles and Systems, 2025*. [[Paper](https://asmedigitalcollection.asme.org/autonomousvehicles/article-abstract/doi/10.1115/1.4069346/1220059/3DGS-Loc-3D-Gaussian-Splatting-for-Map?redirectedFrom=fulltext)]
 * **GSVisLoc**: Generalizable Visual Localization for Gaussian Splatting Scene Representations, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.18242)]
 * Camera Pose Refinement via 3D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.17876)]
-
+* Semantic-Augmented 3D Gaussian Splatting for Visual Localization in Complex Indoor Environments, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11305116)]
 
 ### Re-localization
 
