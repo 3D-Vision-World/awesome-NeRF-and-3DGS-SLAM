@@ -428,6 +428,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **RGS-SLAM**: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2601.00705)]
 - **TVG-SLAM**: Robust Gaussian Splatting SLAM With Tri-View Geometric Constraints, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11278701/)] [[Code](https://github.com/MagicTZ/TVG-SLAM)]
 - **HPGS-SLAM**: Hybrid Point-Guided Dense Visual SLAM With Online Mapping via Gaussian Splatting, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11297760)]
+- **FeatureSLAM**: Feature-enriched 3D gaussian splatting SLAM in real time, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2601.05738)]
 
 
 ### Multimodal Gaussian Splatting SLAM
