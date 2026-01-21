@@ -433,7 +433,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **EGG-Fusion**: Efficient 3D Reconstruction with Geometry-aware Gaussian Surfel on the Fly, *SIGGRAPH ASIA, 2025*. [[Paper](https://arxiv.org/pdf/2512.01296v1)] [[Website](https://zju3dv.github.io/eggfusion/)] [[Code](https://github.com/panxkun/eggfusion)]
 - Motion-prior and Confidence-aware Gaussian Splatting (MCGS) SLAM for 3D scene reconstruction of indoor built environments, *Advanced Engineering Informatics, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1474034626000091)]
 - 2D Gaussian Primitive SLAM: Real-time dense SLAM with 2D Gaussian Primitives, *Neurocomputing, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231226001190)]
-
+- **PointSLAM++**: Robust Dense Neural Gaussian Point Cloud-based SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2601.11617)]
 
 ### Multimodal Gaussian Splatting SLAM
 
