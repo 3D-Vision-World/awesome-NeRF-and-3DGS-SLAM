@@ -434,6 +434,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Motion-prior and Confidence-aware Gaussian Splatting (MCGS) SLAM for 3D scene reconstruction of indoor built environments, *Advanced Engineering Informatics, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1474034626000091)]
 - 2D Gaussian Primitive SLAM: Real-time dense SLAM with 2D Gaussian Primitives, *Neurocomputing, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231226001190)]
 - **PointSLAM++**: Robust Dense Neural Gaussian Point Cloud-based SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2601.11617)]
+- **MDGS-SLAM**: real-time RGB-D Gaussian-SLAM with multi-view densification for scene reconstruction, *arXiv, 2026*. [[Paper](https://link.springer.com/article/10.1007/s11370-025-00687-x)]
 
 ### Multimodal Gaussian Splatting SLAM
 
