@@ -214,6 +214,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - High-Precision Visual SLAM for Dynamic Scenes Using Semantic–Geometric Feature Filtering and NeRF Maps, *Electronics, 2025*. [[Paper](https://www.mdpi.com/2079-9292/14/18/3657)]
 - **Mamba-SLAM**: Enhancing Neural Implicit SLAM with Uncertainty and Mamba, *ICME, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11209019)]
 - **MARVO**: Marine-Adaptive Radiance-aware Visual Odometry, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.22860)]
+- **SLNMapping**: Super Lightweight Neural Mapping in Large-Scale Scenes, *IJCV, 2026*. [[Paper](https://link.springer.com/article/10.1007/s11263-025-02581-6)] [[Code](https://github.com/SCH1001/SLNR)]
 
 ---
 
