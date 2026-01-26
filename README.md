@@ -436,7 +436,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - 2D Gaussian Primitive SLAM: Real-time dense SLAM with 2D Gaussian Primitives, *Neurocomputing, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231226001190)]
 - **PointSLAM++**: Robust Dense Neural Gaussian Point Cloud-based SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2601.11617)]
 - **MDGS-SLAM**: real-time RGB-D Gaussian-SLAM with multi-view densification for scene reconstruction, *arXiv, 2026*. [[Paper](https://link.springer.com/article/10.1007/s11370-025-00687-x)]
-- **DRGS-SLAM**: Depth-Regularized 3-D Gaussian SLAM With Hierarchical Strategy and Virtual Viewpoints Supervision, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11301788/authors)]
+- **DRGS-SLAM**: Depth-Regularized 3-D Gaussian SLAM With Hierarchical Strategy and Virtual Viewpoints Supervision, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11301788)]
+- **LD3DGS-SLA**M: Long-Distance Monocular SLAM with 3D Gaussian Splatting and GNSS-Aided Localization for UAVs, *IOTJ, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11271491)]
+- **AING-SLAM**: Accurate Implicit Neural Geometry-Aware SLAM With Appearance and Semantics via History-Guided Optimization, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11271491/authors#authors)]
 
 ### Multimodal Gaussian Splatting SLAM
 
