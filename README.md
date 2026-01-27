@@ -215,6 +215,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **Mamba-SLAM**: Enhancing Neural Implicit SLAM with Uncertainty and Mamba, *ICME, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11209019)]
 - **MARVO**: Marine-Adaptive Radiance-aware Visual Odometry, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.22860)]
 - **SLNMapping**: Super Lightweight Neural Mapping in Large-Scale Scenes, *IJCV, 2026*. [[Paper](https://link.springer.com/article/10.1007/s11263-025-02581-6)] [[Code](https://github.com/SCH1001/SLNR)]
+- **SNH-SLAM**: Implicit Dense SLAM based on Scalable Neural-Hash Representation, *TMM, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11329477)] [[Website](https://xiaoshumiao123.github.io/)]
+- **NeRF-Learner**: A NeRF–SLAM Accelerator With Unified Inference and Training Compute-in-Memory for Simultaneous Neural Rendering and SLAM, *IEEE Journal of Solid-State Circuits, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11261669)]
 
 ---
 
@@ -342,7 +344,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **ToF-Splatting**: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2504.16545)]
 * Enhancing Gaussian Splatting SLAM with Feature-based Tracking, *arXiv, 2025*. [[Paper](https://lamor.fer.hr/images/50050805/gsslam.pdf)]
 * **GSFF-SLAM**: 3D Semantic Gaussian Splatting SLAM via Feature Field, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2504.19409)]
-* **GauS-SLAM**: Dense RGB-D SLAM with Gaussian Surfels, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.01934)] [[Website](https://gaus-slam.github.io/)] [[Code](https://github.com/gaus-slam/gaus-slam)]
+* **GauS-SLAM**: Dense RGB-D SLAM with Gaussian Surfels, *RAL, 2026*. [[Paper](https://arxiv.org/pdf/2505.01934)] [[Website](https://gaus-slam.github.io/)] [[Code](https://github.com/gaus-slam/gaus-slam)]
 * Online Language Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.09447)] [[Website](https://saimouli.github.io/onlineLang/)] [[Code](https://github.com/rpng/online_lang_splatting)]
 * Enhancing Visual SLAM Performances with Compact 3D Gaussian Splatting Representation, *IEEE Sensors, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11006971)]
 * **ADD-SLAM**: Adaptive Dynamic Dense SLAM with Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.19420)]
@@ -438,7 +440,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **MDGS-SLAM**: real-time RGB-D Gaussian-SLAM with multi-view densification for scene reconstruction, *arXiv, 2026*. [[Paper](https://link.springer.com/article/10.1007/s11370-025-00687-x)]
 - **DRGS-SLAM**: Depth-Regularized 3-D Gaussian SLAM With Hierarchical Strategy and Virtual Viewpoints Supervision, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11301788)]
 - **LD3DGS-SLA**M: Long-Distance Monocular SLAM with 3D Gaussian Splatting and GNSS-Aided Localization for UAVs, *IOTJ, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11271491)]
-- **AING-SLAM**: Accurate Implicit Neural Geometry-Aware SLAM With Appearance and Semantics via History-Guided Optimization, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11271491/authors#authors)]
+- **AING-SLAM**: Accurate Implicit Neural Geometry-Aware SLAM With Appearance and Semantics via History-Guided Optimization, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/1127149)]
+- **DGS-SLAM**: Robust Visual SLAM with 3D Gaussian Splatting in Dynamic Environments, *TCSVT, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11303276)]
 
 ### Multimodal Gaussian Splatting SLAM
 
