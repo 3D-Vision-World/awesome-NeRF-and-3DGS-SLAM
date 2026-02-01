@@ -439,7 +439,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **PointSLAM++**: Robust Dense Neural Gaussian Point Cloud-based SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2601.11617)]
 - **MDGS-SLAM**: real-time RGB-D Gaussian-SLAM with multi-view densification for scene reconstruction, *arXiv, 2026*. [[Paper](https://link.springer.com/article/10.1007/s11370-025-00687-x)]
 - **DRGS-SLAM**: Depth-Regularized 3-D Gaussian SLAM With Hierarchical Strategy and Virtual Viewpoints Supervision, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11301788)]
-- **AING-SLAM**: Accurate Implicit Neural Geometry-Aware SLAM With Appearance and Semantics via History-Guided Optimization, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11347506)]
+- **AING-SLAM**: Accurate Implicit Neural Geometry-Aware SLAM With Appearance and Semantics via History-Guided Optimization, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11347506)]
 - **DGS-SLAM**: Robust Visual SLAM with 3D Gaussian Splatting in Dynamic Environments, *TCSVT, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11303276)]
 
 ### Multimodal Gaussian Splatting SLAM
