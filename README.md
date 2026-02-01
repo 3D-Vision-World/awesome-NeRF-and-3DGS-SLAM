@@ -418,7 +418,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **QCG-SLAM**: Quadtree-based Condensed Gaussian Splatting for Visual SLAM, *ICME, 2025*. [[Paper](https://xplorestaging.ieee.org/document/11210108)]
 * **DiskChunGS**: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.23030)]
 * Robust 3DGS-based SLAM via Adaptive Kernel Smoothing, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.23221)]
-* Taming the Light: Illumination-Invariant Semantic 3DGS-SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.22968)]
+* **Taming the Light**: Illumination-Invariant Semantic 3DGS-SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.22968)]
 * **SING3R-SLAM**: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors，*arXiv, 2025*. [[Paper](https://arxiv.org/abs/2511.17207)]
 * **VIGS-SLAM**: Visual Inertial Gaussian Splatting SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.02293)] [[Website](https://vigs-slam.github.io/)]
 - Exploiting Structure-Semantic Consistency for  Photorealistic SLAM with 3D Gaussian Splatting, *Neurocomputing, 2025*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225024816)]
@@ -435,12 +435,11 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **RGD-SLAM**: Robust Gaussian Splatting SLAM for Dynamic Environments, *Pattern Recognition, 2026*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326000348)] [[Code](https://github.com/00Haocheng/RGD-SLAM)]
 - **EGG-Fusion**: Efficient 3D Reconstruction with Geometry-aware Gaussian Surfel on the Fly, *SIGGRAPH ASIA, 2025*. [[Paper](https://arxiv.org/pdf/2512.01296v1)] [[Website](https://zju3dv.github.io/eggfusion/)] [[Code](https://github.com/panxkun/eggfusion)]
 - Motion-prior and Confidence-aware Gaussian Splatting (MCGS) SLAM for 3D scene reconstruction of indoor built environments, *Advanced Engineering Informatics, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1474034626000091)]
-- 2D Gaussian Primitive SLAM: Real-time dense SLAM with 2D Gaussian Primitives, *Neurocomputing, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231226001190)]
+- **2D Gaussian Primitive SLAM**: Real-time dense SLAM with 2D Gaussian Primitives, *Neurocomputing, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231226001190)]
 - **PointSLAM++**: Robust Dense Neural Gaussian Point Cloud-based SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2601.11617)]
 - **MDGS-SLAM**: real-time RGB-D Gaussian-SLAM with multi-view densification for scene reconstruction, *arXiv, 2026*. [[Paper](https://link.springer.com/article/10.1007/s11370-025-00687-x)]
 - **DRGS-SLAM**: Depth-Regularized 3-D Gaussian SLAM With Hierarchical Strategy and Virtual Viewpoints Supervision, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11301788)]
-- **LD3DGS-SLA**M: Long-Distance Monocular SLAM with 3D Gaussian Splatting and GNSS-Aided Localization for UAVs, *IOTJ, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11271491)]
-- **AING-SLAM**: Accurate Implicit Neural Geometry-Aware SLAM With Appearance and Semantics via History-Guided Optimization, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/1127149)]
+- **AING-SLAM**: Accurate Implicit Neural Geometry-Aware SLAM With Appearance and Semantics via History-Guided Optimization, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11347506)]
 - **DGS-SLAM**: Robust Visual SLAM with 3D Gaussian Splatting in Dynamic Environments, *TCSVT, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11303276)]
 
 ### Multimodal Gaussian Splatting SLAM
@@ -464,6 +463,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **FusionGS-SLAM**: Multiple Sensors Fusion for Localization and Real-Time Photorealistic Mapping, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11066268)]
 - **GSFusion**: Globally Optimized LiDAR-Inertial-Visual Mapping for Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.23273)]
 - **LVIO-GSMAP**: Robust LiDAR-Visual-Inertial UAV System With Gaussian Mapping, *ECIE, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11087050)]
+- **LD3DGS-SLA**M: Long-Distance Monocular SLAM with 3D Gaussian Splatting and GNSS-Aided Localization for UAVs, *IOTJ, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11271491)]
 
 
 ### LiDAR-based Gaussian Splatting SLAM
