@@ -443,6 +443,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **AING-SLAM**: Accurate Implicit Neural Geometry-Aware SLAM With Appearance and Semantics via History-Guided Optimization, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11347506)]
 - **DGS-SLAM**: Robust Visual SLAM with 3D Gaussian Splatting in Dynamic Environments, *TCSVT, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11303276)]
 - Dynamic 3D Gaussian SLAM via motion suppression and incremental optimization, *Expert Systems with Applications, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417426002423)]
+- **SLVIM-SLAM**: sparse large variance initialization with masked 3D gaussian splatting SLAM, *Engineering Research Express, 2026*. [[Paper](https://iopscience.iop.org/article/10.1088/2631-8695/ae275f/meta)]
 
 ### Multimodal Gaussian Splatting SLAM
 
