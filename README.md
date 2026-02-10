@@ -570,6 +570,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **AREA3D**: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.05131)] [[Code](https://github.com/TianlingXu/AREA3D)]
 * Next Best View Selections for Semantic and Dynamic 3D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.22771)]
 * **GRAD-NAV++**: Vision-Language Model Enabled Visual Drone Navigation With Gaussian Radiance Fields and Differentiable Dynamics, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11297793)] [[Website](https://qianzhong-chen.github.io/gradnavpp.github.io/)] [[Code](https://github.com/Qianzhong-Chen/grad_nav)]
+* **VIST**A: Open-Vocabulary, Task-Relevant Robot Exploration With Online Semantic Gaussian Splatting, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/document/11345989)]
+* **HERE**: Hierarchical Active Exploration of Radiance Field With Epistemic Uncertainty Minimization, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/document/11361068)]
 
 ### Localization
 
