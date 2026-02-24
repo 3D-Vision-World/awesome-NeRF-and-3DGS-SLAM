@@ -448,6 +448,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Thermal Odometry and Dense Mapping using Learned Odometry and Gaussian Splatting, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.07493)]
 - Dense SLAM using 3D Gaussian Splatting with IMU and Geometric Constraints, *IOTJ, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11381421)]
 - **GPR-GSLAM**: Gaussian Process Regression–Enhanced Real-Time RGB-D SLAM Using Gaussian Splatting, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11396014)]
+- **NRGS-SLAM**: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.17182)]
 
 ### Multimodal Gaussian Splatting SLAM
 
