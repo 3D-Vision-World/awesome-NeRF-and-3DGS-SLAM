@@ -449,6 +449,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Dense SLAM using 3D Gaussian Splatting with IMU and Geometric Constraints, *IOTJ, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11381421)]
 - **GPR-GSLAM**: Gaussian Process Regression–Enhanced Real-Time RGB-D SLAM Using Gaussian Splatting, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11396014)]
 - **NRGS-SLAM**: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.17182)]
+- **RU4D-SLAM**: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction, *CVPR 2026 Findings Track, 2026*. [[Paper](https://arxiv.org/pdf/2602.20807)] [[Website](https://ru4d-slam.github.io/)] [[Code](https://github.com/CNU-Bot-Group/ru4dslam)]
 
 ### Multimodal Gaussian Splatting SLAM
 
