@@ -450,7 +450,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **GPR-GSLAM**: Gaussian Process Regression–Enhanced Real-Time RGB-D SLAM Using Gaussian Splatting, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11396014)]
 - **NRGS-SLAM**: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.17182)]
 - **RU4D-SLAM**: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction, *CVPR 2026 Findings Track, 2026*. [[Paper](https://arxiv.org/pdf/2602.20807)] [[Website](https://ru4d-slam.github.io/)] [[Code](https://github.com/CNU-Bot-Group/ru4dslam)]
-
+- EAGS-SLAM: Edge-Assisted Gaussian Splatting SLAM, *IEEE Sensors Journal, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11397266)] [[Website](https://endermands.github.io/EAGSSLAM/)] [[Code](https://github.com/EnderMandS/EAGS-SLAM)]
+- DAGS-SLAM: Dynamic-Aware 3DGS SLAM via Spatiotemporal Motion Probability and Uncertainty-Aware Scheduling, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.21644)]
 ### Multimodal Gaussian Splatting SLAM
 
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
@@ -577,6 +578,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **VIST**A: Open-Vocabulary, Task-Relevant Robot Exploration With Online Semantic Gaussian Splatting, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/document/11345989)]
 * **HERE**: Hierarchical Active Exploration of Radiance Field With Epistemic Uncertainty Minimization, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/document/11361068)]
 * **3DGSNav**: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.12159)]
+* **Dream-SLAM**: Dreaming the Unseen for Active SLAM in Dynamic Environments, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.21967)]
+* **NeRF-Nav**: Hierarchical Neural Radiance Fields for Real-Time Robot Navigation and Obstacle Avoidance, *arXiv, 2026*. [[Paper](https://assets-eu.researchsquare.com/files/rs-8887612/v1_covered_a1f953b7-f63f-4997-8ced-5baceff05462.pdf?c=1771474731)]
+
 
 ### Localization
 
