@@ -453,7 +453,6 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - EAGS-SLAM: Edge-Assisted Gaussian Splatting SLAM, *IEEE Sensors Journal, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11397266)] [[Website](https://endermands.github.io/EAGSSLAM/)] [[Code](https://github.com/EnderMandS/EAGS-SLAM)]
 - DAGS-SLAM: Dynamic-Aware 3DGS SLAM via Spatiotemporal Motion Probability and Uncertainty-Aware Scheduling, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.21644)]
 ### Multimodal Gaussian Splatting SLAM
-
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
 - **HGS-Mapping**: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2403.20159.pdf)]
 - **MM3DGS SLAM**: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements, *IROS, 2024*. [[Paper](https://arxiv.org/pdf/2404.00923.pdf)] [[Website](https://vita-group.github.io/MM3DGS-SLAM/)] [[Code](https://github.com/VITA-Group/MM3DGS-SLAM)]
@@ -474,7 +473,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **GSFusion**: Globally Optimized LiDAR-Inertial-Visual Mapping for Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.23273)]
 - **LVIO-GSMAP**: Robust LiDAR-Visual-Inertial UAV System With Gaussian Mapping, *ECIE, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11087050)]
 - **LD3DGS-SLA**M: Long-Distance Monocular SLAM with 3D Gaussian Splatting and GNSS-Aided Localization for UAVs, *IOTJ, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11271491)]
-
+- **WaterSplat-SLA**M: Photorealistic Monocular SLAM in Underwater Environment, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11417448/)] [[Code](https://github.com/KX-Wang77/WaterSplat-SLAM)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
@@ -618,6 +617,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **GSVisLoc**: Generalizable Visual Localization for Gaussian Splatting Scene Representations, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.18242)]
 * Camera Pose Refinement via 3D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.17876)]
 * Semantic-Augmented 3D Gaussian Splatting for Visual Localization in Complex Indoor Environments, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11305116)]
+* CurvLoc: Surface Curvature Prompted Gaussian Splatting for Visual Localization, *IJCV, 2025*. [[Paper](https://dl.acm.org/doi/abs/10.1007/s11263-026-02748-9)]
 
 ### Re-localization
 
