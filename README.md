@@ -475,6 +475,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **LD3DGS-SLA**M: Long-Distance Monocular SLAM with 3D Gaussian Splatting and GNSS-Aided Localization for UAVs, *IOTJ, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11271491)]
 - **WaterSplat-SLA**M: Photorealistic Monocular SLAM in Underwater Environment, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11417448/)] [[Code](https://github.com/KX-Wang77/WaterSplat-SLAM)]
 - **MipSLAM**: Alias-Free Gaussian Splatting SLAM, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2603.06989)] [[Code](https://github.com/yzli1998/MipSLAM)]
+- **VarSplat**: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.09673)] [[Code](https://github.com/anhthuan1999/varsplat)] [[Website](https://anhthuan1999.github.io/varsplat/)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
