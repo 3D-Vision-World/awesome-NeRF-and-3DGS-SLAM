@@ -477,6 +477,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **MipSLAM**: Alias-Free Gaussian Splatting SLAM, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2603.06989)] [[Code](https://github.com/yzli1998/MipSLAM)]
 - **VarSplat**: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.09673)] [[Code](https://github.com/anhthuan1999/varsplat)] [[Website](https://anhthuan1999.github.io/varsplat/)]
 - Enhanced spatial distribution for robust Gaussian SLAM with view-consistency optimization, *Autonomous Robots, 2026*. [[Paper](https://dl.acm.org/doi/abs/10.1007/s10514-025-10241-4)]
+- Semantic Perception 3DGS-SLAM System for Dynamic Scenes, *Engineering Research Express, 2026*. [[Paper](https://iopscience.iop.org/article/10.1088/2631-8695/ae50b0/pdf)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
