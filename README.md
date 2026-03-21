@@ -218,6 +218,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **SLNMapping**: Super Lightweight Neural Mapping in Large-Scale Scenes, *IJCV, 2026*. [[Paper](https://link.springer.com/article/10.1007/s11263-025-02581-6)] [[Code](https://github.com/SCH1001/SLNR)]
 - **SNH-SLAM**: Implicit Dense SLAM based on Scalable Neural-Hash Representation, *TMM, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11329477)] [[Website](https://xiaoshumiao123.github.io/)]
 - **NeRF-Learner**: A NeRF–SLAM Accelerator With Unified Inference and Training Compute-in-Memory for Simultaneous Neural Rendering and SLAM, *IEEE Journal of Solid-State Circuits, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11261669)]
+- **MHED-SLAM**: Multi-Scale Hybrid Encoding-Based Decoupled SLAM, *AAAI, 2026*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38887/42849)]
 
 ---
 
@@ -479,6 +480,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Enhanced spatial distribution for robust Gaussian SLAM with view-consistency optimization, *Autonomous Robots, 2026*. [[Paper](https://dl.acm.org/doi/abs/10.1007/s10514-025-10241-4)]
 - Semantic Perception 3DGS-SLAM System for Dynamic Scenes, *Engineering Research Express, 2026*. [[Paper](https://iopscience.iop.org/article/10.1088/2631-8695/ae50b0/pdf)]
 - **M3**: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2603.16844)] [[Code](https://github.com/InternRobotics/M3)] [[Website](https://city-super.github.io/M3/)]
+- **CoMA-SLAM**: Collaborative Multi-Agent Gaussian SLAM with Geometric Consistency, *AAAI, 2026*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37283)] [[Code](https://github.com/npu-chenlin/CoMA-SLAM)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
