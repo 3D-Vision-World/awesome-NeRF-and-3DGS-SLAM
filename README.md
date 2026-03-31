@@ -483,6 +483,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **CoMA-SLAM**: Collaborative Multi-Agent Gaussian SLAM with Geometric Consistency, *AAAI, 2026*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37283)] [[Code](https://github.com/npu-chenlin/CoMA-SLAM)]
 - **TRGS-SLAM**: IMU-Aided Gaussian Splatting SLAM for Blurry, Rolling Shutter, and Noisy Thermal Images, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2603.20443)] [[Code](https://github.com/umautobots/trgs_slam)] [[Website](https://umautobots.github.io/trgs_slam)]
 - **SGAD-SLAM**: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.21055)] [[Code](https://github.com/MachinePerceptionLab/SGAD-SLAM)] [[Website](https://machineperceptionlab.github.io/SGAD-SLAM-Project/)]
+- **Unblur-SLAM**: Dense Neural SLAM for Blurry Inputs, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.26810)] [[Code](https://github.com/SlamMate/Unblur-SLAM)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
