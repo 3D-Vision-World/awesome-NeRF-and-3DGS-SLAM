@@ -484,6 +484,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **SGAD-SLAM**: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.21055)] [[Code](https://github.com/MachinePerceptionLab/SGAD-SLAM)] [[Website](https://machineperceptionlab.github.io/SGAD-SLAM-Project/)]
 - **Unblur-SLAM**: Dense Neural SLAM for Blurry Inputs, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.26810)] [[Code](https://github.com/SlamMate/Unblur-SLAM)]
 - Gaussian Mapping for Evolving Scenes, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2506.06909)] [[Website](https://vladimiryugay.github.io/game/) [[Code](https://github.com/VladimirYugay/GaME)]
+- Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.00804)] [[Code](https://github.com/lemonci/coko-slam)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
