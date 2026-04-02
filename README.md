@@ -417,7 +417,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **SPLATONIC**: Architectural Support for 3D Gaussian Splatting SLAM via Sparse Processing, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.18755)]
 * **DynaGS-SLAM**: Robust Dynamic SLAM with 3D Gaussian Splatting, *ICME, 2025*. [[Paper](https://xplorestaging.ieee.org/document/11209853)]
 * **QCG-SLAM**: Quadtree-based Condensed Gaussian Splatting for Visual SLAM, *ICME, 2025*. [[Paper](https://xplorestaging.ieee.org/document/11210108)]
-* **DiskChunGS**: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.23030)]
+* **DiskChunGS**: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management, *RAL, 2026*. [[Paper](https://arxiv.org/pdf/2511.23030)] [[Website](https://rffr.leggedrobotics.com/works/diskchungs/)] [[Code](https://github.com/leggedrobotics/DiskChunGS)]
 * Robust 3DGS-based SLAM via Adaptive Kernel Smoothing, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.23221)]
 * **Taming the Light**: Illumination-Invariant Semantic 3DGS-SLAM, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.22968)]
 * **SING3R-SLAM**: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors，*arXiv, 2025*. [[Paper](https://arxiv.org/abs/2511.17207)]
@@ -485,7 +485,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **Unblur-SLAM**: Dense Neural SLAM for Blurry Inputs, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.26810)] [[Code](https://github.com/SlamMate/Unblur-SLAM)]
 - Gaussian Mapping for Evolving Scenes, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2506.06909)] [[Website](https://vladimiryugay.github.io/game/) [[Code](https://github.com/VladimirYugay/GaME)]
 - Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.00804)] [[Code](https://github.com/lemonci/coko-slam)]
-- UWGS-SLAM: A medium-aware underwater visual SLAM system based on 3D Gaussian Splatting, *Ocean Engineering, 2026*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0029801826009777)]
+- **UWGS-SLAM**: A medium-aware underwater visual SLAM system based on 3D Gaussian Splatting, *Ocean Engineering, 2026*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0029801826009777)]
+- **GSO-SLAM**: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/document/11417421)] [[Code](https://github.com/Lab-of-AI-and-Robotics/GSO-SLAM)]
+
 ### LiDAR-based Gaussian Splatting SLAM
 
 - **Splat-LOAM**: Gaussian Splatting LiDAR Odometry and Mapping, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.17491)] [[Code](https://github.com/rvp-group/Splat-LOAM)]
