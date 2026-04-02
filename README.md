@@ -485,7 +485,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **Unblur-SLAM**: Dense Neural SLAM for Blurry Inputs, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.26810)] [[Code](https://github.com/SlamMate/Unblur-SLAM)]
 - Gaussian Mapping for Evolving Scenes, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2506.06909)] [[Website](https://vladimiryugay.github.io/game/) [[Code](https://github.com/VladimirYugay/GaME)]
 - Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.00804)] [[Code](https://github.com/lemonci/coko-slam)]
-
+- UWGS-SLAM: A medium-aware underwater visual SLAM system based on 3D Gaussian Splatting, *Ocean Engineering, 2026*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0029801826009777)]
 ### LiDAR-based Gaussian Splatting SLAM
 
 - **Splat-LOAM**: Gaussian Splatting LiDAR Odometry and Mapping, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.17491)] [[Code](https://github.com/rvp-group/Splat-LOAM)]
