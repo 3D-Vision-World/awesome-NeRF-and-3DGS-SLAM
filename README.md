@@ -385,7 +385,6 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 *  Polarimetric Monocular Gaussian Splatting SLAM for Dense Surface Reconstruction, *ACM MM, 2025*. [[Paper-TODO]]
 *  SLAM-X: Generalizable Dynamic Removal for NeRF and Gaussian Splatting SLAM, *ACM MM, 2025*. [[Paper-TODO]]
 *  **CGS-SLAM**: Compact 3D Gaussian Splatting for Dense Visual SLAM, *IROS, 2025*. [[Paper](http://ieeexplore.ieee.org/document/11246845)]
-*  **GSO-SLAM**: Robust Monocular SLAM with Global Structure Optimization, *IROS, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11247368/)]
 *  **MeGS-SLAM**: Memory Efficient Gaussian Splatting SLAM with Graph Signal Processing, *IROS, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11246063)]
 *  Embracing Dynamics: Dynamics-Aware 4D Gaussian Splatting SLAM, *IROS, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11245901)]
 *  **FGS-SLAM**: Fourier-Based Gaussian Splatting for Real-Time SLAM with Sparse and Dense Map Fusion, *IROS, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11247035)]
