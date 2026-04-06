@@ -487,6 +487,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.00804)] [[Code](https://github.com/lemonci/coko-slam)]
 - **UWGS-SLAM**: A medium-aware underwater visual SLAM system based on 3D Gaussian Splatting, *Ocean Engineering, 2026*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0029801826009777)]
 - **GSO-SLAM**: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/document/11417421)] [[Code](https://github.com/Lab-of-AI-and-Robotics/GSO-SLAM)]
+- **VBGS-SLAM**: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.02696)]
+- **Flash-Mono**: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM, *ICLR, 2026*. [[Paper](https://arxiv.org/pdf/2604.03092)] [[Website](https://victkk.github.io/flash-mono/)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
