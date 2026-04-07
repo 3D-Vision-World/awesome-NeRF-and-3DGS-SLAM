@@ -219,6 +219,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **SNH-SLAM**: Implicit Dense SLAM based on Scalable Neural-Hash Representation, *TMM, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11329477)] [[Website](https://xiaoshumiao123.github.io/)]
 - **NeRF-Learner**: A NeRF–SLAM Accelerator With Unified Inference and Training Compute-in-Memory for Simultaneous Neural Rendering and SLAM, *IEEE Journal of Solid-State Circuits, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11261669)]
 - **MHED-SLAM**: Multi-Scale Hybrid Encoding-Based Decoupled SLAM, *AAAI, 2026*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38887/42849)]
+- **GTS-SLAM**: A Tightly-Coupled GICP and 3D Gaussian Splatting Framework for Robust Dense SLAM in Underground Mines, *MDPI Vehicles, 2026*. [[Paper](https://www.mdpi.com/2624-8921/8/4/79)]
 
 ---
 
