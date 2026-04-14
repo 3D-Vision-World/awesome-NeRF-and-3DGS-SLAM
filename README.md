@@ -490,6 +490,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **GSO-SLAM**: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/document/11417421)] [[Code](https://github.com/Lab-of-AI-and-Robotics/GSO-SLAM)]
 - **VBGS-SLAM**: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.02696)]
 - **Flash-Mono**: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM, *ICLR, 2026*. [[Paper](https://arxiv.org/pdf/2604.03092)] [[Website](https://victkk.github.io/flash-mono/)]
+- **MonoEM-GS**: Monocular Expectation–Maximization Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.10593)] 
+
 
 ### LiDAR-based Gaussian Splatting SLAM
 
