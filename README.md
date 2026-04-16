@@ -494,7 +494,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **RMGS-SLAM**: Real-time Multi-sensor Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.12942)]
 - **GGD-SLAM**: Monocular 3DGS SLAM Powered by Generalizable Motion Model for Dynamic Environments, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2604.12837)]
 - **ReefMapGS**: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.11992)] [[Website](https://reefmapgs.github.io/)]
-
+- **RadarSplat-RIO**: Indoor Radar-Inertial Odometry with Gaussian Splatting-Based Radar Bundle Adjustment, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.13492)] 
 
 ### LiDAR-based Gaussian Splatting SLAM
 
