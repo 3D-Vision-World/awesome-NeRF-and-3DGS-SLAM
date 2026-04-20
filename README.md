@@ -496,6 +496,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **ReefMapGS**: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.11992)] [[Website](https://reefmapgs.github.io/)]
 - **RadarSplat-RIO**: Indoor Radar-Inertial Odometry with Gaussian Splatting-Based Radar Bundle Adjustment, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.13492)]
 - **GAD-SLAM**: 2D Gaussian splatting SLAM via active densification, *Displays, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0141938226001393)]
+- **GaussianFlow SLAM**: Monocular Gaussian Splatting SLAM Guided by GaussianFlow, *RAL, 2026*. [[Paper](https://arxiv.org/pdf/2604.15612)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
