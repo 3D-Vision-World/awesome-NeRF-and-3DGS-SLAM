@@ -603,6 +603,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * **3DGSNav**: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.12159)]
 * **Dream-SLAM**: Dreaming the Unseen for Active SLAM in Dynamic Environments, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.21967)]
 * **NeRF-Nav**: Hierarchical Neural Radiance Fields for Real-Time Robot Navigation and Obstacle Avoidance, *arXiv, 2026*. [[Paper](https://assets-eu.researchsquare.com/files/rs-8887612/v1_covered_a1f953b7-f63f-4997-8ced-5baceff05462.pdf?c=1771474731)]
+* **NExplore**: Exploration with Neural Fields for Autonomous Scene Reconstruction, *TPAMI, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11482711)]
 
 
 ### Localization
