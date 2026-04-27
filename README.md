@@ -452,8 +452,13 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **GPR-GSLAM**: Gaussian Process Regression–Enhanced Real-Time RGB-D SLAM Using Gaussian Splatting, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11396014)]
 - **NRGS-SLAM**: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.17182)]
 - **RU4D-SLAM**: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction, *CVPR 2026 Findings Track, 2026*. [[Paper](https://arxiv.org/pdf/2602.20807)] [[Website](https://ru4d-slam.github.io/)] [[Code](https://github.com/CNU-Bot-Group/ru4dslam)]
-- EAGS-SLAM: Edge-Assisted Gaussian Splatting SLAM, *IEEE Sensors Journal, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11397266)] [[Website](https://endermands.github.io/EAGSSLAM/)] [[Code](https://github.com/EnderMandS/EAGS-SLAM)]
-- DAGS-SLAM: Dynamic-Aware 3DGS SLAM via Spatiotemporal Motion Probability and Uncertainty-Aware Scheduling, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.21644)]
+- **EAGS-SLAM**: Edge-Assisted Gaussian Splatting SLAM, *IEEE Sensors Journal, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11397266)] [[Website](https://endermands.github.io/EAGSSLAM/)] [[Code](https://github.com/EnderMandS/EAGS-SLAM)]
+- **DAGS-SLAM**: Dynamic-Aware 3DGS SLAM via Spatiotemporal Motion Probability and Uncertainty-Aware Scheduling, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.21644)]
+- RGB-D Perception-Enhanced 3D Gaussian Splatting SLAM: a Robust Framework for Mapping Underground Spaces, *TVCG, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11491898/)]
+- **ReSemGS-SLAM**: Real-time semantic Gaussian Splatting SLAM based on semantic consistency perception, *KBS, 2026*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126007811)]
+- **LoD-GS**: Robust and Lightweight Gaussian Splatting SLAM for Real-Time Volumetric Scene Reconstruction, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11489495)]
+- Dense RGB-D Slam for Endoscopic Surgery Via Quadratic Gaussian Splatting, EndoQS-Slam, *ICASSP, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11464150)]
+
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
 - **HGS-Mapping**: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2403.20159.pdf)]
