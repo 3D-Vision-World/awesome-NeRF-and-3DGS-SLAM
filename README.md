@@ -471,6 +471,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Dense Monocular SLAM in Real-Time with Structured Gaussian Representation, *ICRA, 2026*. [[Paper](Todo)]
 - **ED-SLAM**: Event-Depth Gaussian Splatting SLAM, *ICRA, 2026*. [[Paper](Todo)]
 - **MotionGS-SLAM**: Event-Modulated Gaussian Splatting for Motion-Blur Robust SLAM, *ICRA, 2026*. [[Paper](Todo)]
+- **AERGS-SLAM**: Auto-Exposure-Robust Stereo 3D Gaussian Splatting SLAM, *CVPR, 2026*. [[Paper](Todo)]
+- **ODGS-SLAM**: Omnidirectional Gaussian Splatting SLAM, *CVPR, 2026*. [[Paper](Todo)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
@@ -517,7 +519,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **GAD-SLAM**: 2D Gaussian splatting SLAM via active densification, *Displays, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0141938226001393)]
 - **GaussianFlow SLAM**: Monocular Gaussian Splatting SLAM Guided by GaussianFlow, *RAL, 2026*. [[Paper](https://arxiv.org/pdf/2604.15612)] [[Code](https://github.com/url-kaist/gaussianflow-slam)]
 - **ESP-SLAM**: Efficient Submap Partitioning for Large-Scale 3D Gaussian Splatting-Based SLAM, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11478308)]
-- **Flow4DGS-SLAM:** Optical Flow-Guided 4D Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.22339)] [[Code](https://github.com/wangys16/Flow4DGS-SLAM)]
+- **Flow4DGS-SLAM:** Optical Flow-Guided 4D Gaussian Splatting SLAM, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2604.22339)] [[Code](https://github.com/wangys16/Flow4DGS-SLAM)]
 - **Rad-GS**: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments, *ICRA, 2026*. [[Paper](Todo)]
 
 ### LiDAR-based Gaussian Splatting SLAM
