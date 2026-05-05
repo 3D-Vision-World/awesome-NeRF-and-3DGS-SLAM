@@ -509,7 +509,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **ReefMapGS**: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.11992)] [[Website](https://reefmapgs.github.io/)]
 - **RadarSplat-RIO**: Indoor Radar-Inertial Odometry with Gaussian Splatting-Based Radar Bundle Adjustment, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.13492)]
 - **GAD-SLAM**: 2D Gaussian splatting SLAM via active densification, *Displays, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0141938226001393)]
-- **GaussianFlow SLAM**: Monocular Gaussian Splatting SLAM Guided by GaussianFlow, *RAL, 2026*. [[Paper](https://arxiv.org/pdf/2604.15612)]
+- **GaussianFlow SLAM**: Monocular Gaussian Splatting SLAM Guided by GaussianFlow, *RAL, 2026*. [[Paper](https://arxiv.org/pdf/2604.15612)] [[Code](https://github.com/url-kaist/gaussianflow-slam)]
 - **ESP-SLAM**: Efficient Submap Partitioning for Large-Scale 3D Gaussian Splatting-Based SLAM, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11478308)]
 - **Flow4DGS-SLAM:** Optical Flow-Guided 4D Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2604.22339)] [[Code](https://github.com/wangys16/Flow4DGS-SLAM)]
 - **Rad-GS**: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments, *ICRA, 2026*. [[Paper](Todo)]
