@@ -463,8 +463,14 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **SupGS-SLAM**: Gaussian Splatting SLAM with Efficient Keyframe Strategy and Supplementary Mapping, *ICRA, 2026*. [[Paper](Todo)]
 - Unified Neural Gaussian SLAM with Feature Splatting, *ICRA, 2026*. [[Paper](Todo)]
 - **GauSem-SLAM**: Gaussian Semantic Submaps with Loop Closure for Globally Consistent SLAM, *ICRA, 2026*. [[Paper](Todo)]
-- **Pocket-SLAM**: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM, *ICRA, 2026*. [[Paper](Todo)]
+- **Pocket-SLAM**: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM, *ICRA, 2026*. [[Paper](Todo)] [[Code](https://github.com/UMN-ZhaoLab/Pocket-SLAM)]
 - **MMD-SLAM**: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM, *ICRA, 2026*. [[Paper](Todo)]
+- **AMG-SLAM**: Adaptive Monocular Gaussian SLAM for Efficient Surface Reconstruction, *ICRA, 2026*. [[Paper](Todo)]
+- **GeoGS-SLAM**: Online Monocular Reconstruction Using Gaussian Splatting with Geometric Priors, *ICRA, 2026*. [[Paper](Todo)]
+- **SupGS-SLAM**: Gaussian Splatting SLAM with Efficient Keyframe Strategy and Supplementary Mapping, *ICRA, 2026*. [[Paper](Todo)]
+- Dense Monocular SLAM in Real-Time with Structured Gaussian Representation, *ICRA, 2026*. [[Paper](Todo)]
+- **ED-SLAM**: Event-Depth Gaussian Splatting SLAM, *ICRA, 2026*. [[Paper](Todo)]
+- **MotionGS-SLAM**: Event-Modulated Gaussian Splatting for Motion-Blur Robust SLAM, *ICRA, 2026*. [[Paper](Todo)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
@@ -534,7 +540,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **OpenMulti**: Open-Vocabulary Instance-Level Multi-Agent Distributed Implicit Mapping, *RAL, 2025*. [[Paper](hhttps://arxiv.org/pdf/2509.01228)] [[Website](https://openmulti666.github.io/)]
 - **UDON**: Uncertainty-weighted Distributed Optimization for Multi-Robot Neural Implicit Mapping under Extreme Communication Constraints, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.12702)]
 - **MCGS-SLAM**: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2509.14191)] [[Website](https://anonymous.4open.science/w/MCGSSLAM-A8F8/)]
-
+- **MANG-SLAM**: Multi-Agents Neural Submap and Gaussian Representation for Dense Mapping, *ICRA, 2026*. [[Paper](Todo)]
 
 ### Manipulation/RL
 
