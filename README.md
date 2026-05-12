@@ -521,6 +521,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **ESP-SLAM**: Efficient Submap Partitioning for Large-Scale 3D Gaussian Splatting-Based SLAM, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11478308)]
 - **Flow4DGS-SLAM:** Optical Flow-Guided 4D Gaussian Splatting SLAM, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2604.22339)] [[Code](https://github.com/wangys16/Flow4DGS-SLAM)]
 - **Rad-GS**: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments, *ICRA, 2026*. [[Paper](Todo)]
+- **MAGS-SLAM**: Monocular Multi-Agent Gaussian Splatting SLAM for Geometrically and Photometrically Consistent Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.10760v1)] [[Website](https://mags-slam.github.io/)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
