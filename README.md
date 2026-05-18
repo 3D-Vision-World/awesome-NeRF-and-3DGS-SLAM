@@ -221,6 +221,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **MHED-SLAM**: Multi-Scale Hybrid Encoding-Based Decoupled SLAM, *AAAI, 2026*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38887/42849)]
 - **GTS-SLAM**: A Tightly-Coupled GICP and 3D Gaussian Splatting Framework for Robust Dense SLAM in Underground Mines, *MDPI Vehicles, 2026*. [[Paper](https://www.mdpi.com/2624-8921/8/4/79)]
 -  **MTE-SLAM**: Multi-Tier Feature Fusion for Efficient Neural Semantic SLAM, *ICRA, 2026*. [[Paper](Todo)]
+- **HL-SLAM**: Hybrid optimization and loop scene correction for NeRF-SLAM, *Computer Vision and Image Understanding, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S107731422600175X)]
 
 ---
 
@@ -473,6 +474,10 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **MotionGS-SLAM**: Event-Modulated Gaussian Splatting for Motion-Blur Robust SLAM, *ICRA, 2026*. [[Paper](Todo)]
 - **AERGS-SLAM**: Auto-Exposure-Robust Stereo 3D Gaussian Splatting SLAM, *CVPR, 2026*. [[Paper](Todo)]
 - **ODGS-SLAM**: Omnidirectional Gaussian Splatting SLAM, *CVPR, 2026*. [[Paper](Todo)]
+- **TGS-SLAM**: Tri-plane Gaussian Splatting for Semantic SLAM, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11513902)] [[Code](https://github.com/shand001/TGS-SLAM)]
+- **2D-S³LAM**: 2D Semantic Surfel Splatting for High-Fidelity Dense SLAM, *ICAACE, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11508818)]
+- **DynaSplaTAM**: robust dynamic 3D Gaussian splatting SLAM with lightweight semantic-depth masking, *ICCIIA, 2026*. [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14244/142440S/DynaSplaTAM--robust-dynamic-3D-Gaussian-splatting-SLAM-with-lightweight/10.1117/12.3113817.short)]
+- **NeuroTerrain**: Geometry-Continuous Neural Implicit SLAM for Scalable Exploration of Unstructured Environments, *ICAACE, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11509114/)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
@@ -522,6 +527,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **Flow4DGS-SLAM:** Optical Flow-Guided 4D Gaussian Splatting SLAM, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2604.22339)] [[Code](https://github.com/wangys16/Flow4DGS-SLAM)]
 - **Rad-GS**: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments, *ICRA, 2026*. [[Paper](Todo)]
 - **MAGS-SLAM**: Monocular Multi-Agent Gaussian Splatting SLAM for Geometrically and Photometrically Consistent Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.10760v1)] [[Website](https://mags-slam.github.io/)]
+
 
 ### LiDAR-based Gaussian Splatting SLAM
 
