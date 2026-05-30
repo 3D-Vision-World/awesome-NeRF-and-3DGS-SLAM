@@ -222,6 +222,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **GTS-SLAM**: A Tightly-Coupled GICP and 3D Gaussian Splatting Framework for Robust Dense SLAM in Underground Mines, *MDPI Vehicles, 2026*. [[Paper](https://www.mdpi.com/2624-8921/8/4/79)]
 -  **MTE-SLAM**: Multi-Tier Feature Fusion for Efficient Neural Semantic SLAM, *ICRA, 2026*. [[Paper](Todo)]
 - **HL-SLAM**: Hybrid optimization and loop scene correction for NeRF-SLAM, *Computer Vision and Image Understanding, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S107731422600175X)]
+- HNI-SLAM: Neural implicit SLAM for high quality reconstruction, *Computers & Graphics, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849326001068)]
 
 ---
 
