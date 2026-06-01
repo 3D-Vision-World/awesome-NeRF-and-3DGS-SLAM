@@ -222,7 +222,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **GTS-SLAM**: A Tightly-Coupled GICP and 3D Gaussian Splatting Framework for Robust Dense SLAM in Underground Mines, *MDPI Vehicles, 2026*. [[Paper](https://www.mdpi.com/2624-8921/8/4/79)]
 -  **MTE-SLAM**: Multi-Tier Feature Fusion for Efficient Neural Semantic SLAM, *ICRA, 2026*. [[Paper](Todo)]
 - **HL-SLAM**: Hybrid optimization and loop scene correction for NeRF-SLAM, *Computer Vision and Image Understanding, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S107731422600175X)]
-- HNI-SLAM: Neural implicit SLAM for high quality reconstruction, *Computers & Graphics, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849326001068)]
+- **HNI-SLAM**: Neural implicit SLAM for high quality reconstruction, *Computers & Graphics, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849326001068)]
+- **OminiMAG-SLAM**: Unified Online Dual Graph Optimization for Multi-Agent Gaussian SLAM, *CVPR Findings, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Ding_OminiMAG-SLAM__Unified_Online_Dual_Graph_Optimization_for_Multi-Agent_Gaussian_CVPRF_2026_paper.html)]
+- **GBG-SLAM**: Key-frame Centered Monocular Gaussian SLAM with Scale Consistent Dense Geometry Boosting, *CVPRW, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026W/URVIS/html/Fan_GBG-SLAM_Key-frame_Centered_Monocular_Gaussian_SLAM_with_Scale_Consistent_Dense_CVPRW_2026_paper.html)]
 
 ---
 
@@ -473,7 +475,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Dense Monocular SLAM in Real-Time with Structured Gaussian Representation, *ICRA, 2026*. [[Paper](Todo)]
 - **ED-SLAM**: Event-Depth Gaussian Splatting SLAM, *ICRA, 2026*. [[Paper](Todo)]
 - **MotionGS-SLAM**: Event-Modulated Gaussian Splatting for Motion-Blur Robust SLAM, *ICRA, 2026*. [[Paper](Todo)]
-- **AERGS-SLAM**: Auto-Exposure-Robust Stereo 3D Gaussian Splatting SLAM, *CVPR, 2026*. [[Paper](Todo)]
+- **AERGS-SLAM**: Auto-Exposure-Robust Stereo 3D Gaussian Splatting SLAM, *CVPR, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_AERGS-SLAM_Auto-Exposure-Robust_Stereo_3D_Gaussian_Splatting_SLAM_CVPR_2026_paper.html)]
 - **ODGS-SLAM**: Omnidirectional Gaussian Splatting SLAM, *CVPR, 2026*. [[Paper](Todo)]
 - **TGS-SLAM**: Tri-plane Gaussian Splatting for Semantic SLAM, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11513902)] [[Code](https://github.com/shand001/TGS-SLAM)]
 - **2D-S³LAM**: 2D Semantic Surfel Splatting for High-Fidelity Dense SLAM, *ICAACE, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11508818)]
