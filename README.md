@@ -80,6 +80,10 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - NeRF and Gaussian Splatting SLAM in the Wild, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2412.03263)] [[Code](https://github.com/iis-esslingen/nerf-3dgs-benchmark)]
 - SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM, *arXiv, 2025*.[[Paper](https://arxiv.org/pdf/2504.13713)] [[Website](https://samuel-cerezo.github.io/SLAM&Render)] [[Code](https://github.com/samuel-cerezo/SLAM-Render)]
 
+## Tools
+
+- splatreg: splat-to-splat SE(3)/Sim(3) registration + multi-splat pose-graph bundle adjustment (loop-consistent submap alignment for 3DGS SLAM). `pip install splatreg`. [[Code](https://github.com/Archerkattri/splatreg)] [[Docs](https://archerkattri.github.io/splatreg/)]
+
 ## Tutorials and Workshops
 
 #### Workshops
