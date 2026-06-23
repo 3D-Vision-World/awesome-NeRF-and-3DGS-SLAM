@@ -484,8 +484,11 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **TGS-SLAM**: Tri-plane Gaussian Splatting for Semantic SLAM, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11513902)] [[Code](https://github.com/shand001/TGS-SLAM)]
 - **2D-S³LAM**: 2D Semantic Surfel Splatting for High-Fidelity Dense SLAM, *ICAACE, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11508818)]
 - **DynaSplaTAM**: robust dynamic 3D Gaussian splatting SLAM with lightweight semantic-depth masking, *ICCIIA, 2026*. [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14244/142440S/DynaSplaTAM--robust-dynamic-3D-Gaussian-splatting-SLAM-with-lightweight/10.1117/12.3113817.short)]
-- **NeuroTerrain**: Geometry-Continuous Neural Implicit SLAM for Scalable Exploration of Unstructured Environments, *ICAACE, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11509114/)], *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.31419)] [[Website](https://nmjfry.github.io/triangle-splatting-slam/)]
-- Triangle Splatting SLAM
+- **NeuroTerrain**: Geometry-Continuous Neural Implicit SLAM for Scalable Exploration of Unstructured Environments, *ICAACE, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11509114/)]
+- Triangle Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.31419)] [[Website](https://nmjfry.github.io/triangle-splatting-slam/)]
+- **MMD-SLAM**: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2606.19874)]
+- **Spectral GS-SLAM**: Observability-Aware, Degeneracy-Robust Tracking for Real-Time 3D Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2606.21258)]
+
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
