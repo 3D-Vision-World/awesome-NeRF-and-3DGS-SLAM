@@ -471,8 +471,6 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **SupGS-SLAM**: Gaussian Splatting SLAM with Efficient Keyframe Strategy and Supplementary Mapping, *ICRA, 2026*. [[Paper](Todo)]
 - Unified Neural Gaussian SLAM with Feature Splatting, *ICRA, 2026*. [[Paper](Todo)]
 - **GauSem-SLAM**: Gaussian Semantic Submaps with Loop Closure for Globally Consistent SLAM, *ICRA, 2026*. [[Paper](Todo)]
-- **Pocket-SLAM**: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM, *ICRA, 2026*. [[Paper](Todo)] [[Code](https://github.com/UMN-ZhaoLab/Pocket-SLAM)]
-- **MMD-SLAM**: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM, *ICRA, 2026*. [[Paper](Todo)]
 - **AMG-SLAM**: Adaptive Monocular Gaussian SLAM for Efficient Surface Reconstruction, *ICRA, 2026*. [[Paper](Todo)]
 - **GeoGS-SLAM**: Online Monocular Reconstruction Using Gaussian Splatting with Geometric Priors, *ICRA, 2026*. [[Paper](Todo)]
 - **SupGS-SLAM**: Gaussian Splatting SLAM with Efficient Keyframe Strategy and Supplementary Mapping, *ICRA, 2026*. [[Paper](Todo)]
@@ -488,7 +486,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Triangle Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.31419)] [[Website](https://nmjfry.github.io/triangle-splatting-slam/)]
 - **MMD-SLAM**: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2606.19874)]
 - **Spectral GS-SLAM**: Observability-Aware, Degeneracy-Robust Tracking for Real-Time 3D Gaussian Splatting SLAM, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2606.21258)]
-
+- **Pocket-SLAM**: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2606.24796)] [[Code](https://github.com/UMN-ZhaoLab/Pocket-SLAM)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
