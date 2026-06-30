@@ -487,7 +487,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **MMD-SLAM**: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2606.19874)]
 - **Spectral GS-SLAM**: Observability-Aware, Degeneracy-Robust Tracking for Real-Time 3D Gaussian Splatting SLAM, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2606.21258)]
 - **Pocket-SLAM**: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2606.24796)] [[Code](https://github.com/UMN-ZhaoLab/Pocket-SLAM)]
-- **EGC-SLAM**: Enhanced Geometric Constraints for Monocular Gaussian SLAM, *arXiv, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11574760)]
+- **EGC-SLAM**: Enhanced Geometric Constraints for Monocular Gaussian SLAM, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11574760)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
