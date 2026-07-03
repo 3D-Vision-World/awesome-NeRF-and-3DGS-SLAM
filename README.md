@@ -491,6 +491,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **VCS-SLAM**: Geometry-Validated Semantic Evidence Fusion for 3D Gaussian SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2606.29494)]
 - Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2606.30436)] [[Website](https://3dagentworld.github.io/KiloGS-SLAM/)]
 - **MyGO-Splat**: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2606.29738)]
+- **DL-SLAM**: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2607.01860)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
