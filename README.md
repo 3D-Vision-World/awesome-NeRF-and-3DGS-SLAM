@@ -227,8 +227,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 -  **MTE-SLAM**: Multi-Tier Feature Fusion for Efficient Neural Semantic SLAM, *ICRA, 2026*. [[Paper](Todo)]
 - **HL-SLAM**: Hybrid optimization and loop scene correction for NeRF-SLAM, *Computer Vision and Image Understanding, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S107731422600175X)]
 - **HNI-SLAM**: Neural implicit SLAM for high quality reconstruction, *Computers & Graphics, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849326001068)]
-- **OminiMAG-SLAM**: Unified Online Dual Graph Optimization for Multi-Agent Gaussian SLAM, *CVPR Findings, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Ding_OminiMAG-SLAM__Unified_Online_Dual_Graph_Optimization_for_Multi-Agent_Gaussian_CVPRF_2026_paper.html)]
-- **GBG-SLAM**: Key-frame Centered Monocular Gaussian SLAM with Scale Consistent Dense Geometry Boosting, *CVPRW, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026W/URVIS/html/Fan_GBG-SLAM_Key-frame_Centered_Monocular_Gaussian_SLAM_with_Scale_Consistent_Dense_CVPRW_2026_paper.html)]
+
 
 ---
 
@@ -492,6 +491,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2606.30436)] [[Website](https://3dagentworld.github.io/KiloGS-SLAM/)]
 - **MyGO-Splat**: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2606.29738)]
 - **DL-SLAM**: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2607.01860)]
+- **GQGS-SLAM**: Gradient-decoupled 3D Gaussian splatting SLAM with quality-aware keyframes, *Neurocomputing, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231226017881?casa_token=vhaBMu6d3BUAAAAA:kJ_OELV7tBwUgH4LceR-6aGH6FlAIckXcE_CoRl1bsU6T_vPRQb0OeO8y5V-F0y44UHVuUcrzA)]
+- **OminiMAG-SLAM**: Unified Online Dual Graph Optimization for Multi-Agent Gaussian SLAM, *CVPR Findings, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Ding_OminiMAG-SLAM__Unified_Online_Dual_Graph_Optimization_for_Multi-Agent_Gaussian_CVPRF_2026_paper.html)]
+- **GBG-SLAM**: Key-frame Centered Monocular Gaussian SLAM with Scale Consistent Dense Geometry Boosting, *CVPRW, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026W/URVIS/html/Fan_GBG-SLAM_Key-frame_Centered_Monocular_Gaussian_SLAM_with_Scale_Consistent_Dense_CVPRW_2026_paper.html)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
