@@ -549,6 +549,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 ### LiDAR-based Gaussian Splatting SLAM
 
 - **Splat-LOAM**: Gaussian Splatting LiDAR Odometry and Mapping, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.17491)] [[Code](https://github.com/rvp-group/Splat-LOAM)]
+- Real-Time LiDAR Gaussian Splatting SLAM via Geometry-Aware Covariance Coupling, *ECCV, 2026*. [[Paper](https://arxiv.org/pdf/2607.04127)] [[Code](https://github.com/Lab-of-AI-and-Robotics/LiDAR-GS-SLAM)]
 
 ---
 
