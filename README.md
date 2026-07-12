@@ -495,6 +495,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **OminiMAG-SLAM**: Unified Online Dual Graph Optimization for Multi-Agent Gaussian SLAM, *CVPR Findings, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Ding_OminiMAG-SLAM__Unified_Online_Dual_Graph_Optimization_for_Multi-Agent_Gaussian_CVPRF_2026_paper.html)]
 - **GBG-SLAM**: Key-frame Centered Monocular Gaussian SLAM with Scale Consistent Dense Geometry Boosting, *CVPRW, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026W/URVIS/html/Fan_GBG-SLAM_Key-frame_Centered_Monocular_Gaussian_SLAM_with_Scale_Consistent_Dense_CVPRW_2026_paper.html)]
 - **FGO-SLAM++**: Real-time Geometry-Aware Gaussian SLAM with Continuous Opacity Field, *TVCG, 2026*. [[Paper](https://ieeexplore.ieee.org/document/11593438)] [[Website](https://minagami-yuki.github.io/FGO-SLAM_pp/)]
+- **IMGS-SLAM**: Monocular Gaussian Splatting SLAM for Indoor Reconstruction, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11594908)] 
 
 
 ### Multimodal Gaussian Splatting SLAM
