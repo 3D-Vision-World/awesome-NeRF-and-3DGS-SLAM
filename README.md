@@ -500,6 +500,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **GAD-SLAM**: 2D Gaussian splatting SLAM via active densification, *Displays, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0141938226001393)]
 - **GaussianFlow SLAM**: Monocular Gaussian Splatting SLAM Guided by GaussianFlow, *RAL, 2026*. [[Paper](https://arxiv.org/pdf/2604.15612)] [[Code](https://github.com/url-kaist/gaussianflow-slam)]
 - **GLAM-SLAM**: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2607.21416)] [[Code](https://github.com/pmermigkas/GLAM-SLAM)]
+- **NSL-SLAM**: High-Fidelity Neural Structured-Light Depth for Practical SLAM and Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2607.24495)] 
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
