@@ -227,7 +227,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 -  **MTE-SLAM**: Multi-Tier Feature Fusion for Efficient Neural Semantic SLAM, *ICRA, 2026*. [[Paper](Todo)]
 - **HL-SLAM**: Hybrid optimization and loop scene correction for NeRF-SLAM, *Computer Vision and Image Understanding, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S107731422600175X)]
 - **HNI-SLAM**: Neural implicit SLAM for high quality reconstruction, *Computers & Graphics, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849326001068)]
-
+- **CHOW-SLAM**: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.01914)] [[Code](https://github.com/jinjidexiaohuoban/CHOW-SLAM)]
 
 ---
 
@@ -503,6 +503,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **NSL-SLAM**: High-Fidelity Neural Structured-Light Depth for Practical SLAM and Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2607.24495)]
 - **MGS-SLAM**: Monocular 3D Gaussian splatting SLAM with significance-guided pruning, *CVMJ, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11623389)]
 - **DynGS-SLAM**: dynamic-aware Gaussian splatting for robust dense SLAM, *Machine Vision and Applications, 2026*. [[Paper](https://link.springer.com/article/10.1007/s00138-026-01887-w)]
+- **Stipple**: Real-Time Incremental Gaussian Splatting with Visual-Inertial Tracking, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.00931)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
