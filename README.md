@@ -504,6 +504,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **MGS-SLAM**: Monocular 3D Gaussian splatting SLAM with significance-guided pruning, *CVMJ, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11623389)]
 - **DynGS-SLAM**: dynamic-aware Gaussian splatting for robust dense SLAM, *Machine Vision and Applications, 2026*. [[Paper](https://link.springer.com/article/10.1007/s00138-026-01887-w)]
 - **Stipple**: Real-Time Incremental Gaussian Splatting with Visual-Inertial Tracking, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.00931)]
+- 3D Gaussian SLAM Based on Joint Source-Channel Coding and Multi-scale Constraints, *Transactions on Cognitive Communications and Networking, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11643232)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
