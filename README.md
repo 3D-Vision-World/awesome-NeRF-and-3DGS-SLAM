@@ -505,6 +505,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **DynGS-SLAM**: dynamic-aware Gaussian splatting for robust dense SLAM, *Machine Vision and Applications, 2026*. [[Paper](https://link.springer.com/article/10.1007/s00138-026-01887-w)]
 - **Stipple**: Real-Time Incremental Gaussian Splatting with Visual-Inertial Tracking, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.00931)]
 - 3D Gaussian SLAM Based on Joint Source-Channel Coding and Multi-scale Constraints, *Transactions on Cognitive Communications and Networking, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11643232)]
+- EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.08949)] [[Website](https://endomd-slam.github.io/)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
@@ -576,6 +577,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **UDON**: Uncertainty-weighted Distributed Optimization for Multi-Robot Neural Implicit Mapping under Extreme Communication Constraints, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.12702)]
 - **MCGS-SLAM**: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2509.14191)] [[Website](https://anonymous.4open.science/w/MCGSSLAM-A8F8/)]
 - **MANG-SLAM**: Multi-Agents Neural Submap and Gaussian Representation for Dense Mapping, *ICRA, 2026*. [[Paper](Todo)]
+- Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.09146)] [[Code](https://github.com/dtc111111/MSN-SLAM)]
 
 ### Manipulation/RL
 
