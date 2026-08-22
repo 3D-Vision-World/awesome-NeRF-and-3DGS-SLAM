@@ -508,6 +508,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.08949)] [[Website](https://endomd-slam.github.io/)]
 - Geometry-Aware Online Mapping for 3D Gaussian Splatting SLAM, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2608.14902)]
 - **G3M-SLAM**: Anchor-Guided Gaussian Memory for UAV-Oriented Dense SLAM with Representation-Level Submap Fusion, *Drones, 2026*. [[Paper](https://www.mdpi.com/2504-446X/10/8/628)]
+- Bridging the Gap Between Gaussian Splatting and SLAM: A Geometric-Gaussian Field-based Gaussian Splatting SLAM System, *arXiv, 2026*. [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/4484.pdf)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
