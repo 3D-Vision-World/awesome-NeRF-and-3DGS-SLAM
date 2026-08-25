@@ -557,7 +557,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **Rad-GS**: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments, *ICRA, 2026*. [[Paper](Todo)]
 - **MAGS-SLAM**: Monocular Multi-Agent Gaussian Splatting SLAM for Geometrically and Photometrically Consistent Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.10760v1)] [[Website](https://mags-slam.github.io/)]
 - **LVGS-SLAM**: LiDAR-Visual-Supervised Gaussian Splatting SLAM With Dense Depth Rendering for Unstructured Environments, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11578269/)] [[Code](https://github.com/qlsinori/LVGS-SLAM)]
-
+- **AquaFlow**: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.22906)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
