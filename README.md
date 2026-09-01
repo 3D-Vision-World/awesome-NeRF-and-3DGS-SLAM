@@ -258,6 +258,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **UcPIN-SLAM**: LiDAR SLAM Using Implicit Neural Representations with Uncertainty Modeling, *Sensors, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11134702)]
 - **Hi-LOAM**: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping, *TMM, 2026*. [[Paper](https://arxiv.org/pdf/2604.01720)]
 - Implicit Point-to-Voxel LiDAR-IMU SLAM, *TASE, 2026*. [[Paper](https://ieeexplore.ieee.org/document/11480788)]
+- Decomposition of Neural Discrete Representations for Efficient LiDAR Odometry and Mapping, *TPAMI, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11668630)]
 
 ### Multimodal NeRF SLAM
 
