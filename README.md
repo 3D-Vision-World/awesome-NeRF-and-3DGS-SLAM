@@ -228,7 +228,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **HL-SLAM**: Hybrid optimization and loop scene correction for NeRF-SLAM, *Computer Vision and Image Understanding, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S107731422600175X)]
 - **HNI-SLAM**: Neural implicit SLAM for high quality reconstruction, *Computers & Graphics, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849326001068)]
 - **CHOW-SLAM**: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.01914)] [[Code](https://github.com/jinjidexiaohuoban/CHOW-SLAM)]
-- **PMET-SLAM**: Neural Implicit RGB-D SLAM With Photorealistic Mapping and Efficient Tracking, *arXiv, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11663249)] [[Code](https://github.com/atat1010/code)]
+- **PMET-SLAM**: Neural Implicit RGB-D SLAM With Photorealistic Mapping and Efficient Tracking, *TITS, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11663249)] [[Code](https://github.com/atat1010/code)]
 - **RoSe-SLAM**: Robust Semantic-Aware Gaussian Splatting SLAM from Dynamic Monocular Videos, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2608.29003)]
 
 ---
@@ -514,6 +514,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Bridging the Gap Between Gaussian Splatting and SLAM: A Geometric-Gaussian Field-based Gaussian Splatting SLAM System, *arXiv, 2026*. [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/4484.pdf)]
 - Efficient semantic Gaussian splatting SLAM: Dynamic pruning and densification for lightweight mapping based on rendering contribution, *RAS, 2026*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889026003660)]
 - Adaptive Gaussian Splatting SLAM: Robust Dense Mapping with Probabilistic Optimization, *IOTJ, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11666903/)]
+- **PDGS-SLAM**: Photorealistic Dense Gaussian Splatting SLAM for Dynamic Scenes, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11661757)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
