@@ -738,28 +738,5 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 #  Calibration
 * Robust LiDAR-Camera Calibration with 2D Gaussian Splatting, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10933576/)] 
 
-
 #  HCI and XR
 - Human-in-the-Loop Gaussian Splatting for Robotic Teleoperation, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11248882)] 
-
-----
-
-## Citation
-
-If you find this repository useful, please consider citing this list:
-
-```
-@misc{dong2022implicitnerfslampaperlist,
-    title = {awesome-NeRF-and-3DGS-SLAM},
-    author = {Dong Li},
-    howpublished = {\url{https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM}},
-    year = {2022},
-    note = "[Online; accessed 08-December-2022]"
-}
-```
-
-## Acknowledgement
-
-We would like to express our appreciation for the repository cited in the paper:
-
-- How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.13255.pdf)]
