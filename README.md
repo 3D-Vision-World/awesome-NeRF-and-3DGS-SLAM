@@ -229,9 +229,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **HNI-SLAM**: Neural implicit SLAM for high quality reconstruction, *Computers & Graphics, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849326001068)]
 - **CHOW-SLAM**: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.01914)] [[Code](https://github.com/jinjidexiaohuoban/CHOW-SLAM)]
 - **PMET-SLAM**: Neural Implicit RGB-D SLAM With Photorealistic Mapping and Efficient Tracking, *TITS, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11663249)] [[Code](https://github.com/atat1010/code)]
-- **RoSe-SLAM**: Robust Semantic-Aware Gaussian Splatting SLAM from Dynamic Monocular Videos, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2608.29003)]
-- **LightSplat**: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2609.07274)]
-
+- Dynamic-Aware Neural Implicit SLAM for Robust Pose Estimation and Mapping in Challenging Environments, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11683795?casa_token=yYASx7HLyIwAAAAA:ZJvnSxPzMpKA6C-53MSf1Zj0ZXgYJWcx0YWvi4c_kXNcQKVIoCzgovjY9d_Vi44hiniB8S-Tz1M)]
 
 ---
 
@@ -520,6 +518,9 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **MS-SLAM**: Memory-augmented 3D Gaussian splatting SLAM for efficient robotic applications, *RAL, 2026*. [[Paper](https://link.springer.com/article/10.1007/s00371-026-04698-2)]
 - Uncertainty-Driven 3D Gaussian Splatting for Robust Real-Time RGB-D SLAM, *TASE, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11677162)]
 - **ROGS-SLAM**: Real-time accurate object-level simultaneous localization and realistic mapping based on 3DGS, *Information Sciences, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025526010261)]
+- **RoSe-SLAM**: Robust Semantic-Aware Gaussian Splatting SLAM from Dynamic Monocular Videos, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2608.29003)]
+- **LightSplat**: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2609.07274)]
+
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
