@@ -520,7 +520,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **ROGS-SLAM**: Real-time accurate object-level simultaneous localization and realistic mapping based on 3DGS, *Information Sciences, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025526010261)]
 - **RoSe-SLAM**: Robust Semantic-Aware Gaussian Splatting SLAM from Dynamic Monocular Videos, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2608.29003)]
 - **LightSplat**: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2609.07274)]
-
+- **PanoGS-SLAM**: Panoramic 3D Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.07274)]
+- **SCOUT-SLAM**: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.14634)] [[Code](https://github.com/kumaran-3527/SCOUT-SLAM)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
