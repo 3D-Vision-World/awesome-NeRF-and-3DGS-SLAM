@@ -69,6 +69,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - A Survey on Collaborative SLAM with 3D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2510.23988)]
 - What Is The Best 3D Scene Representation for Robotics? From Geometric to Foundation Models, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2512.03422)] [[awesome-repo](https://github.com/dtc111111/awesome-representation-for-robotics)]
 - Towards Next-Generation SLAM: A Survey on 3DGS-SLAM Focusing on Performance, Robustness, and Future Directions, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2602.04251)]
+- Neural World Modeling and Environment Representation for Robotic Autonomy: From SLAM to Generative World Models, *CRSL Innovation Journal, 2026*. [[Paper](https://scholar.google.com/scholar_url?url=https://www.innovationjournal.science/index.php/crsl-innovation-journal/article/download/73/43&hl=en&sa=X&d=8416954880687177909&ei=qQGvaraMGtSQieoPofCwgA8&scisig=AIVdB-yU8g0wmV-42izz435uSzsn&oi=scholaralrt&hist=NlsqUHcAAAAJ:11099267869461287412:AIVdB-zc5mzR7HToCE0kQmf3kBcq&html=&pos=6&folt=cit)]
+
 
 ## Benchmarks
 
