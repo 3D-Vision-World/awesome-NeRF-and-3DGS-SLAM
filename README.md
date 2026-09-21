@@ -527,6 +527,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **VGGT-GS SLAM**: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.19628)]
 - **RawSLAM**: Online HDR Gaussian SLAM from Linear Radiance, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.20589)]
 - **Cube-Splat**: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization, *ECCV, 2026*. [[Paper](https://arxiv.org/pdf/2609.21347)] [[Code](https://github.com/guoxf304/CubeSplat)]
+- **2D GauSS-MI**: Efficient Active Scene Reconstruction with Balanced Visual and Geometric Quality, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.21516v1)]
+
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
