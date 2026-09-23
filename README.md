@@ -532,7 +532,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Spatial-Aware Consistent Panoptic Gaussian SLAM for Open-Set Scene Understanding, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11692604)]
 - **Elevator-VIGS**: Separating Elevator Motion from Robot Motion in Visual-Inertial Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.23491)]
 - **ADE-SLAM**: Adaptive Dynamic-Efficient SLAM with 3D Gaussian Splatting, *International Symposium on Control Engineering and Robotics, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11681469)]
-
+- **ArborSplat**: Online Semantic Gaussian Splatting SLAM for Orchards, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.26315)]
+- Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.25746)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
