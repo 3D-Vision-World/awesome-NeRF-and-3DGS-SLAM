@@ -232,6 +232,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **CHOW-SLAM**: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.01914)] [[Code](https://github.com/jinjidexiaohuoban/CHOW-SLAM)]
 - **PMET-SLAM**: Neural Implicit RGB-D SLAM With Photorealistic Mapping and Efficient Tracking, *TITS, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11663249)] [[Code](https://github.com/atat1010/code)]
 - Dynamic-Aware Neural Implicit SLAM for Robust Pose Estimation and Mapping in Challenging Environments, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11683795?casa_token=yYASx7HLyIwAAAAA:ZJvnSxPzMpKA6C-53MSf1Zj0ZXgYJWcx0YWvi4c_kXNcQKVIoCzgovjY9d_Vi44hiniB8S-Tz1M)]
+- **CV-SLAM**: coupling vision-enhancement for NeRF-based RGB-D SLAM, *Multimedia Systems, 2026*. [[Paper](https://link.springer.com/article/10.1007/s00530-026-02658-3)]
 
 ---
 
@@ -696,6 +697,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **DynActiveGS**: Active Gaussian Splatting for Dynamic Scene Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.01178)]
 - **OccamView**: Object-Conditioned View Selection for Frame-Budgeted Active 3D Gaussian Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.16499)]
 - **Splat-CBF**: Safe Next-Best-View Control in 3D Gaussian-Splat Maps, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.23100)]
+- Uncertainty-Guided Active Gaussian Reconstruction with Explicit-Implicit Fusion, *arXiv, 2026*. [[Paper](https://openreview.net/pdf?id=HlnpgwoXH3)]
 
 ### Localization
 
