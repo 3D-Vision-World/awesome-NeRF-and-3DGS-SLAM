@@ -536,6 +536,10 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **ArborSplat**: Online Semantic Gaussian Splatting SLAM for Orchards, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.26315)]
 - Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.25746)]
 - **Geo2DGS‐SLAM**: Geometry‐Driven SLAM With 2D Gaussian Splatting, *CAAI Transactions on Intelligence Technology, 2026*. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cit2.70183)] [[Code](https://github.com/Able1231/Geo2DGS-SLAM)]
+- Manifold-Aware Spectral Compaction: A Graph Signal Processing Perspective on Online Gaussian Reduction for 3DGS SLAM, *ECCV, 2026*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37132-4_32)]
+- **GSA-SLAM**: An Efficient Gaussian Splatting SLAM Leveraging Scale-Adaptive and Anti-Alias Strategies, *IEEE 16th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11695489)]
+- **RRG-SLAM**: Real-time Reflection-aware Gaussian SLAM for Indoor Scenes, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.34527)]
+
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
