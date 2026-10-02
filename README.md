@@ -233,6 +233,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **PMET-SLAM**: Neural Implicit RGB-D SLAM With Photorealistic Mapping and Efficient Tracking, *TITS, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11663249)] [[Code](https://github.com/atat1010/code)]
 - Dynamic-Aware Neural Implicit SLAM for Robust Pose Estimation and Mapping in Challenging Environments, *TIM, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11683795?casa_token=yYASx7HLyIwAAAAA:ZJvnSxPzMpKA6C-53MSf1Zj0ZXgYJWcx0YWvi4c_kXNcQKVIoCzgovjY9d_Vi44hiniB8S-Tz1M)]
 - **CV-SLAM**: coupling vision-enhancement for NeRF-based RGB-D SLAM, *Multimedia Systems, 2026*. [[Paper](https://link.springer.com/article/10.1007/s00530-026-02658-3)]
+- HIGS: Hierarchical Implicit Grids for Joint Geometric and Semantic Scene Understanding, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.38620)] [[Code](https://existentialrobotics.org/HIGS_webpage/)]
 
 ---
 
@@ -262,6 +263,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **Hi-LOAM**: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping, *TMM, 2026*. [[Paper](https://arxiv.org/pdf/2604.01720)]
 - Implicit Point-to-Voxel LiDAR-IMU SLAM, *TASE, 2026*. [[Paper](https://ieeexplore.ieee.org/document/11480788)]
 - Decomposition of Neural Discrete Representations for Efficient LiDAR Odometry and Mapping, *TPAMI, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11668630)]
+
+
 
 ### Multimodal NeRF SLAM
 
