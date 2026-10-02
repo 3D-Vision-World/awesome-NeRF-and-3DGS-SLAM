@@ -702,6 +702,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **OccamView**: Object-Conditioned View Selection for Frame-Budgeted Active 3D Gaussian Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.16499)]
 - **Splat-CBF**: Safe Next-Best-View Control in 3D Gaussian-Splat Maps, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.23100)]
 - Uncertainty-Guided Active Gaussian Reconstruction with Explicit-Implicit Fusion, *arXiv, 2026*. [[Paper](https://openreview.net/pdf?id=HlnpgwoXH3)]
+- **TRACE**: Privacy-Preserving Next-Best-View Selection over Distributed 3D Gaussian-Splat Maps, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2610.00822)]
+
 
 ### Localization
 
