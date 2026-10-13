@@ -544,6 +544,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **GSA-SLAM**: An Efficient Gaussian Splatting SLAM Leveraging Scale-Adaptive and Anti-Alias Strategies, *IEEE 16th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11695489)]
 - **RRG-SLAM**: Real-time Reflection-aware Gaussian SLAM for Indoor Scenes, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.34527)]
 - Structure Gaussian Splatting SLAM, *ECCV, 2026*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37242-0_4)] [[Code](https://github.com/yanyan-li/StructureGS-SLAM)]
+- Reliability-aware LiDAR Gaussian splatting SLAM for large-scale mapping, *Computers & Graphics, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849326002529)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
