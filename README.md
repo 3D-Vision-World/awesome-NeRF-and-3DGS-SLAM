@@ -546,6 +546,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Structure Gaussian Splatting SLAM, *ECCV, 2026*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37242-0_4)] [[Code](https://github.com/yanyan-li/StructureGS-SLAM)]
 - Reliability-aware LiDAR Gaussian splatting SLAM for large-scale mapping, *Computers & Graphics, 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849326002529)]
 - **Physical SLAM**: Physics-aware Simultaneous Localisation and Mapping, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2610.17260)]
+- **ArborSplat**: Online Semantic Gaussian Splatting SLAM for Orchards, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.26315)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
@@ -596,6 +597,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **AquaFlow**: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.22906)]
 - **CGS-SLAM**: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.26868)]
 - **TCGSplat**: Temporal Confidence Guided 3D Gaussian Splatting for RGB-D SLAM, *arXiv, 2026*. [[Paper](https://assets-eu.researchsquare.com/files/rs-10579135/v1_covered_02483fc4-e5ab-4eca-b718-949ed0e05d3d.pdf?c=1787622981)] [[Code](https://github.com/gxcguxen/TCGSplat)]
+
 
 ### LiDAR-based Gaussian Splatting SLAM
 
