@@ -550,6 +550,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **ArborSplat**: Online Semantic Gaussian Splatting SLAM for Orchards, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.26315)]
 - **MoGe2-SLAM**: Outdoor Monocular 3D Gaussian Splatting SLAM with Absolute Scale, *Sensors, 2026*. [[Paper](https://www.mdpi.com/1424-8220/26/20/6388)]
 - Normal-aware simultaneous localization and mapping with 3D Gaussian splatting, *Neurocomputing, 2026*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226027669)]
+- **KFS4LAM**: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2610.22505)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
