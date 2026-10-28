@@ -553,6 +553,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **KFS4LAM**: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2610.22505)]
 - **FLoTS-SLAM**: Optical Flow-Derived Uncertainty for Monocular Dynamic SLAM with Two-Stage Optimization, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2610.23496)]
 - **HD-SLAM**: Hash-Grid Assisted Photometric-Geometric Decoupled Continuous Gaussian Splatting SLAM, *TRO, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11739309)]
+- **LingGS**: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2610.36853)]
+- **SG2 SLAM**: Spatial Geometry-Informed 3D Gaussian Splatting SLAM for Monocular Outdoor Navigation, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2610.36312)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
