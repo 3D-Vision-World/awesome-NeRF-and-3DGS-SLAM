@@ -237,6 +237,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **HIGS**: Hierarchical Implicit Grids for Joint Geometric and Semantic Scene Understanding, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.38620)] [[Code](https://existentialrobotics.org/HIGS_webpage/)]
 - **KN-LIO**: Kinematics and Neural Field Coupled LiDAR-Inertial Odometry, *TIP, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11715968/)] [[Code](https://github.com/peterWon/KN-LIO)]
 
+- **OpenICE-SLAM**: Open-Set Neural Implicit Encoding for Semantic SLAM. [[Paper](https://isotta-magistrali.github.io/projects_folder/OpenICE-SLAM.pdf)]
+
 ---
 
 ### Lidar-SLAM
