@@ -236,8 +236,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **CV-SLAM**: coupling vision-enhancement for NeRF-based RGB-D SLAM, *Multimedia Systems, 2026*. [[Paper](https://link.springer.com/article/10.1007/s00530-026-02658-3)]
 - **HIGS**: Hierarchical Implicit Grids for Joint Geometric and Semantic Scene Understanding, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.38620)] [[Code](https://existentialrobotics.org/HIGS_webpage/)]
 - **KN-LIO**: Kinematics and Neural Field Coupled LiDAR-Inertial Odometry, *TIP, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11715968/)] [[Code](https://github.com/peterWon/KN-LIO)]
-
-- **OpenICE-SLAM**: Open-Set Neural Implicit Encoding for Semantic SLAM. [[Paper](https://isotta-magistrali.github.io/projects_folder/OpenICE-SLAM.pdf)]
+- **OpenICE-SLAM**: Open-Set Neural Implicit Encoding for Semantic SLAMy, *arXiv, 2026*. [[Paper](https://isotta-magistrali.github.io/projects_folder/OpenICE-SLAM.pdf)]
 
 ---
 
@@ -608,7 +607,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **AquaFlow**: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.22906)]
 - **CGS-SLAM**: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.26868)]
 - **TCGSplat**: Temporal Confidence Guided 3D Gaussian Splatting for RGB-D SLAM, *arXiv, 2026*. [[Paper](https://assets-eu.researchsquare.com/files/rs-10579135/v1_covered_02483fc4-e5ab-4eca-b718-949ed0e05d3d.pdf?c=1787622981)] [[Code](https://github.com/gxcguxen/TCGSplat)]
-
+- **DrawSplat**: Atlanta World-Guided Implicit Gaussian SLAM for Indoor Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2610.41602)]
+- **DRG-SLAM**: Dynamic-Aware Gaussian Splatting SLAM for RGB-D Scenes, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11753973)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
