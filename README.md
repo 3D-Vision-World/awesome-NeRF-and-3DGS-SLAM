@@ -535,7 +535,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **RawSLAM**: Online HDR Gaussian SLAM from Linear Radiance, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.20589)]
 - **Cube-Splat**: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization, *ECCV, 2026*. [[Paper](https://arxiv.org/pdf/2609.21347)] [[Code](https://github.com/guoxf304/CubeSplat)]
 - **2D GauSS-MI**: Efficient Active Scene Reconstruction with Balanced Visual and Geometric Quality, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.21516v1)]
-- **BayesianGS-SLAM**: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.24140)]
+- **BayesianGS-SLAM**: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation, *RAL, 2026*. [[Paper](https://arxiv.org/pdf/2609.24140)] [[Code](https://github.com/Lab-of-AI-and-Robotics/BayesianGS-SLAM)]
 - Spatial-Aware Consistent Panoptic Gaussian SLAM for Open-Set Scene Understanding, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11692604)]
 - **Elevator-VIGS**: Separating Elevator Motion from Robot Motion in Visual-Inertial Gaussian Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2609.23491)]
 - **ADE-SLAM**: Adaptive Dynamic-Efficient SLAM with 3D Gaussian Splatting, *International Symposium on Control Engineering and Robotics, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11681469)]
