@@ -560,7 +560,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **UniGS-SLAM**: Monocular Gaussian SLAM with Enhanced Geometry and Open-Vocabulary Semantics, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.02051)] [[Website](https://3dagentworld.github.io/UniGS-SLAM/)]
 - **EndoS3**: Endoscopic Semantic Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.04358)]
 - **SettleSplat**: Monocular Gaussian Mapping under In-View Scene Changes, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.04195)]
-
+- **DPGS-SLAM**: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.12038)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
