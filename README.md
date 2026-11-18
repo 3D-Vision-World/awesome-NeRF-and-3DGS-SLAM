@@ -638,6 +638,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **MCGS-SLAM**: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping, *ICRA, 2026*. [[Paper](https://arxiv.org/pdf/2509.14191)] [[Website](https://anonymous.4open.science/w/MCGSSLAM-A8F8/)]
 - **MANG-SLAM**: Multi-Agents Neural Submap and Gaussian Representation for Dense Mapping, *ICRA, 2026*. [[Paper](Todo)]
 - Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.09146)] [[Code](https://github.com/dtc111111/MSN-SLAM)]
+- **CoSphere-SLAM:** Multi-Agent Panoramic Gaussian Splatting SLAM with Spherical Loop Closure, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.22235))] [[Website](https://cosphere-slam.github.io/)]
 
 ### Manipulation/RL
 
