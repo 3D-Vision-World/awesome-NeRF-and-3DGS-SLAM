@@ -614,6 +614,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **TCGSplat**: Temporal Confidence Guided 3D Gaussian Splatting for RGB-D SLAM, *arXiv, 2026*. [[Paper](https://assets-eu.researchsquare.com/files/rs-10579135/v1_covered_02483fc4-e5ab-4eca-b718-949ed0e05d3d.pdf?c=1787622981)] [[Code](https://github.com/gxcguxen/TCGSplat)]
 - **DrawSplat**: Atlanta World-Guided Implicit Gaussian SLAM for Indoor Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2610.41602)]
 - **DRG-SLAM**: Dynamic-Aware Gaussian Splatting SLAM for RGB-D Scenes, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11753973)]
+- **Facet-SLAM**: Real-Time Triangle Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.23935)] [[Code](https://github.com/edward62740/Facet-SLAM)] [[Website](https://edward62740.github.io/facetslam/)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
