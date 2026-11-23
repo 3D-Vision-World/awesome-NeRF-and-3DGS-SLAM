@@ -562,6 +562,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **SettleSplat**: Monocular Gaussian Mapping under In-View Scene Changes, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.04195)]
 - **DPGS-SLAM**: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.12038)]
 - **GEMOR-GS**: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.13528)] [[Code](https://github.com/Vector-4D/gemor-gs)]
+- **VCS-SLAM**: Visibility-Consistent Semantic Fusion for 3D Gaussian SLAM, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11802869)] [[Code](https://github.com/jhakrraman/VCS-SLAM)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
