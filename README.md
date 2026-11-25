@@ -617,6 +617,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **DRG-SLAM**: Dynamic-Aware Gaussian Splatting SLAM for RGB-D Scenes, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11753973)]
 - **Facet-SLAM**: Real-Time Triangle Splatting SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.23935)] [[Code](https://github.com/edward62740/Facet-SLAM)] [[Website](https://edward62740.github.io/facetslam/)]
 - **DUAL-GS**: Dynamic-Uncertainty-Aware Gaussian SLAM for Mobile Robots With LiDAR-Inertial-Camera Fusion, *TMC, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11805938)]
+- **GOLD-SLAM**: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.32335)] [[Code](https://github.com/InSAI-Lab/GOLD-SLAM)] [[Website](https://insailab.org/GOLD-SLAM/)]
 
 ### LiDAR-based Gaussian Splatting SLAM
 
