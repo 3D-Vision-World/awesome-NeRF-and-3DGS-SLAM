@@ -643,6 +643,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **MANG-SLAM**: Multi-Agents Neural Submap and Gaussian Representation for Dense Mapping, *ICRA, 2026*. [[Paper](Todo)]
 - Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.09146)] [[Code](https://github.com/dtc111111/MSN-SLAM)]
 - **CoSphere-SLAM:** Multi-Agent Panoramic Gaussian Splatting SLAM with Spherical Loop Closure, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.22235))] [[Website](https://cosphere-slam.github.io/)]
+- **CADENCE**: Sensor-Grounded World-Consistent Gaussian SLAM for Collaborative Mobile Reconstruction, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.34549))]
 
 ### Manipulation/RL
 
@@ -771,6 +772,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 * Camera Pose Refinement via 3D Gaussian Splatting, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.17876)]
 * Semantic-Augmented 3D Gaussian Splatting for Visual Localization in Complex Indoor Environments, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11305116)]
 * CurvLoc: Surface Curvature Prompted Gaussian Splatting for Visual Localization, *IJCV, 2025*. [[Paper](https://dl.acm.org/doi/abs/10.1007/s11263-026-02748-9)]
+- MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2611.34932)]
 
 ### Re-localization
 
